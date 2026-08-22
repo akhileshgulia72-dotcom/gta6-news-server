@@ -7,14 +7,19 @@
     "status": "Confirmed",
     "image_url": "https://...",
     "description": "...",
-    "top_speed": "Unknown",
-    "acceleration": "Unknown",
-    "handling": "Unknown",
-    "braking": "Unknown",
-    "drivetrain": "Unknown",
+    "top_speed": "320 km/h",
+    "acceleration": "0-100 km/h in 3.8 sec",
+    "handling": "Excellent",
+    "braking": "High Performance",
+    "drivetrain": "RWD",
     "seating": "2",
-    "price": "Unknown",
-    "features": [],
+    "price": "$180,000",
+    "features": [
+      "Sport suspension",
+      "High-performance engine",
+      "Aerodynamic body design",
+      "Advanced braking system"
+    ],
     "is_premium": false,
     "is_active": true
   }
