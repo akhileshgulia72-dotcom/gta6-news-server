@@ -1,0 +1,50 @@
+[
+  {
+    "id": "1",
+    "name": "Beachfront Villa",
+    "type": "Villa",
+    "location": "Vice City Beach",
+    "price": "Unknown",
+    "status": "Rumored",
+    "image_url": "https://your-image-url.com/property1.jpg",
+    "description": "A luxury beachfront property expected to be part of the GTA 6 world.",
+    "features": [
+      "Beach access",
+      "Luxury interior",
+      "Private parking"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "2",
+    "name": "Downtown Penthouse",
+    "type": "Penthouse",
+    "location": "Vice City Downtown",
+    "price": "Unknown",
+    "status": "Rumored",
+    "image_url": "https://your-image-url.com/property2.jpg",
+    "description": "A high-end penthouse located in the heart of Vice City.",
+    "features": [
+      "City view",
+      "Luxury interior",
+      "Private access"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "3",
+    "name": "Suburban Residence",
+    "type": "Residence",
+    "location": "Vice City Suburbs",
+    "price": "Unknown",
+    "status": "Rumored",
+    "image_url": "https://your-image-url.com/property3.jpg",
+    "description": "A residential property located outside the central city area.",
+    "features": [
+      "Garage",
+      "Residential area",
+      "Private property"
+    ],
+    "is_active": true
+  }
+]
