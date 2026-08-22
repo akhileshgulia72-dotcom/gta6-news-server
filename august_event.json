@@ -1,17 +1,25 @@
 {
+  "event_enabled": true,
   "event_date": "2026-08-27T00:00:00",
+
+  "event_status": "COUNTDOWN ACTIVE",
+  "event_label": "SPECIAL EVENT",
+
   "event_title": "COUNTDOWN TO GTA VI",
   "event_live_title": "THE EVENT IS LIVE",
+
   "event_subtitle": "Something special is coming on August 27.",
   "event_live_subtitle": "The wait is over. Explore the latest GTA 6 content.",
 
   "trailer_video_id": "VQRLujxTm3c",
 
+  "event_intel_enabled": true,
+  "event_intel_title": "VICE CITY TRANSMISSION",
+  "event_intel_text": "Stay connected. New information and updates may arrive during this special GTA 6 event.",
+
   "latest_updates_enabled": true,
   "watch_trailer_enabled": true,
   "explore_enabled": true,
-
-  "event_enabled": true,
 
   "latest_updates_title": "LATEST",
   "latest_updates_subtitle": "UPDATES",
