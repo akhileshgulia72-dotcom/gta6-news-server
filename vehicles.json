@@ -1,0 +1,21 @@
+[
+  {
+    "id": "1",
+    "name": "Example Vehicle",
+    "manufacturer": "Example",
+    "category": "Sports",
+    "status": "Confirmed",
+    "image_url": "https://...",
+    "description": "...",
+    "top_speed": "Unknown",
+    "acceleration": "Unknown",
+    "handling": "Unknown",
+    "braking": "Unknown",
+    "drivetrain": "Unknown",
+    "seating": "2",
+    "price": "Unknown",
+    "features": [],
+    "is_premium": false,
+    "is_active": true
+  }
+]
