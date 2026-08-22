@@ -2,5 +2,9 @@
   {
   "id": 1,
   "image_url": "https://zyafvnmsaizlqmoraiuj.supabase.co/storage/v1/object/public/news-images/10.jpg"
+},
+   {
+  "id": 2,
+  "image_url": "https://zyafvnmsaizlqmoraiuj.supabase.co/storage/v1/object/public/news-images/14.jpg"
 }
 ]
