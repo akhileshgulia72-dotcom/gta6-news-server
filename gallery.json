@@ -1,0 +1,10 @@
+[
+  {
+    "id": 1,
+    "image_url": "https://your-image-url.com/image1.jpg"
+  },
+  {
+    "id": 2,
+    "image_url": "https://your-image-url.com/image2.jpg"
+  }
+]
