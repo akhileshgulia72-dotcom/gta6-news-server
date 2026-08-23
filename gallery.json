@@ -30,5 +30,25 @@
   {
     "id": 8,
     "image_url": "https://otzelnjvmfmhffzpshxa.supabase.co/storage/v1/object/sign/gallery/Jason_Duval_06.jpg?token=eyJraWQiOiJzdG9yYWdlLXVybC1zaWduaW5nLWtleV9mM2E4NGJjZC1hZjY4LTQwYjUtYmJkMy0xNjc1OTFmNmZlN2IiLCJhbGciOiJIUzI1NiJ9.eyJ1cmwiOiJnYWxsZXJ5L0phc29uX0R1dmFsXzA2LmpwZyIsInNjb3BlIjoiZG93bmxvYWQiLCJpYXQiOjE3ODc0OTU2NzgsImV4cCI6NDk0MTA5NTY3OH0.t-QoVHDJHRNvpO69L9t-B72GGw7dWgMUL9uTfEx8o8A"
+  },
+   {
+    "id": 9,
+    "image_url": "Lucia_Caminos_01.jpg URL"
+  },
+  {
+    "id": 10,
+    "image_url": "Lucia_Caminos_02.jpg URL"
+  },
+  {
+    "id": 11,
+    "image_url": "Lucia_Caminos_03.jpg URL"
+  },
+  {
+    "id": 12,
+    "image_url": "Lucia_Caminos_05.jpg URL"
+  },
+  {
+    "id": 13,
+    "image_url": "Lucia_Caminos_06.jpg URL"
   }
 ]
