@@ -2,16 +2,17 @@
   {
     "id": "1",
     "name": "Beachfront Villa",
-    "type": "Villaa",
+    "type": "Villa",
     "location": "Vice City Beach",
     "price": "Unknown",
     "status": "Rumored",
     "image_url": "https://zyafvnmsaizlqmoraiuj.supabase.co/storage/v1/object/public/news-images/11.jpg",
-    "description": "A luxury beachfront property expected to be part of the GTA 6 world.",
+    "description": "A luxury beachfront property inspired by the glamorous coastal lifestyle of Vice City.",
     "features": [
       "Beach access",
       "Luxury interior",
-      "Private parking"
+      "Private parking",
+      "Ocean view"
     ],
     "is_active": true
   },
@@ -22,12 +23,13 @@
     "location": "Vice City Downtown",
     "price": "Unknown",
     "status": "Rumored",
-    "image_url": "https://YOUR_REAL_IMAGE_URL_2.jpg",
-    "description": "A high-end penthouse located in the heart of Vice City.",
+    "image_url": "https://zyafvnmsaizlqmoraiuj.supabase.co/storage/v1/object/public/news-images/12.jpg",
+    "description": "A high-end penthouse located above the busy streets of downtown Vice City.",
     "features": [
-      "City view",
+      "City skyline view",
       "Luxury interior",
-      "Private access"
+      "Private elevator",
+      "Rooftop access"
     ],
     "is_active": true
   },
@@ -38,12 +40,166 @@
     "location": "Vice City Suburbs",
     "price": "Unknown",
     "status": "Rumored",
-    "image_url": "https://YOUR_REAL_IMAGE_URL_3.jpg",
-    "description": "A residential property located outside the central city area.",
+    "image_url": "https://zyafvnmsaizlqmoraiuj.supabase.co/storage/v1/object/public/news-images/13.jpg",
+    "description": "A quiet residential property located away from the crowded city center.",
     "features": [
       "Garage",
-      "Residential area",
-      "Private property"
+      "Private driveway",
+      "Residential neighborhood",
+      "Outdoor space"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "4",
+    "name": "Ocean Drive Apartment",
+    "type": "Apartment",
+    "location": "Ocean Drive",
+    "price": "Unknown",
+    "status": "Rumored",
+    "image_url": "https://zyafvnmsaizlqmoraiuj.supabase.co/storage/v1/object/public/news-images/14.jpg",
+    "description": "A stylish apartment surrounded by Vice City's nightlife and famous beachfront streets.",
+    "features": [
+      "Ocean view",
+      "Central location",
+      "Modern interior",
+      "Nearby nightlife"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "5",
+    "name": "Port Gellhorn Safehouse",
+    "type": "Safehouse",
+    "location": "Port Gellhorn",
+    "price": "Unknown",
+    "status": "Rumored",
+    "image_url": "https://zyafvnmsaizlqmoraiuj.supabase.co/storage/v1/object/public/news-images/15.jpg",
+    "description": "A potential hideout located in the coastal region of Port Gellhorn.",
+    "features": [
+      "Private garage",
+      "Storage space",
+      "Remote location",
+      "Quick road access"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "6",
+    "name": "Leonida Keys Mansion",
+    "type": "Mansion",
+    "location": "Leonida Keys",
+    "price": "Unknown",
+    "status": "Rumored",
+    "image_url": "https://zyafvnmsaizlqmoraiuj.supabase.co/storage/v1/object/public/news-images/16.jpg",
+    "description": "A large waterfront mansion located among the islands and waterways of Leonida.",
+    "features": [
+      "Private dock",
+      "Waterfront view",
+      "Large garage",
+      "Swimming pool"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "7",
+    "name": "Downtown Loft",
+    "type": "Loft",
+    "location": "Vice City Downtown",
+    "price": "Unknown",
+    "status": "Unconfirmed",
+    "image_url": "https://zyafvnmsaizlqmoraiuj.supabase.co/storage/v1/object/public/news-images/17.jpg",
+    "description": "A modern urban loft potentially located in one of Vice City's commercial districts.",
+    "features": [
+      "Open-plan interior",
+      "City view",
+      "Parking",
+      "Central location"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "8",
+    "name": "Countryside Farmhouse",
+    "type": "Farmhouse",
+    "location": "Leonida Countryside",
+    "price": "Unknown",
+    "status": "Rumored",
+    "image_url": "https://zyafvnmsaizlqmoraiuj.supabase.co/storage/v1/object/public/news-images/18.jpg",
+    "description": "A secluded rural property surrounded by the open landscapes of Leonida.",
+    "features": [
+      "Large land area",
+      "Storage barn",
+      "Vehicle parking",
+      "Remote location"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "9",
+    "name": "Vice City Marina House",
+    "type": "Waterfront House",
+    "location": "Vice City Marina",
+    "price": "Unknown",
+    "status": "Rumored",
+    "image_url": "https://zyafvnmsaizlqmoraiuj.supabase.co/storage/v1/object/public/news-images/19.jpg",
+    "description": "A premium waterfront residence overlooking the boats and nightlife of the marina.",
+    "features": [
+      "Private dock",
+      "Boat access",
+      "Waterfront terrace",
+      "Luxury parking"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "10",
+    "name": "Industrial Warehouse",
+    "type": "Warehouse",
+    "location": "Vice City Industrial District",
+    "price": "Unknown",
+    "status": "Rumored",
+    "image_url": "https://zyafvnmsaizlqmoraiuj.supabase.co/storage/v1/object/public/news-images/20.jpg",
+    "description": "A large industrial property that could potentially serve as a storage or business location.",
+    "features": [
+      "Large storage area",
+      "Vehicle access",
+      "Industrial location",
+      "Secure entrance"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "11",
+    "name": "Luxury Hilltop Estate",
+    "type": "Estate",
+    "location": "Northern Leonida",
+    "price": "Unknown",
+    "status": "Unconfirmed",
+    "image_url": "https://zyafvnmsaizlqmoraiuj.supabase.co/storage/v1/object/public/news-images/21.jpg",
+    "description": "A large luxury estate positioned away from the city with expansive views.",
+    "features": [
+      "Large property",
+      "Private parking",
+      "Swimming pool",
+      "Panoramic views"
+    ],
+    "is_active": true
+  },
+  {
+    "id": "12",
+    "name": "Neon District Condo",
+    "type": "Condominium",
+    "location": "Vice City Entertainment District",
+    "price": "Unknown",
+    "status": "Rumored",
+    "image_url": "https://zyafvnmsaizlqmoraiuj.supabase.co/storage/v1/object/public/news-images/22.jpg",
+    "description": "A modern condo located near Vice City's entertainment, restaurants, and nightlife.",
+    "features": [
+      "Modern interior",
+      "Entertainment district",
+      "City view",
+      "Private parking"
     ],
     "is_active": true
   }
