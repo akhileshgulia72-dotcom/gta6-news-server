@@ -1,5 +1,30 @@
 [
   {
+  "id": "11",
+  "name": "Bravado Buffalo",
+  "manufacturer": "Bravado",
+  "category": "Sports",
+  "status": "Expected",
+  "image_url": "https://otzelnjvmfmhffzpshxa.supabase.co/storage/v1/object/public/propertiees/ChatGPT%20Image%20Aug%2026,%202026,%2009_50_55%20AM.png",
+  "description": "A powerful American sports sedan designed for high-speed street driving, aggressive acceleration and everyday performance across Vice City and Leonida.",
+  "top_speed": "265 km/h",
+  "acceleration": "0-100 km/h in 4.6 sec",
+  "handling": "Sport Tuned",
+  "braking": "High Performance",
+  "drivetrain": "RWD",
+  "seating": "4",
+  "price": "$135,000",
+  "features": [
+    "Aggressive sports sedan styling",
+    "High-performance engine",
+    "Four-seat interior",
+    "Sport-tuned suspension",
+    "Performance braking system"
+  ],
+  "is_premium": false,
+  "is_active": true
+},
+  {
     "id": "1",
     "name": "Vapid Stanier",
     "manufacturer": "Vapid",
@@ -230,7 +255,7 @@
   "manufacturer": "Pegassi",
   "category": "Super",
   "status": "Expected",
-  "image_url": "https://otzelnjvmfmhffzpshxa.supabase.co/storage/v1/object/public/images/ULTIMATE_EDITION_GROTTI_CHEETAH_01.0a.wy3s_ogjey.jpg",
+  "image_url": "https://otzelnjvmfmhffzpshxa.supabase.co/storage/v1/object/public/propertiees/ChatGPT%20Image%20Aug%2026,%202026,%2009_48_43%20AM.png",
   "description": "A striking exotic supercar built for extreme speed, sharp handling and making a statement on the streets of Vice City.",
   "top_speed": "330 km/h",
   "acceleration": "0-100 km/h in 3.1 sec",
