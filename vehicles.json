@@ -172,5 +172,81 @@
     ],
     "is_premium": true,
     "is_active": true
-  }
+  },
+  
+{
+  "id": "8",
+  "name": "Declasse Tulip",
+  "manufacturer": "Declasse",
+  "category": "Muscle",
+  "status": "Expected",
+  "image_url": "https://otzelnjvmfmhffzpshxa.supabase.co/storage/v1/object/public/propertiees/ChatGPT%20Image%20Aug%2026,%202026,%2009_43_52%20AM.png",
+  "description": "A classic American muscle sedan built for powerful street performance, combining aggressive styling with practical four-seat usability.",
+  "top_speed": "235 km/h",
+  "acceleration": "0-100 km/h in 5.8 sec",
+  "handling": "Good",
+  "braking": "Performance",
+  "drivetrain": "RWD",
+  "seating": "4",
+  "price": "$85,000",
+  "features": [
+    "Classic muscle sedan design",
+    "Powerful rear-wheel-drive setup",
+    "Four-door body style",
+    "Performance-focused engine",
+    "Customizable appearance"
+  ],
+  "is_premium": false,
+  "is_active": true
+},
+{
+  "id": "9",
+  "name": "Bravado Bison",
+  "manufacturer": "Bravado",
+  "category": "SUV",
+  "status": "Expected",
+  "image_url": "https://otzelnjvmfmhffzpshxa.supabase.co/storage/v1/object/public/propertiees/ChatGPT%20Image%20Aug%2026,%202026,%2009_45_42%20AM.png",
+  "description": "A large and capable American SUV designed for city cruising, highway travel and tackling the rougher roads of Leonida.",
+  "top_speed": "210 km/h",
+  "acceleration": "0-100 km/h in 6.9 sec",
+  "handling": "Stable",
+  "braking": "Strong",
+  "drivetrain": "AWD",
+  "seating": "5",
+  "price": "$68,000",
+  "features": [
+    "Spacious five-seat interior",
+    "All-wheel-drive capability",
+    "High ground clearance",
+    "Suitable for city and off-road driving",
+    "Large cargo capacity"
+  ],
+  "is_premium": false,
+  "is_active": true
+},
+{
+  "id": "10",
+  "name": "Pegassi Infernus",
+  "manufacturer": "Pegassi",
+  "category": "Super",
+  "status": "Expected",
+  "image_url": "https://otzelnjvmfmhffzpshxa.supabase.co/storage/v1/object/public/images/ULTIMATE_EDITION_GROTTI_CHEETAH_01.0a.wy3s_ogjey.jpg",
+  "description": "A striking exotic supercar built for extreme speed, sharp handling and making a statement on the streets of Vice City.",
+  "top_speed": "330 km/h",
+  "acceleration": "0-100 km/h in 3.1 sec",
+  "handling": "Excellent",
+  "braking": "Ultra High Performance",
+  "drivetrain": "AWD",
+  "seating": "2",
+  "price": "$680,000",
+  "features": [
+    "Exotic supercar styling",
+    "Extreme acceleration",
+    "Advanced aerodynamic design",
+    "High-performance braking",
+    "Premium interior"
+  ],
+  "is_premium": true,
+  "is_active": true
+}
 ]
