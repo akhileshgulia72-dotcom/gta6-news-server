@@ -1,29 +1,5 @@
 [
-  {
-  "id": "15",
-  "name": "Annis Elegy",
-  "manufacturer": "Annis",
-  "category": "Sports",
-  "status": "Expected",
-  "image_url": "https://otzelnjvmfmhffzpshxa.supabase.co/storage/v1/object/public/propertiees/ChatGPT%20Image%20Aug%2026,%202026,%2010_07_41%20AM.png",
-  "description": "A sleek Japanese-inspired sports coupe built for fast acceleration, precise cornering and high-speed cruising through Vice City and the highways of Leonida.",
-  "top_speed": "305 km/h",
-  "acceleration": "0-100 km/h in 3.5 sec",
-  "handling": "Excellent",
-  "braking": "High Performance",
-  "drivetrain": "AWD",
-  "seating": "2",
-  "price": "$245,000",
-  "features": [
-    "Japanese-inspired sports coupe styling",
-    "Twin-turbo performance potential",
-    "Advanced all-wheel-drive system",
-    "Sharp cornering capability",
-    "Customizable performance design"
-  ],
-  "is_premium": true,
-  "is_active": true
-},
+  
   {
   "id": "14",
   "name": "Übermacht Sentinel",
@@ -49,31 +25,7 @@
   "is_premium": false,
   "is_active": true
 },
-  {
-  "id": "13",
-  "name": "Dewbauchee Rapid GT",
-  "manufacturer": "Dewbauchee",
-  "category": "Sports",
-  "status": "Expected",
-  "image_url": "https://otzelnjvmfmhffzpshxa.supabase.co/storage/v1/object/public/propertiees/ChatGPT%20Image%20Aug%2026,%202026,%2010_06_01%20AM.png",
-  "description": "A refined British-inspired grand tourer combining luxury styling, strong acceleration and confident high-speed performance for cruising through Vice City and Leonida.",
-  "top_speed": "295 km/h",
-  "acceleration": "0-100 km/h in 3.9 sec",
-  "handling": "Excellent",
-  "braking": "High Performance",
-  "drivetrain": "RWD",
-  "seating": "2",
-  "price": "$225,000",
-  "features": [
-    "Luxury grand tourer styling",
-    "High-performance engine",
-    "Sharp aerodynamic body",
-    "Premium two-seat cabin",
-    "Sport-tuned suspension"
-  ],
-  "is_premium": true,
-  "is_active": true
-},
+ 
   {
   "id": "12",
   "name": "Pfister Comet",
@@ -174,6 +126,31 @@
     "is_active": true
   },
   {
+  "id": "15",
+  "name": "Annis Elegy",
+  "manufacturer": "Annis",
+  "category": "Sports",
+  "status": "Expected",
+  "image_url": "https://otzelnjvmfmhffzpshxa.supabase.co/storage/v1/object/public/propertiees/ChatGPT%20Image%20Aug%2026,%202026,%2010_09_40%20AM.png",
+  "description": "A sleek Japanese-inspired sports coupe built for fast acceleration, precise cornering and high-speed cruising through Vice City and the highways of Leonida.",
+  "top_speed": "305 km/h",
+  "acceleration": "0-100 km/h in 3.5 sec",
+  "handling": "Excellent",
+  "braking": "High Performance",
+  "drivetrain": "AWD",
+  "seating": "2",
+  "price": "$245,000",
+  "features": [
+    "Japanese-inspired sports coupe styling",
+    "Twin-turbo performance potential",
+    "Advanced all-wheel-drive system",
+    "Sharp cornering capability",
+    "Customizable performance design"
+  ],
+  "is_premium": true,
+  "is_active": true
+},
+  {
     "id": "3",
     "name": "Vapid Buggy",
     "manufacturer": "Vapid",
@@ -248,6 +225,31 @@
     "is_premium": true,
     "is_active": true
   },
+   {
+  "id": "13",
+  "name": "Dewbauchee Rapid GT",
+  "manufacturer": "Dewbauchee",
+  "category": "Sports",
+  "status": "Expected",
+  "image_url": "https://otzelnjvmfmhffzpshxa.supabase.co/storage/v1/object/public/propertiees/ChatGPT%20Image%20Aug%2026,%202026,%2010_06_01%20AM.png",
+  "description": "A refined British-inspired grand tourer combining luxury styling, strong acceleration and confident high-speed performance for cruising through Vice City and Leonida.",
+  "top_speed": "295 km/h",
+  "acceleration": "0-100 km/h in 3.9 sec",
+  "handling": "Excellent",
+  "braking": "High Performance",
+  "drivetrain": "RWD",
+  "seating": "2",
+  "price": "$225,000",
+  "features": [
+    "Luxury grand tourer styling",
+    "High-performance engine",
+    "Sharp aerodynamic body",
+    "Premium two-seat cabin",
+    "Sport-tuned suspension"
+  ],
+  "is_premium": true,
+  "is_active": true
+},
   {
     "id": "6",
     "name": "Vapid Ganado Retro Build",
