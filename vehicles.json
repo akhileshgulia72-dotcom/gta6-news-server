@@ -1,5 +1,30 @@
 [
   {
+  "id": "12",
+  "name": "Pfister Comet",
+  "manufacturer": "Pfister",
+  "category": "Sports",
+  "status": "Expected",
+  "image_url": "https://otzelnjvmfmhffzpshxa.supabase.co/storage/v1/object/public/propertiees/ChatGPT%20Image%20Aug%2026,%202026,%2009_54_11%20AM.png",
+  "description": "A lightweight, rear-engine sports car built for fast highway runs, sharp cornering and stylish cruising through Vice City and the wider state of Leonida.",
+  "top_speed": "285 km/h",
+  "acceleration": "0-100 km/h in 3.8 sec",
+  "handling": "Excellent",
+  "braking": "High Performance",
+  "drivetrain": "RWD",
+  "seating": "2",
+  "price": "$185,000",
+  "features": [
+    "Rear-engine sports car design",
+    "Lightweight performance chassis",
+    "Sharp cornering ability",
+    "High-performance braking",
+    "Premium two-seat interior"
+  ],
+  "is_premium": true,
+  "is_active": true
+},
+  {
   "id": "11",
   "name": "Bravado Buffalo",
   "manufacturer": "Bravado",
