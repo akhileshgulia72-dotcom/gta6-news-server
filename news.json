@@ -169,18 +169,6 @@
     "is_featured": true
   },
   {
-    "id": 3,
-    "created_at": "2026-08-08T13:20:44+00:00",
-    "title": "GTA 6 Physical Edition Won't Include a Disc",
-    "description": "GTA 6's physical retail edition is expected to use a download code instead of a traditional game disc, marking another major shift toward digital game distribution.",
-    "image_url": "https://www.rockstargames.com/VI/_next/static/media/ULTIMATE_EDITION_SAFEHOUSE_VEHICLES_03.0c9.qtpdi.tf..jpg?akim=1&imdensity=1&imwidth=640",
-    "source": "GTA 6 Companion",
-    "article_content": "Grand Theft Auto VI is taking a different approach to physical game releases. Take-Two CEO Strauss Zelnick has defended the decision to sell physical copies of GTA 6 without a traditional disc.\n\nInstead, physical retail boxes will contain a download code that allows players to download the game digitally. Zelnick explained that more than 90% of Take-Two's business is now digital, making traditional discs less important for most players.\n\nThe decision has already sparked discussion among GTA fans, particularly collectors who prefer having an actual game disc inside their physical case.\n\nDespite the shift, physical retail editions are not disappearing completely. Players will still be able to purchase a physical GTA 6 box, but the game itself will be delivered through a digital download.\n\nGTA 6 is scheduled to launch on November 19, 2026, for PlayStation 5 and Xbox Series X|S.\n\nThe move highlights how dramatically the gaming industry has changed since GTA V launched in 2013, when physical discs were much more common.",
-    "category": "Official",
-    "published_at": "2026-08-08T13:21:33Z",
-    "is_featured": false
-  },
-  {
     "id": 2,
     "created_at": "2026-08-07T03:09:02+00:00",
     "title": "GTA 6 Pre-Orders Are 'Unprecedented and Astonishing'",
@@ -191,17 +179,5 @@
     "category": "News",
     "published_at": "2026-08-07T03:09:49Z",
     "is_featured": true
-  },
-  {
-    "id": 5,
-    "created_at": "2026-08-14T13:31:28+00:00",
-    "title": "Meet the Characters of GTA 6",
-    "description": "Rockstar has revealed a colorful cast surrounding protagonists Jason Duval and Lucia Caminos, with connections spanning Vice City, the Leonida Keys and the criminal world of Leonida.",
-    "image_url": "https://www.rockstargames.com/VI/_next/static/media/ULTIMATE_EDITION_VICE_CITY_STYLE_01.0.u1gt~99yzks.jpg",
-    "source": "GTA 6 Companion",
-    "article_content": "Grand Theft Auto VI introduces two central protagonists: Jason Duval and Lucia Caminos. Their relationship sits at the heart of the game's story as they become involved in a criminal conspiracy stretching across the state of Leonida. Rockstar's second trailer shows the pair relying on each other after a job goes wrong.\n\nLucia Caminos is one of the game's two protagonists. After serving time in prison, she is determined to build a better life. Her partnership with Jason becomes a key part of the story.\n\nJason Duval is Lucia's partner and a criminal connected to the Leonida Keys. Rockstar describes Jason and Lucia as a pair who have always known that the odds are against them.\n\nThe world around them is filled with other important characters. Cal Hampton is connected to Jason and Brian Heder, while Brian Heder is an established figure in the Leonida Keys. Boobie Ike has built a business empire in Vice City, and Dre'Quan Priest is connected to the city's music scene.\n\nThe cast also includes Real Dimez, the musical duo of Bae-Luxe and Roxy, and Raul Bautista, an experienced bank robber looking for people willing to take bigger risks.\n\nTogether, these characters create a network of criminals, entrepreneurs, musicians and opportunists that Jason and Lucia must navigate throughout Leonida.",
-    "category": "Characters",
-    "published_at": "2026-05-06T13:30:19Z",
-    "is_featured": false
   }
 ]
