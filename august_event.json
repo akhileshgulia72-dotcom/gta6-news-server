@@ -3,19 +3,19 @@
   "event_date": "2026-08-27T00:00:00",
 
   "event_status": "COUNTDOWN ACTIVE",
-  "event_label": "SPECIAL EVENT",
+  "event_label": "GTA VI EXTENDED LOOK",
 
   "event_title": "COUNTDOWN TO GTA VI",
-  "event_live_title": "THE EVENT IS LIVE",
+  "event_live_title": "THE EXTENDED LOOK IS HERE",
 
-  "event_subtitle": "Something special is coming on August 27. Stay Tuned",
-  "event_live_subtitle": "The wait is over. Explore the latest GTA 6 content.",
+  "event_subtitle": "The GTA VI Extended Look is coming soon. Stay ready.",
+  "event_live_subtitle": "The wait is over. Explore the latest GTA VI content.",
 
   "trailer_video_id": "VQRLujxTm3c",
 
   "event_intel_enabled": true,
   "event_intel_title": "VICE CITY TRANSMISSION",
-  "event_intel_text": "Stay connected. New information and updates may arrive during this special GTA 6 event.",
+  "event_intel_text": "The countdown is on. New GTA VI content is expected soon.",
 
   "latest_updates_enabled": true,
   "watch_trailer_enabled": true,
@@ -28,5 +28,5 @@
   "watch_subtitle": "TRAILER",
 
   "explore_title": "EXPLORE",
-  "explore_subtitle": "GTA 6"
+  "explore_subtitle": "GTA VI"
 }
