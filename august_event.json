@@ -2,23 +2,23 @@
   "event_enabled": true,
   "event_date": "2026-08-28T06:30:00",
 
-  "event_status": "COUNTDOWN ACTIVE",
+  "event_status": "LIVE",
   "event_label": "GTA VI EXTENDED LOOK",
 
   "event_title": "COUNTDOWN TO GTA VI",
   "event_live_title": "THE EXTENDED LOOK IS HERE",
 
-  "event_subtitle": "The official Extended Look arrives in",
+  "event_subtitle": "The Extended Look is now available",
   "event_live_subtitle": "The wait is over. Explore the latest GTA VI content.",
 
   "trailer_video_id": "tJbzMqJGH4k",
 
   "event_intel_enabled": true,
   "event_intel_title": "VICE CITY TRANSMISSION",
-  "event_intel_text": "The Extended Look will be available on YouTube at 6:30 AM. The countdown is on.",
+  "event_intel_text": "The GTA VI Extended Look is now available on YouTube.",
 
   "latest_updates_enabled": true,
-  "watch_trailer_enabled": false,
+  "watch_trailer_enabled": true,
   "explore_enabled": true,
 
   "latest_updates_title": "LATEST",
