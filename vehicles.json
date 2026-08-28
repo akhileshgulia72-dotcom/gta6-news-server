@@ -1,4 +1,30 @@
-[{
+[
+     {
+    "id": "18",
+    "name": "Ocelot Pariah",
+    "manufacturer": "Ocelot",
+    "category": "Sports",
+    "status": "Expected",
+    "image_url": "https://github.com/akhileshgulia72-dotcom/gta6-news-server/blob/main/images/ChatGPT%20Image%20Aug%2028,%202026,%2002_52_34%20PM.png?raw=true",
+    "description": "A sleek high-performance sports car built for extreme highway speed, precise handling and exotic styling.",
+    "top_speed": "320 km/h",
+    "acceleration": "0-100 km/h in 3.2 sec",
+    "handling": "Excellent",
+    "braking": "Ultra High Performance",
+    "drivetrain": "RWD",
+    "seating": "2",
+    "price": "$620,000",
+    "features": [
+      "Aerodynamic sports car body",
+      "Extreme top-speed potential",
+      "Lightweight chassis",
+      "Precision handling",
+      "Premium performance interior"
+    ],
+    "is_premium": true,
+    "is_active": true
+  },
+  { 
     "id": "17",
     "name": "Benefactor Schafter",
     "manufacturer": "Benefactor",
