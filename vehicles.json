@@ -1,5 +1,53 @@
-[
-  
+[{
+    "id": "17",
+    "name": "Benefactor Schafter",
+    "manufacturer": "Benefactor",
+    "category": "Sedan",
+    "status": "Expected",
+    "image_url": "https://github.com/akhileshgulia72-dotcom/gta6-news-server/blob/main/images/ChatGPT%20Image%20Aug%2028,%202026,%2002_47_58%20PM.png?raw=true",
+    "description": "A luxury German-inspired executive sedan combining comfort, technology and strong highway performance.",
+    "top_speed": "255 km/h",
+    "acceleration": "0-100 km/h in 5.1 sec",
+    "handling": "Excellent",
+    "braking": "High Performance",
+    "drivetrain": "AWD",
+    "seating": "4",
+    "price": "$145,000",
+    "features": [
+      "Luxury executive styling",
+      "Premium four-seat cabin",
+      "Advanced driving technology",
+      "High-speed cruising ability",
+      "Sport-tuned performance"
+    ],
+    "is_premium": false,
+    "is_active": true
+  },
+  {
+    "id": "16",
+    "name": "Karin Sultan RS",
+    "manufacturer": "Karin",
+    "category": "Sports",
+    "status": "Expected",
+    "image_url": "https://github.com/akhileshgulia72-dotcom/gta6-news-server/blob/main/images/ChatGPT%20Image%20Aug%2028,%202026,%2002_46_13%20PM.png?raw=true",
+    "description": "A rally-inspired Japanese sports sedan designed for fast acceleration, confident all-weather performance and aggressive street driving across Leonida.",
+    "top_speed": "290 km/h",
+    "acceleration": "0-100 km/h in 3.7 sec",
+    "handling": "Excellent",
+    "braking": "High Performance",
+    "drivetrain": "AWD",
+    "seating": "4",
+    "price": "$210,000",
+    "features": [
+      "Rally-inspired performance styling",
+      "Advanced all-wheel-drive system",
+      "Turbocharged performance",
+      "Sport-tuned suspension",
+      "Four-seat interior"
+    ],
+    "is_premium": true,
+    "is_active": true
+  },
   {
   "id": "14",
   "name": "Übermacht Sentinel",
