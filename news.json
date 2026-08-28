@@ -156,18 +156,7 @@
     "published_at": "2026-08-18T02:14:37Z",
     "is_featured": false
   },
-  {
-    "id": 7,
-    "created_at": "2026-08-16T07:49:59+00:00",
-    "title": "More GTA 6 Reveals Are Coming After August 27! 👀🔥",
-    "description": "The Extended Look may only be the beginning of GTA 6's marketing campaign.",
-    "image_url": "https://www.rockstargames.com/VI/_next/static/media/Real_Dimez_02.1366u9.x.yp0_.jpg?akim=1&imdensity=1&imwidth=1280",
-    "source": "GTA 6 Companion",
-    "article_content": "August 27 might be just the beginning. 👀\n\nTake-Two CEO Strauss Zelnick has indicated that the upcoming GTA VI: An Extended Look is only an early part of Rockstar's promotional campaign.\n\nThat means fans could potentially see more GTA 6 footage, information and reveals as we get closer to launch.\n\nNovember 19 is getting closer. 🔥🌴",
-    "category": "News",
-    "published_at": "2026-08-16T07:49:00Z",
-    "is_featured": true
-  },
+ 
   {
     "id": 6,
     "created_at": "2026-08-15T04:10:35+00:00",
@@ -180,18 +169,7 @@
     "published_at": "2026-08-15T04:09:35Z",
     "is_featured": false
   },
-  {
-    "id": 1,
-    "created_at": "2026-08-14T13:04:09+00:00",
-    "title": "🔥 GTA 6 Extended Look Officially Announced",
-    "description": "Rockstar Games has officially announced Grand Theft Auto VI: An Extended Look, giving fans their next major official look at the highly anticipated game.",
-    "image_url": "https://zyafvnmsaizlqmoraiuj.supabase.co/storage/v1/object/public/news-images/ChatGPT%20Image%20Aug%2014,%202026,%2006_37_31%20PM.png",
-    "source": "GTA 6 Companion",
-    "article_content": "The presentation will premiere on Netflix on August 27 at 3:00 PM ET, before becoming available later the same day through the official Rockstar Games YouTube channel and the GTA 6 website.\n\nRockstar has not revealed exactly what footage will be shown. However, the announcement has created huge anticipation because GTA 6 is now only a few months away from its scheduled launch. Fans are expecting a much deeper look at the game's world, characters and gameplay, although Rockstar has not officially confirmed the exact contents of the presentation.",
-    "category": "News",
-    "published_at": "2026-08-14T13:06:01Z",
-    "is_featured": true
-  },
+ 
   {
     "id": 4,
     "created_at": "2026-08-14T13:27:33+00:00",
@@ -203,17 +181,6 @@
     "category": "News",
     "published_at": "2026-08-09T13:27:18Z",
     "is_featured": true
-  },
-  {
-    "id": 2,
-    "created_at": "2026-08-07T03:09:02+00:00",
-    "title": "GTA 6 Pre-Orders Are 'Unprecedented and Astonishing'",
-    "description": "Take-Two says GTA 6 has received an extraordinary early response since pre-orders opened in June, exceeding the company's expectations.",
-    "image_url": "https://www.rockstargames.com/VI/_next/static/media/ULTIMATE_EDITION_02.0q-6.nrtf~jj0.jpg?akim=1&imdensity=1&imwidth=640",
-    "source": "GTA 6 Companion",
-    "article_content": "Grand Theft Auto VI is already showing huge demand months before its official release.\n\nTake-Two Interactive CEO Strauss Zelnick described the early response to GTA 6 pre-orders as unprecedented and astonishing during the company's latest earnings update.\n\nPre-orders for GTA 6 opened on June 25, 2026, giving players their first opportunity to officially reserve the game ahead of its November launch. Take-Two has not revealed the exact number of pre-orders, but Zelnick said the initial performance has been exceptionally strong and has exceeded the company's expectations.\n\nThe publisher is still being cautious about predicting final sales because pre-orders can be cancelled before launch. Even so, the response highlights the enormous anticipation surrounding Rockstar's next Grand Theft Auto game.\n\nGTA 6 is currently scheduled to release on November 19, 2026, for PlayStation 5 and Xbox Series X|S.\n\nWith the game now available for pre-order and Rockstar preparing another major promotional push, excitement around GTA 6 continues to build as launch day approaches.",
-    "category": "News",
-    "published_at": "2026-08-07T03:09:49Z",
-    "is_featured": true
   }
+ 
 ]
