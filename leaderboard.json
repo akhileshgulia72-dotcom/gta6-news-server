@@ -1,0 +1,70 @@
+{
+  "season_id": "week_001",
+  "season_label": "Season 01 • Weekly Challenge",
+  "week_ends_at": "2026-09-06T23:59:59+05:30",
+
+  "topper_prize": "Gift Prize + 3× Lucky Draw Boost",
+  "lucky_draw_multiplier": 3,
+
+  "weekly": [
+    {
+      "rank": 1,
+      "user_id": "user_001",
+      "name": "Player One",
+      "coins_spent": 25480,
+      "badge": "Weekly Topper"
+    },
+    {
+      "rank": 2,
+      "user_id": "user_002",
+      "name": "Player Two",
+      "coins_spent": 18920,
+      "badge": "Pro"
+    },
+    {
+      "rank": 3,
+      "user_id": "user_003",
+      "name": "Player Three",
+      "coins_spent": 15640,
+      "badge": ""
+    },
+    {
+      "rank": 4,
+      "user_id": "user_004",
+      "name": "Player Four",
+      "coins_spent": 12850,
+      "badge": ""
+    }
+  ],
+
+  "all_time": [
+    {
+      "rank": 1,
+      "user_id": "user_001",
+      "name": "Player One",
+      "coins_spent": 75480,
+      "badge": "Legend"
+    },
+    {
+      "rank": 2,
+      "user_id": "user_002",
+      "name": "Player Two",
+      "coins_spent": 68920,
+      "badge": "Pro"
+    },
+    {
+      "rank": 3,
+      "user_id": "user_003",
+      "name": "Player Three",
+      "coins_spent": 55640,
+      "badge": ""
+    }
+  ],
+
+  "winner_announcement": {
+    "show": false,
+    "name": "",
+    "prize": "",
+    "message": ""
+  }
+}
