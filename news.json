@@ -1,4 +1,28 @@
-[ {
+[{
+    "id": 33,
+    "created_at": "2026-09-04T22:30:00+05:30",
+    "title": "⛽ GTA VI Will Make You Stop for Gas",
+    "description": "Rockstar is adding a new refueling system to GTA VI, forcing players to think about fuel during their travels across Leonida.",
+    "image_url": "https://github.com/akhileshgulia72-dotcom/gta6-news-server/blob/main/images/ChatGPT%20Image%20Sep%204,%202026,%2010_30_08%20PM%20(1).png?raw=true",
+    "source": "GTA 6 Companion",
+    "article_content": "GTA VI is taking vehicle realism to another level with a new refueling system that will require players to stop at gas stations when their vehicles run low on fuel.\n\nThe mechanic was previously spotted in leaked footage and has now appeared in Rockstar's latest gameplay preview. Refueling is designed to be extremely quick, reportedly taking only around 10 seconds, but it could still create tense situations when players are trying to escape from the police or complete a mission.\n\nRockstar North co-studio head Rob Nelson has acknowledged that some players may have mixed reactions to the feature, but believes the short refueling sequence should keep it from becoming a major annoyance.\n\nThis is just one example of Rockstar pushing GTA VI toward a more detailed and interactive open-world experience.\n\n⛽ Grand Theft Auto VI\n📅 Release Date: November 19, 2026\n🕹️ Platforms: PlayStation 5 and Xbox Series X|S",
+    "category": "GTA 6 Gameplay",
+    "published_at": "2026-09-04T17:00:00Z",
+    "is_featured": false
+  },
+  {
+    "id": 34,
+    "created_at": "2026-09-04T22:35:00+05:30",
+    "title": "🔥 Rockstar Just Revealed A TON of New GTA VI Gameplay",
+    "description": "Rockstar's massive Extended Look has given fans a much closer look at GTA VI's world, missions, characters, vehicles and gameplay systems.",
+    "image_url": "https://github.com/akhileshgulia72-dotcom/gta6-news-server/blob/main/images/ChatGPT%20Image%20Sep%204,%202026,%2010_30_54%20PM%20(1).png?raw=true",
+    "source": "GTA 6 Companion",
+    "article_content": "Rockstar's latest GTA VI Extended Look has given fans one of the biggest gameplay deep dives yet, revealing a huge amount of new information about the upcoming game.\n\nThe footage showcases Jason and Lucia across Vice City and the wider Leonida region, while highlighting new gameplay systems, vehicle interactions, customization, wanted mechanics and activities across the open world.\n\nThe extended presentation also gives players a better look at how Rockstar is making Leonida feel more alive, with crowded locations, detailed interiors, improved animations and a much wider variety of activities compared with previous GTA games.\n\nWith the release still months away, fans are already breaking down individual scenes frame by frame looking for hidden details and new discoveries.\n\n🔥 Grand Theft Auto VI\n📅 Release Date: November 19, 2026\n🕹️ Platforms: PlayStation 5 and Xbox Series X|S",
+    "category": "GTA 6 Gameplay",
+    "published_at": "2026-09-04T17:05:00Z",
+    "is_featured": true
+  },
+  {
   "id": 32,
   "created_at": "2026-09-03T21:40:00+00:00",
   "title": "🚗 GTA VI Already Has Over 270 Vehicles Spotted",
