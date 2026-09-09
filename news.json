@@ -1,4 +1,41 @@
-[{
+[
+   {
+    "id": 44,
+    "created_at": "2026-09-09T10:00:00+05:30",
+    "title": "🔫 GTA VI NPCs Will React to Openly Carried Weapons",
+    "description": "Rockstar says NPCs and police will react more naturally when Jason or Lucia openly carry firearms in public.",
+    "image_url": "https://github.com/akhileshgulia72-dotcom/gta6-news-server/blob/main/images/npc_carry_weapon_imagepost.png?raw=true",
+    "source": "GTA 6 Companion",
+    "article_content": "Grand Theft Auto VI is introducing a more realistic approach to carrying weapons in public.\n\nRockstar North co-head Rob Nelson explained that NPCs and police can react when Jason or Lucia openly brandish firearms, making weapon use feel more grounded within Leonida.\n\nThe system is designed to fit GTA VI's more detailed world and create more believable reactions from characters around the player.\n\n🎮 Grand Theft Auto VI\n📅 Release Date: November 19, 2026\n🕹️ Platforms: PlayStation 5 and Xbox Series X|S",
+    "category": "GTA 6 Gameplay",
+    "published_at": "2026-09-07T12:00:00Z",
+    "is_featured": true
+  },
+  {
+    "id": 45,
+    "created_at": "2026-09-09T10:05:00+05:30",
+    "title": "🌍 GTA VI Could Launch at Midnight in Local Regions",
+    "description": "PlayStation Store listings reportedly suggest GTA VI could unlock at midnight local time across many regions on launch day.",
+    "image_url": "https://github.com/akhileshgulia72-dotcom/gta6-news-server/blob/main/images/midnight_launch_news.png?raw=true",
+    "source": "GTA 6 Companion",
+    "article_content": "Grand Theft Auto VI may launch at midnight local time in different regions on November 19, 2026.\n\nPlayStation Store listings reviewed by multiple outlets appear to point toward regional midnight releases, with New Zealand potentially being among the first regions to access the game.\n\nRockstar Games has not officially confirmed the global release timing, so fans should treat this information as unconfirmed until an official announcement is made.\n\n🎮 Grand Theft Auto VI\n📅 Release Date: November 19, 2026\n🕹️ Platforms: PlayStation 5 and Xbox Series X|S",
+    "category": "GTA 6 News",
+    "published_at": "2026-09-08T12:00:00Z",
+    "is_featured": true
+  },
+  {
+    "id": 46,
+    "created_at": "2026-09-09T10:10:00+05:30",
+    "title": "📈 GTA VI Extended Look Sends UK Console Sales Higher",
+    "description": "PS5 and Xbox Series X|S sales reportedly increased by more than 30% in the UK following GTA VI's Extended Look.",
+    "image_url": "https://github.com/akhileshgulia72-dotcom/gta6-news-server/blob/main/images/two_console.png?raw=true",
+    "source": "GTA 6 Companion",
+    "article_content": "The impact of Grand Theft Auto VI's latest Extended Look is already being seen in the UK gaming market.\n\nReported NielsenIQ data showed PlayStation 5 sales increasing by 33% and Xbox Series X|S sales increasing by 34% during the week following the GTA VI presentation.\n\nThe figures highlight the enormous level of interest surrounding Rockstar's upcoming release, even more than two months before launch.\n\n🎮 Grand Theft Auto VI\n📅 Release Date: November 19, 2026\n🕹️ Platforms: PlayStation 5 and Xbox Series X|S",
+    "category": "GTA 6 News",
+    "published_at": "2026-09-07T10:00:00Z",
+    "is_featured": false
+  },
+  {
   "id": 38,
   "created_at": "2026-09-06T21:15:00+05:30",
   "title": "🎮 GTA VI Extended Look Was Captured Entirely on PS5",
