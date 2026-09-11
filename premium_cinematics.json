@@ -1,13 +1,14 @@
 {
-  "version": 1,
+  "version": 2,
   "videos": [
     {
       "id": "cinematic_001",
-      "title": "Lucia Caminos",
-      "description": "Exclusive character cinematic for GTA 6 PRO members.",
+      "title": "GTA 6 Premium Short",
+      "description": "Exclusive vertical cinematic for GTA 6 PRO members.",
       "category": "Characters",
-      "youtubeId": "YOUR_YOUTUBE_ID",
-      "thumbnailUrl": "https://i.ytimg.com/vi/YOUR_YOUTUBE_ID/maxresdefault.jpg",
+      "youtubeId": "k5_WgQHv3l8",
+      "thumbnailUrl": "https://i.ytimg.com/vi/k5_WgQHv3l8/maxresdefault.jpg",
+      "orientation": "vertical",
       "isActive": true,
       "isFeatured": true
     },
@@ -16,8 +17,9 @@
       "title": "Jason Duval",
       "description": "Exclusive character cinematic for GTA 6 PRO members.",
       "category": "Characters",
-      "youtubeId": "YOUR_YOUTUBE_ID",
-      "thumbnailUrl": "https://i.ytimg.com/vi/YOUR_YOUTUBE_ID/maxresdefault.jpg",
+      "youtubeId": "YOUR_YOUTUBE_ID_2",
+      "thumbnailUrl": "https://i.ytimg.com/vi/YOUR_YOUTUBE_ID_2/maxresdefault.jpg",
+      "orientation": "horizontal",
       "isActive": true,
       "isFeatured": false
     },
@@ -26,8 +28,9 @@
       "title": "Vice City Nights",
       "description": "Experience the neon side of Leonida.",
       "category": "Locations",
-      "youtubeId": "YOUR_YOUTUBE_ID",
-      "thumbnailUrl": "https://i.ytimg.com/vi/YOUR_YOUTUBE_ID/maxresdefault.jpg",
+      "youtubeId": "YOUR_YOUTUBE_ID_3",
+      "thumbnailUrl": "https://i.ytimg.com/vi/YOUR_YOUTUBE_ID_3/maxresdefault.jpg",
+      "orientation": "horizontal",
       "isActive": true,
       "isFeatured": false
     }
