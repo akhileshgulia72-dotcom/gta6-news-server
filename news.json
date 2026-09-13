@@ -1,4 +1,43 @@
 [
+   
+ 
+  {
+    "id": 48,
+    "created_at": "2026-09-13T10:35:00+05:30",
+    "title": "🎧 GTA VI Music Gets a Huge Boost After New Footage",
+    "description": "A song featured in Rockstar's latest GTA VI footage reportedly saw its streaming numbers surge after appearing in the new trailer.",
+    "image_url": "https://github.com/akhileshgulia72-dotcom/gta6-news-server/blob/main/images/music_gta6_image%20post.png?raw=true",
+    "source": "GTA 6 Companion",
+    "article_content": "Rockstar's latest Grand Theft Auto VI footage is already having an impact beyond gaming.\n\nThe song 'Inner Light' by Elderbrook and Bob Moses reportedly experienced a major increase in streams after being featured in Rockstar's latest GTA VI promotional footage.\n\nThe surge highlights the cultural impact GTA VI continues to have even before launch, with fans paying close attention not only to gameplay and characters but also to the music featured throughout Rockstar's marketing campaign.\n\n🎮 Grand Theft Auto VI\n📅 Release Date: November 19, 2026\n🕹️ Platforms: PlayStation 5 and Xbox Series X|S",
+    "category": "GTA 6 News",
+    "published_at": "2026-09-13T06:00:00Z",
+    "is_featured": false
+  },
+    {
+    "id": 47,
+    "created_at": "2026-09-13T10:30:00+05:30",
+    "title": "🎮 GTA VI's November Launch Gets Closer",
+    "description": "Rockstar's GTA VI release remains scheduled for November 19, 2026, with the latest Extended Look now available for fans to analyze.",
+    "image_url": "https://github.com/akhileshgulia72-dotcom/gta6-news-server/blob/main/images/lauch_imagepost%20(1).png?raw=true",
+    "source": "GTA 6 Companion",
+    "article_content": "Grand Theft Auto VI is entering the final stretch before its highly anticipated November launch.\n\nRockstar Games continues to promote the game following the release of its major Extended Look, which showcased Jason, Lucia, Vice City and the wider Leonida region.\n\nThe game is currently scheduled to launch on November 19, 2026 for PlayStation 5 and Xbox Series X|S. With the release date approaching, fans are closely watching Rockstar for additional announcements and details.\n\n🎮 Grand Theft Auto VI\n📅 Release Date: November 19, 2026\n🕹️ Platforms: PlayStation 5 and Xbox Series X|S",
+    "category": "GTA 6 News",
+    "published_at": "2026-09-13T05:00:00Z",
+    "is_featured": true
+  },
+  {
+    "id": 49,
+    "created_at": "2026-09-13T10:40:00+05:30",
+    "title": "🌴 Miami Beach Approves GTA VI Promotional Partnership",
+    "description": "Miami Beach commissioners narrowly approved a promotional partnership connected to GTA VI despite concerns about the game's criminal themes.",
+    "image_url": "https://github.com/akhileshgulia72-dotcom/gta6-news-server/blob/main/images/miami_beach_approved.png?raw=true",
+    "source": "GTA 6 Companion",
+    "article_content": "GTA VI's massive cultural presence is now reaching the real-world city that inspired much of Vice City's identity.\n\nMiami Beach commissioners recently voted 4-3 in favor of a promotional partnership connected to Grand Theft Auto VI. The deal is expected to generate around $3 million for the city and will reportedly involve promotional branding on beach chairs and umbrellas.\n\nThe partnership attracted debate because of GTA VI's depiction of crime and violence, but supporters argued that the collaboration could provide significant economic and promotional benefits.\n\n🎮 Grand Theft Auto VI\n📅 Release Date: November 19, 2026\n🕹️ Platforms: PlayStation 5 and Xbox Series X|S",
+    "category": "GTA 6 News",
+    "published_at": "2026-09-13T07:00:00Z",
+    "is_featured": true
+  }
+,
    {
     "id": 44,
     "created_at": "2026-09-09T10:00:00+05:30",
