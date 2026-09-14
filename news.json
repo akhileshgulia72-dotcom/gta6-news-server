@@ -325,45 +325,7 @@
     "category": "News",
     "published_at": "2026-08-28T12:00:00Z",
     "is_featured": true
-  },
-  {
-  "id": 22,
-  "created_at": "2026-08-27T19:30:00+00:00",
-  "title": "🔥 Fans Begin Breaking Down Every Detail From GTA VI's Extended Look",
-  "description": "The GTA VI Extended Look has sparked a new wave of analysis as fans search every scene for hidden details, new locations and clues about Rockstar's upcoming game.",
-  "image_url": "https://github.com/akhileshgulia72-dotcom/gta6-news-server/blob/main/ChatGPT%20Image%20Aug%2029,%202026,%2005_48_38%20PM.png?raw=true",
-  "source": "GTA 6 Companion",
-  "article_content": "The GTA VI Extended Look has officially kicked off a new wave of excitement across the gaming community.\n\nFans are now analyzing the presentation scene by scene, searching for new details about Vice City, the wider state of Leonida, Jason and Lucia, vehicles, activities and the world Rockstar Games is building for GTA VI.\n\nWith such a major presentation, even small background details are likely to become topics of discussion as players compare scenes and look for clues that may have been easy to miss on a first watch.\n\nGTA 6 Companion will continue covering confirmed news and major discoveries as more details emerge.\n\n🔥 The analysis has only just begun.\n\n🎮 Grand Theft Auto VI\n📅 Scheduled Release: November 19, 2026\n🕹️ Platforms: PlayStation 5 and Xbox Series X|S",
-  "category": "News",
-  "published_at": "2026-08-27T19:30:00Z",
-  "is_featured": false
-},
- 
-  {
-  "id": 20,
-  "created_at": "2026-08-26T17:30:00+00:00",
-  "title": "Rockstar Officially Responds to Recent Leaks Ahead of Extended Look",
-  "description": "Rockstar Games has issued an official statement addressing the recent wave of GTA VI leaks, calling the situation heartbreaking while reaffirming that tomorrow's Extended Look showcase and the November 19 release date remain on schedule.",
-  "image_url": "https://github.com/akhileshgulia72-dotcom/gta6-news-server/blob/main/ChatGPT%20Image%20Aug%2026,%202026,%2010_20_36%20PM.png?raw=true",
-  "source": "GTA 6 Companion",
-  "article_content": "Rockstar Games has officially addressed the widespread leaks that surfaced over the past week, expressing disappointment while assuring fans that development and promotional plans remain firmly on track.\n\nIn a statement published across their official channels, the studio called the unauthorized leaks heartbreaking for the development team, noting that early and unfinished footage does not represent the intended experience. Rockstar cautioned the community about potential story and gameplay spoilers circulating online and urged players to wait for official material.\n\nDespite the leak situation, Rockstar reaffirmed that tomorrow's Grand Theft Auto VI: An Extended Look will premiere as scheduled, followed by the global launch on November 19, 2026.\n\n📅 GTA VI: An Extended Look — August 27, 2026\n⏰ 3:00 PM ET (Netflix Timed Exclusive) / 9:00 PM ET (YouTube & Web)\n🎮 Launch Date — November 19, 2026\n🕹️ Platforms — PlayStation 5 and Xbox Series X|S",
-  "category": "Official",
-  "published_at": "2026-08-26T17:30:00Z",
-  "is_featured": true
-},
-
-  {
-  "id": 18,
-  "created_at": "2026-08-26T08:00:00+00:00",
-  "title": "🚨 Less Than 24 Hours Until GTA VI's Next Big Reveal!",
-  "description": "The countdown is entering its final hours as Rockstar Games prepares to unveil Grand Theft Auto VI: An Extended Look. Fans will soon get another official look at one of gaming's most anticipated releases.",
-  "image_url": "https://github.com/akhileshgulia72-dotcom/gta6-news-server/blob/main/ChatGPT%20Image%20Aug%2029,%202026,%2005_49_45%20PM.png?raw=true",
-  "source": "GTA 6 Companion",
-  "article_content": "The wait is almost over. Rockstar Games is preparing to premiere Grand Theft Auto VI: An Extended Look on Thursday, August 27 at 3:00 PM ET.\n\nThe presentation will debut exclusively on Netflix before becoming available later through Rockstar's official channels. Rockstar has not revealed exactly what will be shown, leaving fans to speculate about potential new gameplay, world details, activities and more.\n\nFor now, the exact contents of the Extended Look remain under wraps. What is confirmed is that this will be the next major official GTA VI presentation as the countdown to launch continues.\n\n📅 GTA VI: An Extended Look — August 27, 2026\n⏰ Premiere — 3:00 PM ET\n🎮 GTA VI Release — November 19, 2026\n🕹️ Platforms — PlayStation 5 and Xbox Series X|S\n\n🔥 The countdown is almost over. Vice City is calling.",
-  "category": "Official",
-  "published_at": "2026-08-26T08:00:00Z",
-  "is_featured": true
-}
+  }
   
  
 ]
