@@ -7,7 +7,7 @@
       "description": "Exclusive vertical cinematic for GTA 6 PRO members.",
       "category": "Characters",
       "youtubeId": "k5_WgQHv3l8",
-      "thumbnailUrl": "https://github.com/akhileshgulia72-dotcom/gta6-news-server/blob/main/images/cinematic_look_01.png?raw=true",
+      "thumbnailUrl": "https://i.ytimg.com/vi/k5_WgQHv3l8/maxresdefault.jpg",
       "orientation": "vertical",
       "isActive": true,
       "isFeatured": true
@@ -18,7 +18,7 @@
       "description": "Exclusive character cinematic for GTA 6 PRO members.",
       "category": "Characters",
       "youtubeId": "v2DLSSyfioU",
-      "thumbnailUrl": "https://i.ytimg.com/vi/YOUR_YOUTUBE_ID_2/maxresdefault.jpg",
+      "thumbnailUrl": "https://i.ytimg.com/vi/v2DLSSyfioU/maxresdefault.jpg",
       "orientation": "horizontal",
       "isActive": true,
       "isFeatured": false
@@ -28,9 +28,42 @@
       "title": "Vice City Nights",
       "description": "Experience the neon side of Leonida.",
       "category": "Locations",
-      "youtubeId": "YOUR_YOUTUBE_ID_3",
-      "thumbnailUrl": "https://i.ytimg.com/vi/YOUR_YOUTUBE_ID_3/maxresdefault.jpg",
-      "orientation": "horizontal",
+      "youtubeId": "lcq86jSJZhs",
+      "thumbnailUrl": "https://i.ytimg.com/vi/lcq86jSJZhs/maxresdefault.jpg",
+      "orientation": "vertical",
+      "isActive": true,
+      "isFeatured": false
+    },
+    {
+      "id": "cinematic_004",
+      "title": "GTA 6 Cinematic 004",
+      "description": "Exclusive vertical cinematic for GTA 6 PRO members.",
+      "category": "Cinematics",
+      "youtubeId": "7DCsdMedkl0",
+      "thumbnailUrl": "https://i.ytimg.com/vi/7DCsdMedkl0/maxresdefault.jpg",
+      "orientation": "vertical",
+      "isActive": true,
+      "isFeatured": false
+    },
+    {
+      "id": "cinematic_005",
+      "title": "GTA 6 Cinematic 005",
+      "description": "Exclusive vertical cinematic for GTA 6 PRO members.",
+      "category": "Cinematics",
+      "youtubeId": "0YQ2uYNFxPI",
+      "thumbnailUrl": "https://i.ytimg.com/vi/0YQ2uYNFxPI/maxresdefault.jpg",
+      "orientation": "vertical",
+      "isActive": true,
+      "isFeatured": false
+    },
+    {
+      "id": "cinematic_006",
+      "title": "GTA 6 Cinematic 006",
+      "description": "Exclusive vertical cinematic for GTA 6 PRO members.",
+      "category": "Cinematics",
+      "youtubeId": "_xVfVoRk8zA",
+      "thumbnailUrl": "https://i.ytimg.com/vi/_xVfVoRk8zA/maxresdefault.jpg",
+      "orientation": "vertical",
       "isActive": true,
       "isFeatured": false
     }
