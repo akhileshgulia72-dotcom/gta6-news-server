@@ -1,5 +1,4 @@
-
-{
+ {
   "version": 2,
   "videos": [
     {
@@ -63,33 +62,10 @@
       "description": "Exclusive vertical cinematic for GTA 6 PRO members.",
       "category": "Cinematics",
       "youtubeId": "_xVfVoRk8zA",
-      "thumbnailUrl": "https://i.ytimg.com/vi/_xVfVoRk8zA/maxresdefault.jpg",
-      "orientation": "vertical",
-      "isActive": true,
-      "isFeatured": false
-    },
-    {
-      "id": "cinematic_007",
-      "title": "GTA 6 Cinematic 007",
-      "description": "Exclusive vertical cinematic for GTA 6 PRO members.",
-      "category": "Cinematics",
-      "youtubeId": "6ZZfpYMwads",
-      "thumbnailUrl": "https://i.ytimg.com/vi/6ZZfpYMwads/maxresdefault.jpg",
-      "orientation": "vertical",
-      "isActive": true,
-      "isFeatured": false
-    },
-    {
-      "id": "cinematic_008",
-      "title": "GTA 6 Cinematic 008",
-      "description": "Exclusive vertical cinematic for GTA 6 PRO members.",
-      "category": "Cinematics",
-      "youtubeId": "epxmuU7iJnM",
-      "thumbnailUrl": "https://i.ytimg.com/vi/epxmuU7iJnM/maxresdefault.jpg",
-      "orientation": "vertical",
-      "isActive": true,
-      "isFeatured": false
-    }
-  ]
-}
-
+      "thumbnailUrl": "https://i.ytimg.com/vi/_xVfVoRk8zA/maxresdefault.jpg", 
+      "orientation": "vertical", 
+      "isActive": true, 
+      "isFeatured": false 
+    } 
+  ] 
+}add these wo to here
