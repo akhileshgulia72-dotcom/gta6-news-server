@@ -1,5 +1,41 @@
 [
      {
+    "id": 62,
+    "created_at": "2026-09-17T22:50:00+05:30",
+    "title": "🎵 Rockstar Announces GTA VI: The Album With 34 New Tracks",
+    "description": "Rockstar Games has officially announced GTA VI: The Album, featuring 34 original tracks inspired by Vice City and Leonida and releasing alongside GTA VI.",
+    "image_url": "https://github.com/akhileshgulia72-dotcom/gta6-news-server/blob/main/images/gta_image_13.png?raw=true",
+    "source": "GTA 6 Companion",
+    "article_content": "Rockstar Games has officially revealed Grand Theft Auto VI: The Album, a new collection of original music created for the world of GTA VI.\n\nThe album will feature 34 original tracks inspired by the energy of Vice City and Leonida. Rockstar is releasing the album in partnership with Atlantic Records, with the full soundtrack scheduled to arrive on November 19, 2026 — the same day as Grand Theft Auto VI.\n\nThe album will also receive physical CD and limited-edition vinyl releases, while the music will be available across major streaming platforms.\n\nRockstar has already released the first six singles, giving fans an early taste of the music coming with GTA VI.\n\n🎵 Grand Theft Auto VI: The Album\n🎮 GTA VI Release: November 19, 2026\n💿 34 Original Tracks\n🕹️ PlayStation 5 and Xbox Series X|S",
+    "category": "GTA 6 News",
+    "published_at": "2026-09-17T17:00:00Z",
+    "is_featured": true
+  },
+  {
+    "id": 63,
+    "created_at": "2026-09-17T22:55:00+05:30",
+    "title": "🔥 GTA VI Drops 6 New Songs Featuring Travis Scott & Future",
+    "description": "Rockstar has released six songs from the upcoming GTA VI album, featuring Travis Scott, Future, Metro Boomin, PinkPantheress, Keith Richards and more.",
+    "image_url": "https://github.com/akhileshgulia72-dotcom/gta6-news-server/blob/main/images/gta_image_14.png?raw=true",
+    "source": "GTA 6 Companion",
+    "article_content": "The GTA VI music rollout has officially begun with six new songs released ahead of the game's November launch.\n\nThe newly released tracks include music from Travis Scott, Yung Lean featuring Future and Metro Boomin, PinkPantheress, Morgan Wallen, Rauw Alejandro and Keith Richards.\n\nAmong the early releases are 'RHYNO' by Travis Scott, 'That's It' by Yung Lean featuring Future and Metro Boomin, 'Sexy Magic' from CA7RIEL & Paco Amoroso with PinkPantheress, Fred again.. and Etienne de Crécy, and 'Bright Lights, Big City' by Keith Richards.\n\nThe six singles are part of Grand Theft Auto VI: The Album, which will contain 34 original tracks when it launches on November 19.\n\n🎵 GTA VI: The Album\n🎤 Six Singles Available Now\n📅 Full Album: November 19, 2026\n🎮 Grand Theft Auto VI",
+    "category": "GTA 6 Music",
+    "published_at": "2026-09-17T17:30:00Z",
+    "is_featured": true
+  },
+  {
+    "id": 64,
+    "created_at": "2026-09-17T23:00:00+05:30",
+    "title": "📺 Twitch CEO Expects GTA VI to Dominate Streaming",
+    "description": "Twitch CEO Dan Clancy says GTA VI is expected to create a major surge in gaming viewership and says multiplayer is anticipated to arrive after launch.",
+    "image_url": "https://github.com/akhileshgulia72-dotcom/gta6-news-server/blob/main/images/gta_image_15.png?raw=true",
+    "source": "GTA 6 Companion",
+    "article_content": "Grand Theft Auto VI is expected to have a major impact on gaming livestreaming when it launches later this year.\n\nTwitch CEO Dan Clancy has discussed the expected impact of GTA VI on the streaming platform, saying the game's launch is likely to bring a significant influx of viewers.\n\nClancy also discussed the future of GTA VI's multiplayer experience, with expectations that an online component will arrive after the game's initial single-player release. The timing of GTA VI's multiplayer mode has not been officially announced by Rockstar Games.\n\nThe comments highlight how GTA VI could influence not only game sales but also the wider streaming and content-creation ecosystem when it launches.\n\n📺 Grand Theft Auto VI\n🎮 Release Date: November 19, 2026\n🕹️ PlayStation 5 and Xbox Series X|S\n🌐 GTA VI Multiplayer: Timing Not Officially Announced",
+    "category": "GTA 6 News",
+    "published_at": "2026-09-17T18:00:00Z",
+    "is_featured": true
+  },
+     {
     "id": 59,
     "created_at": "2026-09-16T22:20:00+05:30",
     "title": "🔥 Rockstar Says GTA VI Is Extremely Hard to Showcase",
@@ -289,43 +325,7 @@
   "category": "GTA 6 News",
   "published_at": "2026-09-03T21:40:00Z",
   "is_featured": true
-},
-    {
-    "id": 28,
-    "created_at": "2026-09-01T08:00:00+00:00",
-    "title": "🔥 Rockstar Uploads 29 New GTA VI Screenshots",
-    "description": "Rockstar has released a new batch of GTA VI screenshots showing Jason, Lucia, police chases, robberies and more locations across Leonida.",
-    "image_url": "https://github.com/akhileshgulia72-dotcom/gta6-news-server/blob/main/images/ChatGPT%20Image%20Sep%201,%202026,%2012_33_48%20PM.png?raw=true",
-    "source": "GTA 6 Companion",
-    "article_content": "Rockstar Games has released 29 new screenshots from Grand Theft Auto VI, giving fans another look at the upcoming open-world adventure.\n\nThe images showcase Jason and Lucia, police encounters, robberies, vehicles and additional locations across Leonida. Fans are already examining the screenshots for smaller environmental and gameplay details.\n\nThe new media arrives shortly after Rockstar released the nearly 27-minute Extended Look, making this another major wave of official GTA VI material before launch.\n\n🎮 Grand Theft Auto VI\n📅 Release Date: November 19, 2026\n🕹️ Platforms: PlayStation 5 and Xbox Series X|S",
-    "category": "Official",
-    "published_at": "2026-09-01T08:00:00Z",
-    "is_featured": true
-  },
-  {
-    "id": 29,
-    "created_at": "2026-09-01T10:00:00+00:00",
-    "title": "🚨 Take-Two Investigation Into GTA VI Leak Continues",
-    "description": "Take-Two Interactive says its investigation into the source of the recent GTA VI leaks is rapidly evolving as legal efforts continue.",
-    "image_url": "https://github.com/akhileshgulia72-dotcom/gta6-news-server/blob/main/images/ChatGPT%20Image%20Sep%201,%202026,%2012_37_39%20PM.png?raw=true",
-    "source": "GTA 6 Companion",
-    "article_content": "The investigation into the recent GTA VI leaks is continuing as Take-Two Interactive works to identify the source of the unauthorized material.\n\nRecent reports indicate that Take-Two has requested additional legal action involving Discord as investigators continue gathering information about the alleged leak source.\n\nThe investigation comes after Rockstar publicly addressed the leaks and described the situation as deeply disappointing for the development team.\n\nDespite the leak controversy, Rockstar continues to maintain the November 19, 2026 release date for Grand Theft Auto VI.\n\n🚨 GTA VI\n📅 Release Date: November 19, 2026\n🎮 PS5 & Xbox Series X|S",
-    "category": "Official",
-    "published_at": "2026-09-01T10:00:00Z",
-    "is_featured": true
-  },
-  {
-    "id": 30,
-    "created_at": "2026-09-01T12:00:00+00:00",
-    "title": "🌴 GTA VI Extended Look Gives Fans a Closer Look at Leonida",
-    "description": "Rockstar's 27-minute GTA VI Extended Look highlights Jason, Lucia, Vice City and several activities across the game's detailed world.",
-    "image_url": "https://github.com/akhileshgulia72-dotcom/gta6-news-server/blob/main/images/ChatGPT%20Image%20Sep%201,%202026,%2012_36_54%20PM.png?raw=true",
-    "source": "GTA 6 Companion",
-    "article_content": "Rockstar's new GTA VI Extended Look has given players a much deeper look at the world of Leonida and the story surrounding Jason and Lucia.\n\nThe presentation features cinematic sequences alongside gameplay moments including police chases, shootouts, basketball and scuba diving. Fans are also getting a closer look at Vice City and the surrounding areas.\n\nThe footage was initially presented through Netflix before being released through Rockstar's official channels, giving millions of fans a detailed preview of the game ahead of launch.\n\n🌴 Welcome back to Vice City.\n🎮 Grand Theft Auto VI\n📅 Release Date: November 19, 2026\n🕹️ Platforms: PlayStation 5 and Xbox Series X|S",
-    "category": "Official",
-    "published_at": "2026-09-01T12:00:00Z",
-    "is_featured": true
-  }
+}
     
   
  
