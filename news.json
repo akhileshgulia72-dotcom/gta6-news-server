@@ -1,4 +1,40 @@
 [
+        {
+    "id": 71,
+    "created_at": "2026-09-20T22:05:00+05:30",
+    "title": "🧍 GTA VI Will Have Rockstar's Most Diverse NPCs Yet",
+    "description": "Rockstar says GTA VI features its most physically varied NPC population yet, with a new animation system allowing characters of different heights and body shapes to move naturally.",
+    "image_url": "https://github.com/akhileshgulia72-dotcom/gta6-news-server/blob/main/images/gta_image_22.png?raw=true",
+    "source": "GTA 6 Companion",
+    "article_content": "Grand Theft Auto VI is taking another major step toward creating a more believable open world with a significantly more varied NPC population.\n\nRockstar North co-head Rob Nelson explained that the game uses a new animation-retargeting system that allows animations to adapt dynamically to characters with different heights and body proportions.\n\nThis means pedestrians across Vice City and Leonida can have greater physical variation while still performing animations naturally. Rockstar says the system allows GTA VI to create a more diverse population than any previous game from the studio.\n\nThe technology is another example of Rockstar focusing on small details that can make Leonida feel more alive and realistic when the game launches.\n\n🧍 GTA VI NPCs\n🎮 New Animation System\n🌴 Vice City & Leonida\n📅 Release Date: November 19, 2026",
+    "category": "GTA 6 Gameplay",
+    "published_at": "2026-09-20T16:00:00Z",
+    "is_featured": true
+  },
+  {
+    "id": 72,
+    "created_at": "2026-09-20T22:10:00+05:30",
+    "title": "⏳ GTA VI Pre-Load Starts Just One Week Before Launch",
+    "description": "Digital pre-orders for GTA VI will be able to begin pre-loading on November 12, exactly seven days before the game's November 19 launch.",
+    "image_url": "https://github.com/akhileshgulia72-dotcom/gta6-news-server/blob/main/images/gta_image_23.png?raw=true",
+    "source": "GTA 6 Companion",
+    "article_content": "The countdown to Grand Theft Auto VI is entering its final stage, with Rockstar confirming that digital pre-orders will be able to start pre-loading the game on November 12.\n\nThe pre-load will begin exactly one week before GTA VI officially launches on November 19 for PlayStation 5 and Xbox Series X|S.\n\nRockstar previously confirmed that the physical version will also become available on November 12 with a download code inside the box, allowing players to prepare the game before launch day.\n\nPlayers will still have to wait until November 19 to actually start playing, but the early download should give fans more time to install the game before release.\n\n⏳ GTA VI Pre-Load\n📅 Pre-Load: November 12, 2026\n🔥 Launch: November 19, 2026\n🎮 PS5 & Xbox Series X|S",
+    "category": "GTA 6 News",
+    "published_at": "2026-09-20T16:30:00Z",
+    "is_featured": true
+  },
+  {
+    "id": 73,
+    "created_at": "2026-09-20T22:15:00+05:30",
+    "title": "🤫 GTA VI Actors Told to Stay Silent Until Launch Day",
+    "description": "Rockstar has reportedly reminded GTA VI performers that their non-disclosure agreements remain active and that they cannot reveal their involvement before November 19.",
+    "image_url": "https://github.com/akhileshgulia72-dotcom/gta6-news-server/blob/main/images/gta_image_24.png?raw=true",
+    "source": "GTA 6 Companion",
+    "article_content": "Rockstar Games is continuing to keep the GTA VI cast under tight secrecy as the game's launch approaches.\n\nAccording to GTA VI O'Clock host James Jarvis, Rockstar recently reminded performers involved with the game that their non-disclosure agreements remain in effect.\n\nThe reported message tells actors and other performers that they should not publicly announce their involvement until November 19, the game's official release date.\n\nRockstar has revealed very few details about the complete GTA VI voice cast, making the secrecy surrounding the performers another part of the studio's tightly controlled marketing strategy.\n\nFans may therefore have to wait until launch day to discover additional cast members and previously undisclosed characters.\n\n🤫 GTA VI Cast\n🎙️ Performers Under NDA\n📅 Reveal Date: November 19, 2026\n🎮 Grand Theft Auto VI",
+    "category": "Characters",
+    "published_at": "2026-09-20T17:00:00Z",
+    "is_featured": true
+  },
        {
     "id": 68,
     "created_at": "2026-09-19T21:00:00+05:30",
@@ -325,79 +361,7 @@
     "category": "GTA 6 News",
     "published_at": "2026-09-07T10:00:00Z",
     "is_featured": false
-  },
-  {
-  "id": 38,
-  "created_at": "2026-09-06T21:15:00+05:30",
-  "title": "🎮 GTA VI Extended Look Was Captured Entirely on PS5",
-  "description": "Rockstar confirms its latest GTA VI Extended Look was captured entirely from in-game footage running on PlayStation 5.",
-  "image_url": "https://github.com/akhileshgulia72-dotcom/gta6-news-server/blob/main/images/ChatGPT%20Image%20Sep%206,%202026,%2010_15_13%20PM%20(1).png?raw=true",
-  "source": "GTA 6 Companion",
-  "article_content": "Rockstar Games has revealed an important detail about its latest Grand Theft Auto VI Extended Look: the entire presentation was captured from in-game footage running on PlayStation 5.\n\nThe showcase gives players a closer look at Rockstar's newest open world while demonstrating the game's characters, environments, vehicles and gameplay systems.\n\nKnowing that the footage was captured directly from the PlayStation 5 version has given fans another reason to examine the visuals and performance shown throughout the presentation.\n\nRockstar says GTA VI represents the biggest and most immersive evolution of the series yet, with the game scheduled to launch on November 19, 2026.\n\n🎮 Grand Theft Auto VI\n📅 Release Date: November 19, 2026\n🕹️ Platforms: PlayStation 5 and Xbox Series X|S",
-  "category": "GTA 6 Gameplay",
-  "published_at": "2026-09-06T15:45:00Z",
-  "is_featured": false
-},
-    {
-    "id": 36,
-    "created_at": "2026-09-06T21:05:00+05:30",
-    "title": "🌴 Rockstar Shows Off the Biggest Look Yet at Leonida",
-    "description": "The latest GTA VI footage gives players a deeper look at Vice City, Leonida, Jason, Lucia and the game's evolving open-world systems.",
-    "image_url": "https://github.com/akhileshgulia72-dotcom/gta6-news-server/blob/main/images/ChatGPT%20Image%20Sep%206,%202026,%2010_09_43%20PM%20(2).png?raw=true",
-    "source": "GTA 6 Companion",
-    "article_content": "The latest Grand Theft Auto VI Extended Look has given fans a much deeper view of the world Rockstar Games is creating.\n\nThe footage highlights Jason and Lucia as they move through Vice City and other parts of Leonida, while showcasing improved animations, vehicle interactions, police encounters and a wide range of activities.\n\nRockstar's presentation also demonstrates how much detail has been added to the game's environments, making the world feel more active and immersive than previous entries in the series.\n\nWith the footage now available, fans are continuing to analyze individual scenes for previously unnoticed details and discoveries.\n\n🌴 Welcome back to Vice City.\n🎮 Grand Theft Auto VI\n📅 Release Date: November 19, 2026\n🕹️ Platforms: PlayStation 5 and Xbox Series X|S",
-    "category": "GTA 6 Gameplay",
-    "published_at": "2026-09-06T15:35:00Z",
-    "is_featured": true
-  },
-  {
-    "id": 37,
-    "created_at": "2026-09-06T21:10:00+05:30",
-    "title": "🚗 GTA VI's Vehicles Take Center Stage in New Footage",
-    "description": "Rockstar's latest GTA VI footage showcases a wide range of vehicles and transportation across Vice City and Leonida.",
-    "image_url": "https://github.com/akhileshgulia72-dotcom/gta6-news-server/blob/main/images/ChatGPT%20Image%20Sep%206,%202026,%2010_07_24%20PM%20(1).png?raw=true",
-    "source": "GTA 6 Companion",
-    "article_content": "Vehicles are once again playing a major role in Grand Theft Auto VI, with Rockstar's latest Extended Look providing fans with more footage of transportation throughout Leonida.\n\nThe presentation shows characters travelling through Vice City and surrounding areas while highlighting the variety and detail Rockstar is putting into the game's vehicles and open-world interactions.\n\nFans are already comparing the newly shown vehicles with those spotted in earlier trailers, screenshots and gameplay footage as they continue building their GTA VI vehicle lists.\n\nWith Rockstar still holding back some information before launch, additional vehicles and gameplay details could be revealed in the months leading up to release.\n\n🚗 Grand Theft Auto VI\n📅 Release Date: November 19, 2026\n🕹️ Platforms: PlayStation 5 and Xbox Series X|S",
-    "category": "GTA 6 Vehicles",
-    "published_at": "2026-09-06T15:40:00Z",
-    "is_featured": false
-  },
-    {
-    "id": 33,
-    "created_at": "2026-09-04T22:30:00+05:30",
-    "title": "⛽ GTA VI Will Make You Stop for Gas",
-    "description": "Rockstar is adding a new refueling system to GTA VI, forcing players to think about fuel during their travels across Leonida.",
-    "image_url": "https://github.com/akhileshgulia72-dotcom/gta6-news-server/blob/main/images/ChatGPT%20Image%20Sep%206,%202026,%2010_07_24%20PM%20(1).png?raw=true",
-    "source": "GTA 6 Companion",
-    "article_content": "GTA VI is taking vehicle realism to another level with a new refueling system that will require players to stop at gas stations when their vehicles run low on fuel.\n\nThe mechanic was previously spotted in leaked footage and has now appeared in Rockstar's latest gameplay preview. Refueling is designed to be extremely quick, reportedly taking only around 10 seconds, but it could still create tense situations when players are trying to escape from the police or complete a mission.\n\nRockstar North co-studio head Rob Nelson has acknowledged that some players may have mixed reactions to the feature, but believes the short refueling sequence should keep it from becoming a major annoyance.\n\nThis is just one example of Rockstar pushing GTA VI toward a more detailed and interactive open-world experience.\n\n⛽ Grand Theft Auto VI\n📅 Release Date: November 19, 2026\n🕹️ Platforms: PlayStation 5 and Xbox Series X|S",
-    "category": "GTA 6 Gameplay",
-    "published_at": "2026-09-04T17:00:00Z",
-    "is_featured": false
-  },
-  {
-    "id": 34,
-    "created_at": "2026-09-04T22:35:00+05:30",
-    "title": "🔥 Rockstar Just Revealed A TON of New GTA VI Gameplay",
-    "description": "Rockstar's massive Extended Look has given fans a much closer look at GTA VI's world, missions, characters, vehicles and gameplay systems.",
-    "image_url": "https://github.com/akhileshgulia72-dotcom/gta6-news-server/blob/main/images/ChatGPT%20Image%20Sep%204,%202026,%2010_30_54%20PM%20(1).png?raw=true",
-    "source": "GTA 6 Companion",
-    "article_content": "Rockstar's latest GTA VI Extended Look has given fans one of the biggest gameplay deep dives yet, revealing a huge amount of new information about the upcoming game.\n\nThe footage showcases Jason and Lucia across Vice City and the wider Leonida region, while highlighting new gameplay systems, vehicle interactions, customization, wanted mechanics and activities across the open world.\n\nThe extended presentation also gives players a better look at how Rockstar is making Leonida feel more alive, with crowded locations, detailed interiors, improved animations and a much wider variety of activities compared with previous GTA games.\n\nWith the release still months away, fans are already breaking down individual scenes frame by frame looking for hidden details and new discoveries.\n\n🔥 Grand Theft Auto VI\n📅 Release Date: November 19, 2026\n🕹️ Platforms: PlayStation 5 and Xbox Series X|S",
-    "category": "GTA 6 Gameplay",
-    "published_at": "2026-09-04T17:05:00Z",
-    "is_featured": true
-  },
-  {
-  "id": 32,
-  "created_at": "2026-09-03T21:40:00+00:00",
-  "title": "🚗 GTA VI Already Has Over 270 Vehicles Spotted",
-  "description": "Fans have identified more than 270 vehicles across GTA VI trailers, screenshots and recent footage, suggesting Rockstar is building one of the franchise's biggest vehicle collections yet.",
-  "image_url": "https://github.com/akhileshgulia72-dotcom/gta6-news-server/blob/main/images/ChatGPT%20Image%20Sep%203,%202026,%2009_28_45%20PM%20(1).png?raw=true",
-  "source": "GTA 6 Companion",
-  "article_content": "Grand Theft Auto VI is already shaping up to have an enormous vehicle lineup, with fans identifying more than 270 vehicles across Rockstar Games' trailers, screenshots and recently released footage.\n\nThe vehicles spotted so far include cars, trucks, motorcycles, boats and other forms of transportation appearing throughout Vice City and the wider state of Leonida.\n\nWhat makes the discovery even more impressive is that GTA VI has not even launched yet. With Rockstar still holding back parts of the game, there could be many more vehicles waiting to be discovered when the full game releases.\n\nThe huge variety of vehicles also highlights how much attention Rockstar is putting into making Leonida feel like a living open world where players can constantly discover something new.\n\n🚗 Grand Theft Auto VI\n📅 Release Date: November 19, 2026\n🕹️ Platforms: PlayStation 5 and Xbox Series X|S",
-  "category": "GTA 6 News",
-  "published_at": "2026-09-03T21:40:00Z",
-  "is_featured": true
-}
+  }
     
   
  
