@@ -1,5 +1,41 @@
 [
          {
+    "id": 77,
+    "created_at": "2026-09-22T22:30:00+05:30",
+    "title": "🗺️ GTA VI's Early Leonida Map Reportedly Reaches FiveM",
+    "description": "A decade-old prototype of the GTA VI map has reportedly been made to run through FiveM, giving developers a technical look at an early version of Leonida.",
+    "image_url": "https://github.com/akhileshgulia72-dotcom/gta6-news-server/blob/main/images/gta_image_28.png?raw=true",
+    "source": "GTA 6 Companion",
+    "article_content": "An extremely early version of the Grand Theft Auto VI map has reportedly been ported into FiveM.\n\nThe map is believed to come from Rockstar development material dating back to 2014 or 2015 and represents an unfinished version of Leonida from an early stage of GTA VI's development.\n\nThe project was reportedly created by a FiveM user known as Glowabl3, who demonstrated that the old map could technically run within the multiplayer framework. However, the creator has reportedly decided not to release a public server because of Rockstar and Cfx.re rules surrounding leaked and external game assets.\n\nThe discovery does not represent the final GTA VI map and should not be treated as an indication of what the launch version will contain. Instead, it provides another glimpse at how dramatically the game's world has evolved during development.\n\n🗺️ GTA VI Prototype Map\n🌴 Early Leonida Build\n🎮 FiveM\n⚠️ Not the Final GTA VI Map\n📅 Release: November 19, 2026",
+    "category": "GTA 6 News",
+    "published_at": "2026-09-22T13:03:00Z",
+    "is_featured": true
+  },
+  {
+    "id": 78,
+    "created_at": "2026-09-22T22:35:00+05:30",
+    "title": "💿 GTA VI's $125 Liquid Vinyl Becomes a Collector's Item",
+    "description": "The limited-edition GTA VI album vinyl priced at $124.98 has quickly sold out on some regional storefronts as collectors rush to secure the unusual release.",
+    "image_url": "https://github.com/akhileshgulia72-dotcom/gta6-news-server/blob/main/images/gta_image_29.png?raw=true",
+    "source": "GTA 6 Companion",
+    "article_content": "Grand Theft Auto VI's upcoming soundtrack is already becoming a collector's item before the game itself launches.\n\nThe limited-edition physical version of GTA VI: The Album is priced at $124.98 and features two transparent magenta records filled with blue liquid, along with exclusive packaging and artwork.\n\nThe unusual vinyl edition quickly sold out on some regional versions of Rockstar and Atlantic Records' official store, although availability has differed between countries. The standard vinyl and CD editions remain separate products.\n\nThe limited pressing has also attracted attention from collectors and resellers, although reported resale listings should not be confused with confirmed completed sales.\n\nThe album contains 34 original tracks and is scheduled to release alongside Grand Theft Auto VI on November 19.\n\n💿 GTA VI: The Album\n💰 Limited Vinyl: $124.98\n🎵 34 Original Tracks\n🔥 Limited Collector's Edition\n📅 Album Release: November 19, 2026",
+    "category": "GTA 6 Music",
+    "published_at": "2026-09-22T16:00:00Z",
+    "is_featured": true
+  },
+  {
+    "id": 79,
+    "created_at": "2026-09-22T22:40:00+05:30",
+    "title": "🌎 GTA VI Could Unlock at Midnight in Each Region",
+    "description": "Platform and support documentation reportedly indicates that GTA VI may become playable at midnight on November 19 in each region rather than at one global launch time.",
+    "image_url": "https://github.com/akhileshgulia72-dotcom/gta6-news-server/blob/main/images/gta_image_30.png?raw=true",
+    "source": "GTA 6 Companion",
+    "article_content": "Grand Theft Auto VI could use a region-by-region midnight release schedule when it launches on November 19.\n\nReports based on platform store and support documentation indicate that the game may unlock at midnight local time in each region rather than becoming available simultaneously worldwide.\n\nThis could mean players in New Zealand and other parts of the Asia-Pacific region receive access before players in Europe and North America, depending on their local time zones.\n\nRockstar Games has confirmed the November 19 release date and the PlayStation 5 and Xbox Series X|S launch platforms, but it has not published a detailed worldwide unlock schedule or officially explained the timing.\n\nPlayers should therefore treat the regional midnight schedule as reported information until Rockstar or the platform holders provide final confirmation.\n\n🌎 Regional Launch\n⏰ Midnight Local Time Reported\n📅 GTA VI Release: November 19, 2026\n🎮 PS5 & Xbox Series X|S\n⚠️ Final Schedule Not Officially Confirmed",
+    "category": "GTA 6 News",
+    "published_at": "2026-09-22T18:00:00Z",
+    "is_featured": true
+  },
+         {
     "id": 74,
     "created_at": "2026-09-21T22:50:00+05:30",
     "title": "🚫 Rockstar Tightens GTA VI Modding Rules Ahead of Launch",
@@ -322,46 +358,7 @@
     "category": "GTA 6 News",
     "published_at": "2026-09-10T18:00:00Z",
     "is_featured": true
-  },
-   
- 
-  {
-    "id": 48,
-    "created_at": "2026-09-13T10:35:00+05:30",
-    "title": "🎧 GTA VI Music Gets a Huge Boost After New Footage",
-    "description": "A song featured in Rockstar's latest GTA VI footage reportedly saw its streaming numbers surge after appearing in the new trailer.",
-    "image_url": "https://github.com/akhileshgulia72-dotcom/gta6-news-server/blob/main/images/music_gta6_image%20post.png?raw=true",
-    "source": "GTA 6 Companion",
-    "article_content": "Rockstar's latest Grand Theft Auto VI footage is already having an impact beyond gaming.\n\nThe song 'Inner Light' by Elderbrook and Bob Moses reportedly experienced a major increase in streams after being featured in Rockstar's latest GTA VI promotional footage.\n\nThe surge highlights the cultural impact GTA VI continues to have even before launch, with fans paying close attention not only to gameplay and characters but also to the music featured throughout Rockstar's marketing campaign.\n\n🎮 Grand Theft Auto VI\n📅 Release Date: November 19, 2026\n🕹️ Platforms: PlayStation 5 and Xbox Series X|S",
-    "category": "GTA 6 News",
-    "published_at": "2026-09-13T06:00:00Z",
-    "is_featured": false
-  },
-    {
-    "id": 47,
-    "created_at": "2026-09-13T10:30:00+05:30",
-    "title": "🎮 GTA VI's November Launch Gets Closer",
-    "description": "Rockstar's GTA VI release remains scheduled for November 19, 2026, with the latest Extended Look now available for fans to analyze.",
-    "image_url": "https://github.com/akhileshgulia72-dotcom/gta6-news-server/blob/main/images/lauch_imagepost%20(1).png?raw=true",
-    "source": "GTA 6 Companion",
-    "article_content": "Grand Theft Auto VI is entering the final stretch before its highly anticipated November launch.\n\nRockstar Games continues to promote the game following the release of its major Extended Look, which showcased Jason, Lucia, Vice City and the wider Leonida region.\n\nThe game is currently scheduled to launch on November 19, 2026 for PlayStation 5 and Xbox Series X|S. With the release date approaching, fans are closely watching Rockstar for additional announcements and details.\n\n🎮 Grand Theft Auto VI\n📅 Release Date: November 19, 2026\n🕹️ Platforms: PlayStation 5 and Xbox Series X|S",
-    "category": "GTA 6 News",
-    "published_at": "2026-09-13T05:00:00Z",
-    "is_featured": true
-  },
-  {
-    "id": 49,
-    "created_at": "2026-09-13T10:40:00+05:30",
-    "title": "🌴 Miami Beach Approves GTA VI Promotional Partnership",
-    "description": "Miami Beach commissioners narrowly approved a promotional partnership connected to GTA VI despite concerns about the game's criminal themes.",
-    "image_url": "https://github.com/akhileshgulia72-dotcom/gta6-news-server/blob/main/images/miami_beach_approved.png?raw=true",
-    "source": "GTA 6 Companion",
-    "article_content": "GTA VI's massive cultural presence is now reaching the real-world city that inspired much of Vice City's identity.\n\nMiami Beach commissioners recently voted 4-3 in favor of a promotional partnership connected to Grand Theft Auto VI. The deal is expected to generate around $3 million for the city and will reportedly involve promotional branding on beach chairs and umbrellas.\n\nThe partnership attracted debate because of GTA VI's depiction of crime and violence, but supporters argued that the collaboration could provide significant economic and promotional benefits.\n\n🎮 Grand Theft Auto VI\n📅 Release Date: November 19, 2026\n🕹️ Platforms: PlayStation 5 and Xbox Series X|S",
-    "category": "GTA 6 News",
-    "published_at": "2026-09-13T07:00:00Z",
-    "is_featured": true
   }
-
   
  
 ]
