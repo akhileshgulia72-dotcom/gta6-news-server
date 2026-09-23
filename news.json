@@ -1,4 +1,40 @@
 [
+          {
+    "id": 80,
+    "created_at": "2026-09-23T22:15:00+05:30",
+    "title": "🌴 Rockstar Builds Massive 'Welcome to Vice City' Sign in Miami",
+    "description": "Rockstar has completed a giant 'Welcome to Vice City' sign on Miami's Kaseya Center as part of its growing real-world GTA VI marketing campaign.",
+    "image_url": "https://github.com/akhileshgulia72-dotcom/gta6-news-server/blob/main/images/gta_image_31.png?raw=true",
+    "source": "GTA 6 Companion",
+    "article_content": "Rockstar Games has brought the world of Grand Theft Auto VI into real-life Miami with a massive new promotional installation.\n\nA giant 'Welcome to Vice City' sign has been installed on the roof of the Kaseya Center, directly connecting GTA VI's fictional setting with the real city that inspired Vice City.\n\nThe installation is part of Rockstar's expanding marketing campaign ahead of the game's November 19 launch. Reports indicate that the promotional project represents a major investment, with Miami-Dade expected to receive significant revenue connected to the campaign.\n\nThe giant letters were lifted onto the arena's roof by helicopter as fans watched the installation take shape across the city.\n\nThe campaign suggests Rockstar is preparing to significantly increase GTA VI's physical presence in Miami during the final weeks before launch.\n\n🌴 Welcome to Vice City\n🏙️ Kaseya Center, Miami\n💰 Nearly $1 Million Reported\n🔥 GTA VI Marketing Campaign\n📅 Release: November 19, 2026",
+    "category": "GTA 6 News",
+    "published_at": "2026-09-23T16:00:00Z",
+    "is_featured": true
+  },
+  {
+    "id": 81,
+    "created_at": "2026-09-23T22:20:00+05:30",
+    "title": "🎵 GTA VI Album's Hidden Track Order Revealed",
+    "description": "The official GTA VI: The Album pre-save listing has revealed the numbered positions of all 34 tracks, although most artists and song titles remain hidden.",
+    "image_url": "https://github.com/akhileshgulia72-dotcom/gta6-news-server/blob/main/images/gta_image_32.png?raw=true",
+    "source": "GTA 6 Companion",
+    "article_content": "Fans have discovered that Grand Theft Auto VI: The Album's official pre-save listing already contains the numbered positions for all 34 tracks.\n\nRockstar and Atlantic Records have announced six singles so far, but the remaining 28 songs have not yet been publicly identified. The album listing nevertheless reveals where the released songs appear in the final 34-track sequence.\n\nYung Lean's 'That's It' occupies track 2, Travis Scott's 'RHYNO' is track 4, 'Sexy Magic' appears at track 5 and Morgan Wallen's 'Last Thing You Need' is track 8. Rauw Alejandro's 'Macacoa 2000' is listed at track 11, while Keith Richards' 'Bright Lights, Big City' appears at track 32.\n\nThe remaining positions are currently shown without publicly revealed artists or titles, leaving fans with 28 unidentified tracks to discover before the album launches.\n\n🎵 GTA VI: The Album\n💿 34 Total Tracks\n🔎 28 Tracks Still Unrevealed\n🎤 Six Singles Already Released\n📅 Album Release: November 19, 2026",
+    "category": "GTA 6 Music",
+    "published_at": "2026-09-23T14:00:00Z",
+    "is_featured": true
+  },
+  {
+    "id": 82,
+    "created_at": "2026-09-23T22:25:00+05:30",
+    "title": "🇦🇺 GTA VI Receives Australia's MA 15+ Classification",
+    "description": "Grand Theft Auto VI has received an MA 15+ classification in Australia, while final ESRB and PEGI ratings have yet to be published.",
+    "image_url": "https://github.com/akhileshgulia72-dotcom/gta6-news-server/blob/main/images/gta_image_33.png?raw=true",
+    "source": "GTA 6 Companion",
+    "article_content": "Grand Theft Auto VI has received an official classification in Australia ahead of its November launch.\n\nThe Australian Classification Board has classified GTA VI as MA 15+, providing one of the first official age classifications for Rockstar's upcoming open-world game.\n\nThe classification comes while GTA VI's final ESRB and PEGI ratings remain pending. Rockstar's own website continues to display the game's ESRB rating as pending, meaning players should not treat unofficial predictions about the final US or European ratings as confirmed.\n\nThe Australian classification gives players another indication of how the game is being assessed by international rating authorities before release.\n\nGrand Theft Auto VI is currently scheduled to launch on November 19, 2026 for PlayStation 5 and Xbox Series X|S.\n\n🇦🇺 Australian Classification: MA 15+\n🎮 GTA VI\n⚠️ ESRB & PEGI Ratings Still Pending\n📅 Release: November 19, 2026",
+    "category": "GTA 6 News",
+    "published_at": "2026-09-23T13:00:00Z",
+    "is_featured": true
+  },
          {
     "id": 77,
     "created_at": "2026-09-22T22:30:00+05:30",
@@ -322,43 +358,6 @@
     "category": "Official",
     "published_at": "2026-09-14T14:00:00Z",
     "is_featured": true
-  },
-    {
-    "id": 50,
-    "created_at": "2026-09-14T00:05:00+05:30",
-    "title": "🚔 GTA VI's New Heat System Could Change Police Chases",
-    "description": "Rockstar's latest gameplay details reveal a more persistent police system, with law enforcement able to track players beyond the traditional wanted-star system.",
-    "image_url": "https://github.com/akhileshgulia72-dotcom/gta6-news-server/blob/main/images/gta_image_post.png?raw=true",
-    "source": "GTA 6 Companion",
-    "article_content": "Grand Theft Auto VI is introducing a more advanced approach to police chases and wanted mechanics.\n\nAccording to newly discussed gameplay details from Rockstar, GTA VI will feature a Heat system designed to make law enforcement encounters more persistent and dynamic. Police responses can evolve depending on the situation rather than simply relying on the traditional wanted-star system.\n\nThe new system is expected to make escaping from police more challenging while giving players more strategic options during robberies, vehicle thefts and other criminal activities.\n\nRockstar has also revealed that players can approach certain robberies in different ways, adding more flexibility to missions across Leonida.\n\n🚔 Grand Theft Auto VI\n📅 Release Date: November 19, 2026\n🕹️ Platforms: PlayStation 5 and Xbox Series X|S",
-    "category": "Official",
-    "published_at": "2026-09-13T12:00:00Z",
-    "is_featured": true
-  },
-  {
-    "id": 51,
-    "created_at": "2026-09-14T00:10:00+05:30",
-    "title": "🚗 GTA VI Driving Aims to Blend GTA IV and GTA V",
-    "description": "Rockstar says GTA VI's driving combines the accessible handling of GTA V with the heavier, more grounded feel fans remember from GTA IV.",
-    "image_url": "https://github.com/akhileshgulia72-dotcom/gta6-news-server/blob/main/images/gta_image_2.png?raw=true",
-    "source": "GTA 6 Companion",
-    "article_content": "Rockstar is taking a hybrid approach to vehicle handling in Grand Theft Auto VI.\n\nNew comments from Rockstar North co-head Rob Nelson indicate that GTA VI's driving aims to combine elements that worked well in both GTA IV and GTA V. The goal is to make vehicles feel more substantial while keeping them accessible and enjoyable to control.\n\nThe updated driving system is part of Rockstar's broader effort to make movement and vehicle interactions feel more believable across Leonida.\n\nWith hundreds of vehicles already spotted across trailers and gameplay footage, the improved handling could make driving one of the most noticeable changes when players finally get their hands on the game.\n\n🚗 Grand Theft Auto VI\n📅 Release Date: November 19, 2026\n🕹️ Platforms: PlayStation 5 and Xbox Series X|S",
-    "category": "GTA 6 Vehicles",
-    "published_at": "2026-09-12T15:31:00Z",
-    "is_featured": true
-  },
-  {
-    "id": 52,
-    "created_at": "2026-09-14T00:15:00+05:30",
-    "title": "🌴 Miami Beach Approves GTA VI Marketing Deal",
-    "description": "Miami Beach commissioners voted 4-3 to approve a GTA VI promotional partnership that could bring around $3 million to the city.",
-    "image_url": "https://github.com/akhileshgulia72-dotcom/gta6-news-server/blob/main/images/gta_image_3.png?raw=true",
-    "source": "GTA 6 Companion",
-    "article_content": "Grand Theft Auto VI's marketing campaign is moving beyond the game itself and into the real world.\n\nMiami Beach commissioners voted 4-3 in favor of a promotional partnership connected to GTA VI. The campaign is expected to generate around $3 million for the city and could feature GTA VI branding on beach chairs and umbrellas.\n\nThe agreement sparked debate among local officials because of the game's themes involving crime and violence. Supporters, however, argued that the partnership could deliver significant economic and promotional benefits for Miami Beach.\n\nThe deal is another sign of just how large GTA VI's cultural and commercial impact has become ahead of its November launch.\n\n🌴 Grand Theft Auto VI\n📅 Release Date: November 19, 2026\n🕹️ Platforms: PlayStation 5 and Xbox Series X|S",
-    "category": "GTA 6 News",
-    "published_at": "2026-09-10T18:00:00Z",
-    "is_featured": true
   }
-  
  
 ]
