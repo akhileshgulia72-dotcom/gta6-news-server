@@ -1,4 +1,40 @@
 [
+   {
+    "id": 89,
+    "created_at": "2026-09-28T23:00:00+05:30",
+    "title": "📸 GTA VI Set for 12 New Screenshots in Game Informer",
+    "description": "Game Informer's upcoming GTA VI cover story will feature 12 exclusive screenshots and new interviews with Rockstar designers when the digital issue launches September 29.",
+    "image_url": "https://github.com/akhileshgulia72-dotcom/gta6-news-server/blob/main/images/gta_image_40.png?raw=true",
+    "source": "GTA 6 Companion",
+    "article_content": "Grand Theft Auto VI is set to receive another major information drop as Game Informer's latest issue puts Rockstar's upcoming game on the cover.\n\nThe 14-page feature includes exclusive interviews with several Rockstar Games lead designers and 12 new screenshots showing more of Vice City and Leonida.\n\nGame Informer says the story will explore how Rockstar built the world of GTA VI, including its advanced weather systems, wildlife across land, air and sea, and the research conducted in Miami and Florida.\n\nThe digital edition of the magazine is scheduled to go live on September 29, giving fans another major look at GTA VI ahead of its November launch.\n\n📸 12 New Exclusive Screenshots\n📰 14-Page Game Informer Feature\n🌴 Vice City & Leonida\n🌦️ Advanced Weather Systems\n🦎 Wildlife Across Leonida\n📅 Digital Issue: September 29, 2026",
+    "category": "GTA 6 News",
+    "published_at": "2026-09-28T16:00:00Z",
+    "is_featured": true
+  },
+  {
+    "id": 90,
+    "created_at": "2026-09-28T23:02:00+05:30",
+    "title": "🌦️ GTA VI's Advanced Weather System Gets New Details",
+    "description": "Game Informer has revealed that GTA VI will feature advanced weather systems designed to recreate the less sunny side of Florida across Leonida.",
+    "image_url": "https://github.com/akhileshgulia72-dotcom/gta6-news-server/blob/main/images/gta_image_41.png?raw=true",
+    "source": "GTA 6 Companion",
+    "article_content": "Rockstar Games is preparing a more advanced weather system for Grand Theft Auto VI, according to details revealed ahead of Game Informer's upcoming cover story.\n\nThe magazine says GTA VI's weather systems are designed to simulate Florida's less sunny weather phenomena, adding greater environmental variety to the world of Leonida.\n\nThe feature will explore how Rockstar designed the weather while building a believable version of modern-day Florida. However, specific gameplay effects from different weather conditions have not yet been fully revealed.\n\nMore details are expected when Game Informer's digital issue becomes available on September 29.\n\n🌦️ Advanced Weather System\n🌴 Florida-Inspired Weather\n🌧️ Leonida Environment\n📰 Rockstar Developer Interviews\n📅 More Details: September 29, 2026",
+    "category": "GTA 6 Gameplay",
+    "published_at": "2026-09-28T16:30:00Z",
+    "is_featured": true
+  },
+  {
+    "id": 91,
+    "created_at": "2026-09-28T23:04:00+05:30",
+    "title": "🦎 GTA VI Will Feature Wildlife Across Land, Air & Sea",
+    "description": "Rockstar has revealed that GTA VI's Leonida will contain a large variety of wildlife, with animals appearing across land, air and sea.",
+    "image_url": "https://github.com/akhileshgulia72-dotcom/gta6-news-server/blob/main/images/gta_image_42.png?raw=true",
+    "source": "GTA 6 Companion",
+    "article_content": "Grand Theft Auto VI is set to feature a large and varied wildlife population throughout Leonida.\n\nGame Informer's upcoming cover story reveals that Rockstar has created a staggering amount of wildlife, including native and non-native species living across the land, air and sea.\n\nThe wildlife system is part of Rockstar's broader effort to make Leonida feel like a believable version of Florida. The upcoming feature will provide more information about how the studio approached the game's ecosystem and environment.\n\nFans will be able to learn more when Game Informer's 14-page GTA VI feature launches digitally on September 29.\n\n🦎 Wildlife in GTA VI\n🌴 Leonida Ecosystem\n🦅 Land, Air & Sea\n🎮 Rockstar Games\n📸 12 New Screenshots Coming\n📅 Digital Issue: September 29, 2026",
+    "category": "GTA 6 Gameplay",
+    "published_at": "2026-09-28T17:00:00Z",
+    "is_featured": true
+  },
              {
     "id": 86,
     "created_at": "2026-09-25T22:50:00+05:30",
@@ -321,42 +357,6 @@
     "article_content": "Grand Theft Auto VI is expected to have a major impact on gaming livestreaming when it launches later this year.\n\nTwitch CEO Dan Clancy has discussed the expected impact of GTA VI on the streaming platform, saying the game's launch is likely to bring a significant influx of viewers.\n\nClancy also discussed the future of GTA VI's multiplayer experience, with expectations that an online component will arrive after the game's initial single-player release. The timing of GTA VI's multiplayer mode has not been officially announced by Rockstar Games.\n\nThe comments highlight how GTA VI could influence not only game sales but also the wider streaming and content-creation ecosystem when it launches.\n\n📺 Grand Theft Auto VI\n🎮 Release Date: November 19, 2026\n🕹️ PlayStation 5 and Xbox Series X|S\n🌐 GTA VI Multiplayer: Timing Not Officially Announced",
     "category": "GTA 6 News",
     "published_at": "2026-09-17T18:00:00Z",
-    "is_featured": true
-  },
-     {
-    "id": 59,
-    "created_at": "2026-09-16T22:20:00+05:30",
-    "title": "🔥 Rockstar Says GTA VI Is Extremely Hard to Showcase",
-    "description": "Rockstar says GTA VI is so packed with features and activities that fitting everything into trailers and previews has become a major challenge.",
-    "image_url": "https://github.com/akhileshgulia72-dotcom/gta6-news-server/blob/main/images/gta_image_10.png?raw=true",
-    "source": "GTA 6 Companion",
-    "article_content": "Rockstar Games has revealed why showing off Grand Theft Auto VI has been such a difficult task.\n\nRockstar North co-studio head Rob Nelson explained that GTA VI contains so many different features, activities and systems that it is extremely challenging to represent the full game in a single trailer or gameplay presentation.\n\nThe comments suggest that Rockstar is deliberately showing only selected portions of the huge open world, leaving many gameplay systems and activities for players to discover themselves.\n\nWith the November launch approaching, fans are expecting Rockstar to reveal more information as the marketing campaign continues.\n\n🔥 Grand Theft Auto VI\n📅 Release Date: November 19, 2026\n🕹️ Platforms: PlayStation 5 and Xbox Series X|S",
-    "category": "GTA 6 News",
-    "published_at": "2026-09-16T17:00:00Z",
-    "is_featured": true
-  },
-  {
-    "id": 60,
-    "created_at": "2026-09-16T22:25:00+05:30",
-    "title": "📈 GTA VI Pre-Orders Send PS5 Pro Sales Surging",
-    "description": "New UK data reportedly shows PS5 Pro sales jumping sharply after GTA VI pre-orders opened, highlighting the game's impact on console demand.",
-    "image_url": "https://github.com/akhileshgulia72-dotcom/gta6-news-server/blob/main/images/gta_image_11.png?raw=true",
-    "source": "GTA 6 Companion",
-    "article_content": "Grand Theft Auto VI is already having a noticeable impact on the console market before its release.\n\nNew UK sales data reported by idealo shows PlayStation 5 Pro sales increasing by 348% in a single week following the launch of GTA VI pre-orders. Sales of the PS5 Slim reportedly increased by 38% during the same period.\n\nThe figures suggest that some players are upgrading their hardware ahead of Rockstar's massive November release, although the data reflects sales activity rather than confirmed GTA VI purchases.\n\nGrand Theft Auto VI is currently scheduled to launch on November 19, 2026.\n\n📈 Grand Theft Auto VI\n📅 Release Date: November 19, 2026\n🕹️ Platforms: PlayStation 5 and Xbox Series X|S",
-    "category": "GTA 6 News",
-    "published_at": "2026-09-15T18:00:00Z",
-    "is_featured": true
-  },
-  {
-    "id": 61,
-    "created_at": "2026-09-16T22:30:00+05:30",
-    "title": "🎮 GTA VI Takes Center Stage at Tokyo Game Show",
-    "description": "PlayStation has announced a special GTA VI-focused event and free merchandise as part of its Tokyo Game Show 2026 plans.",
-    "image_url": "https://github.com/akhileshgulia72-dotcom/gta6-news-server/blob/main/images/gta_image_12.png?raw=true",
-    "source": "GTA 6 Companion",
-    "article_content": "Grand Theft Auto VI is set to receive major attention during Tokyo Game Show 2026.\n\nPlayStation has announced plans for a special GTA VI-focused event as part of its Tokyo Game Show activities, with free GTA VI merchandise also planned for visitors.\n\nThe event comes as Rockstar and PlayStation continue building momentum around the game's November release. Tokyo Game Show 2026 runs from September 17 through September 21, giving fans another major opportunity to see GTA VI-related promotion in the gaming world.\n\nThe event adds to the growing marketing push surrounding Rockstar's biggest upcoming release.\n\n🎮 Grand Theft Auto VI\n📅 Release Date: November 19, 2026\n🕹️ Platforms: PlayStation 5 and Xbox Series X|S",
-    "category": "GTA 6 News",
-    "published_at": "2026-09-16T20:00:00Z",
     "is_featured": true
   }
  
