@@ -1,4 +1,40 @@
 [
+      {
+    "id": 104,
+    "created_at": "2026-10-03T22:35:00+05:30",
+    "title": "🎮 GTA VI Reportedly Requires New PS5 System Software",
+    "description": "A new report claims GTA VI may require PlayStation 5 system software version 14.10.00.00 or newer to run at launch.",
+    "image_url": "https://github.com/akhileshgulia72-dotcom/gta6-news-server/blob/main/images/gta_image_55.png?raw=true",
+    "source": "GTA 6 Companion",
+    "article_content": "Grand Theft Auto VI may require a relatively recent PlayStation 5 system software version when it launches later this year.\n\nAccording to information reportedly discovered through PlayStation backend data, GTA VI is listed as requiring PS5 system software version 14.10.00.00 or newer.\n\nThe requirement has not been separately announced by Rockstar Games, so players should treat the information as a reported technical requirement rather than an official Rockstar confirmation.\n\nIf accurate, the requirement would ensure that GTA VI can take advantage of the latest platform-level features and system software improvements available on PlayStation 5.\n\n🎮 PS5 System Requirement\n⚙️ Firmware Version 14.10.00.00+\n🔍 Backend Data Report\n🔥 GTA VI\n📅 Release: November 19, 2026",
+    "category": "GTA 6 News",
+    "published_at": "2026-10-03T16:00:00Z",
+    "is_featured": true
+  },
+  {
+    "id": 105,
+    "created_at": "2026-10-03T22:36:00+05:30",
+    "title": "🔞 GTA VI Receives Restricted R18+ Rating in Australia",
+    "description": "Australia's classification board has reportedly given GTA VI an R18+ classification, citing strong themes, violence, drug use, nudity and sexual content.",
+    "image_url": "https://github.com/akhileshgulia72-dotcom/gta6-news-server/blob/main/images/gta_image_56.png?raw=true",
+    "source": "GTA 6 Companion",
+    "article_content": "Grand Theft Auto VI has received a restricted R18+ classification in Australia ahead of its November launch.\n\nThe Australian classification reportedly cites strong themes, violence, offensive language, drug use, nudity and sexual content among the game's mature content descriptors.\n\nThe rating provides another official indication of the type of adult content included in Rockstar's upcoming open-world game.\n\nOther regional ratings and descriptors can differ, so the Australian classification should not automatically be treated as the final rating for every market.\n\n🔞 R18+ Classification\n🇦🇺 Australia\n💥 Violence & Strong Themes\n💊 Drug Use\n🎮 GTA VI\n📅 Release: November 19, 2026",
+    "category": "GTA 6 News",
+    "published_at": "2026-10-03T15:30:00Z",
+    "is_featured": true
+  },
+  {
+    "id": 106,
+    "created_at": "2026-10-03T22:37:00+05:30",
+    "title": "💰 GTA VI Could Help Push Game Prices Higher",
+    "description": "Warhorse Studios co-founder Martin Klima says GTA VI could help establish higher price points for major new games across the industry.",
+    "image_url": "https://github.com/akhileshgulia72-dotcom/gta6-news-server/blob/main/images/gta_image_57.png?raw=true",
+    "source": "GTA 6 Companion",
+    "article_content": "Grand Theft Auto VI is being discussed not only for its gameplay but also for its potential impact on video game pricing.\n\nWarhorse Studios co-founder Martin Klima has said he hopes GTA VI becomes successful enough to help push game prices higher across the industry.\n\nKlima suggested that Rockstar Games and Take-Two Interactive are in a particularly strong position to influence pricing because of the scale and commercial importance of GTA VI.\n\nHowever, the comments represent an industry executive's opinion rather than a confirmed GTA VI pricing announcement. Rockstar has not announced that GTA VI will establish a new standard price for games.\n\n💰 Game Pricing Debate\n🎮 GTA VI\n🏢 Rockstar Games\n📈 Industry Pricing\n🗣️ Industry Executive Comments\n📅 Release: November 19, 2026",
+    "category": "GTA 6 News",
+    "published_at": "2026-10-03T12:00:00Z",
+    "is_featured": true
+  },
      {
     "id": 101,
     "created_at": "2026-10-02T23:15:00+05:30",
@@ -321,42 +357,6 @@
     "article_content": "Grand Theft Auto VI could use a region-by-region midnight release schedule when it launches on November 19.\n\nReports based on platform store and support documentation indicate that the game may unlock at midnight local time in each region rather than becoming available simultaneously worldwide.\n\nThis could mean players in New Zealand and other parts of the Asia-Pacific region receive access before players in Europe and North America, depending on their local time zones.\n\nRockstar Games has confirmed the November 19 release date and the PlayStation 5 and Xbox Series X|S launch platforms, but it has not published a detailed worldwide unlock schedule or officially explained the timing.\n\nPlayers should therefore treat the regional midnight schedule as reported information until Rockstar or the platform holders provide final confirmation.\n\n🌎 Regional Launch\n⏰ Midnight Local Time Reported\n📅 GTA VI Release: November 19, 2026\n🎮 PS5 & Xbox Series X|S\n⚠️ Final Schedule Not Officially Confirmed",
     "category": "GTA 6 News",
     "published_at": "2026-09-22T18:00:00Z",
-    "is_featured": true
-  },
-         {
-    "id": 74,
-    "created_at": "2026-09-21T22:50:00+05:30",
-    "title": "🚫 Rockstar Tightens GTA VI Modding Rules Ahead of Launch",
-    "description": "Rockstar has published updated modding guidelines ahead of GTA VI, placing new restrictions on fan-made story content, ports and unauthorized multiplayer projects.",
-    "image_url": "https://github.com/akhileshgulia72-dotcom/gta6-news-server/blob/main/images/gta_image_25.png?raw=true",
-    "source": "GTA 6 Companion",
-    "article_content": "Rockstar Games has introduced updated modding guidelines just weeks before Grand Theft Auto VI launches.\n\nThe new rules place stricter limits on certain types of fan-made content, including new story expansions, cross-game ports and unauthorized multiplayer experiences. The guidelines are intended to clarify what types of modifications are permitted across Rockstar's games.\n\nThe changes arrive as the GTA community prepares for GTA VI and follows years of growth around major multiplayer modification projects connected to the Grand Theft Auto series.\n\nRockstar has not announced a PC version of GTA VI, but the updated policy provides an early indication of how the company intends to approach modifications surrounding its games going forward.\n\n🚫 GTA VI Modding Rules\n🎮 New Rockstar Guidelines\n⚠️ Restrictions on Mods\n📅 GTA VI Release: November 19, 2026",
-    "category": "GTA 6 News",
-    "published_at": "2026-09-21T17:00:00Z",
-    "is_featured": true
-  },
-  {
-    "id": 75,
-    "created_at": "2026-09-21T22:55:00+05:30",
-    "title": "🛒 Rockstar Quietly Updates GTA VI Store Listings",
-    "description": "Rockstar has quietly revised GTA VI's PlayStation and Xbox store descriptions, including clearer pre-order deadlines and corrections to Ultimate Edition details.",
-    "image_url": "https://github.com/akhileshgulia72-dotcom/gta6-news-server/blob/main/images/gta_image_26.png?raw=true",
-    "source": "GTA 6 Companion",
-    "article_content": "Rockstar Games has quietly updated the official Grand Theft Auto VI store descriptions on PlayStation and Xbox.\n\nThe changes include clearer wording around the pre-order deadline and several formatting and legal-information updates. The PlayStation listing now specifies that purchases must be completed before November 19, 2026 at 23:59:59 to receive the listed pre-order benefits.\n\nThe Xbox listing also received additional legal text and a correction to the name of Macca the Gator, a fictional character featured in the game's promotional material.\n\nWhile the updates do not reveal major new gameplay features, they show Rockstar continuing to refine GTA VI's official store pages as the November launch approaches.\n\n🛒 GTA VI Store Updates\n🎮 PlayStation 5 & Xbox Series X|S\n📅 Release: November 19, 2026\n🔥 Launch Preparation Continues",
-    "category": "GTA 6 News",
-    "published_at": "2026-09-21T17:30:00Z",
-    "is_featured": true
-  },
-  {
-    "id": 76,
-    "created_at": "2026-09-21T23:00:00+05:30",
-    "title": "👕 Free GTA VI Tokyo Game Show Shirts Resell for Over $200",
-    "description": "Limited GTA VI shirts given away at Tokyo Game Show have appeared on resale platforms for more than $200 after huge crowds overwhelmed the PlayStation booth.",
-    "image_url": "https://github.com/akhileshgulia72-dotcom/gta6-news-server/blob/main/images/gta_image_27.png?raw=true",
-    "source": "GTA 6 Companion",
-    "article_content": "A limited-edition Grand Theft Auto VI shirt distributed at Tokyo Game Show 2026 has quickly become a sought-after collector's item.\n\nThe shirts were given to visitors who attended an immersive GTA VI presentation at the PlayStation booth, featuring the game's Extended Look with haptic feedback and surround sound.\n\nDemand was so high that the booth reportedly reached capacity shortly after opening to the public. Some of the free shirts later appeared on resale platforms, with listings and reported sales reaching more than $200.\n\nThe unusual resale activity highlights the level of interest surrounding GTA VI merchandise even before the game reaches stores.\n\n👕 GTA VI Tokyo Game Show Shirt\n🎮 PlayStation Booth\n💰 Resale Prices: $200+\n📅 GTA VI Release: November 19, 2026",
-    "category": "GTA 6 News",
-    "published_at": "2026-09-21T18:00:00Z",
     "is_featured": true
   }
  
