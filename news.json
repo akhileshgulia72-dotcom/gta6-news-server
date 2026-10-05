@@ -1,5 +1,41 @@
 [
       {
+    "id": 107,
+    "created_at": "2026-10-05T22:00:00+05:30",
+    "title": "🎵 Spotify Leak Reveals Two More GTA VI Album Artists",
+    "description": "A brief Spotify listing reportedly revealed Cardi B and Fuerza Regida as additional artists connected to GTA VI: The Album before the entries were removed.",
+    "image_url": "https://github.com/akhileshgulia72-dotcom/gta6-news-server/blob/main/images/gta_image_58.png?raw=true",
+    "source": "GTA 6 Companion",
+    "article_content": "Two more artists may have been revealed for Grand Theft Auto VI: The Album after Spotify briefly displayed additional artist information.\n\nAccording to reports and screenshots shared by GTA community accounts, Fuerza Regida appeared alongside track 10 while Cardi B was reportedly listed for track 19. The Spotify entries were later removed.\n\nNeither artist has been officially confirmed by Rockstar Games, so the discovery should currently be treated as an unconfirmed soundtrack leak rather than an official announcement.\n\nThe full GTA VI: The Album is expected to contain 34 tracks and is scheduled to release alongside the game on November 19.\n\n🎵 GTA VI: The Album\n🎤 Cardi B\n🎤 Fuerza Regida\n💿 Tracks 10 & 19\n⚠️ Unconfirmed Spotify Leak\n📅 Album Release: November 19, 2026",
+    "category": "GTA 6 Music",
+    "published_at": "2026-10-05T15:40:00Z",
+    "is_featured": true
+  },
+  {
+    "id": 108,
+    "created_at": "2026-10-05T22:05:00+05:30",
+    "title": "🏀 Miami Heat Will Become Vice City for GTA VI Launch",
+    "description": "The Miami Heat will transform its November 18 home game into a GTA VI-themed 'A Night in Vice City' event one day before the game's launch.",
+    "image_url": "https://github.com/akhileshgulia72-dotcom/gta6-news-server/blob/main/images/gta_image_59.png?raw=true",
+    "source": "GTA 6 Companion",
+    "article_content": "Rockstar Games is taking GTA VI's Vice City marketing into the NBA with a special Miami Heat crossover.\n\nOn November 18, one day before GTA VI launches, the Miami Heat will host the Milwaukee Bucks at Kaseya Center for a special 'A Night in Vice City' event.\n\nThe Heat will use a custom Vice City-themed court and special uniforms, with additional GTA VI-inspired activities planned around the game. The event is scheduled for 7 PM Eastern Time.\n\nThe collaboration gives Rockstar another major real-world promotional event immediately before GTA VI's November 19 launch.\n\n🏀 Miami Heat\n🌴 A Night in Vice City\n🎮 GTA VI\n🏟️ Kaseya Center\n🔥 Special Court & Uniforms\n📅 Event: November 18, 2026",
+    "category": "GTA 6 News",
+    "published_at": "2026-10-05T16:00:00Z",
+    "is_featured": true
+  },
+  {
+    "id": 109,
+    "created_at": "2026-10-05T22:10:00+05:30",
+    "title": "🧑‍💻 Rockstar Wants Lucia to Stand With GTA's Greatest Characters",
+    "description": "Rockstar writers say Lucia was designed as a deeply developed protagonist who could stand alongside iconic characters such as Arthur Morgan and Niko Bellic.",
+    "image_url": "https://github.com/akhileshgulia72-dotcom/gta6-news-server/blob/main/images/gta_image_60.png?raw=true",
+    "source": "GTA 6 Companion",
+    "article_content": "Rockstar's latest LOVE Magazine interview has revealed more about the studio's ambitions for Lucia Caminos.\n\nThe writers described Lucia as a fully realized and imperfect character whose personality, motivations and relationships are intended to make her feel authentic rather than simply serving as a second protagonist.\n\nRockstar's narrative team also discussed the importance of giving Jason and Lucia emotional depth and allowing both characters to influence each other throughout the story.\n\nThe developers hope Lucia can eventually stand alongside memorable Rockstar protagonists such as Arthur Morgan and Niko Bellic.\n\n👩 Lucia Caminos\n❤️ Character Development\n🎮 GTA VI\n✍️ Rockstar Writing Team\n🔥 Jason & Lucia\n📅 Release: November 19, 2026",
+    "category": "Characters",
+    "published_at": "2026-10-05T17:00:00Z",
+    "is_featured": true
+  },
+      {
     "id": 104,
     "created_at": "2026-10-03T22:35:00+05:30",
     "title": "🎮 GTA VI Reportedly Requires New PS5 System Software",
@@ -321,42 +357,6 @@
     "article_content": "Grand Theft Auto VI has received an official classification in Australia ahead of its November launch.\n\nThe Australian Classification Board has classified GTA VI as MA 15+, providing one of the first official age classifications for Rockstar's upcoming open-world game.\n\nThe classification comes while GTA VI's final ESRB and PEGI ratings remain pending. Rockstar's own website continues to display the game's ESRB rating as pending, meaning players should not treat unofficial predictions about the final US or European ratings as confirmed.\n\nThe Australian classification gives players another indication of how the game is being assessed by international rating authorities before release.\n\nGrand Theft Auto VI is currently scheduled to launch on November 19, 2026 for PlayStation 5 and Xbox Series X|S.\n\n🇦🇺 Australian Classification: MA 15+\n🎮 GTA VI\n⚠️ ESRB & PEGI Ratings Still Pending\n📅 Release: November 19, 2026",
     "category": "GTA 6 News",
     "published_at": "2026-09-23T13:00:00Z",
-    "is_featured": true
-  },
-         {
-    "id": 77,
-    "created_at": "2026-09-22T22:30:00+05:30",
-    "title": "🗺️ GTA VI's Early Leonida Map Reportedly Reaches FiveM",
-    "description": "A decade-old prototype of the GTA VI map has reportedly been made to run through FiveM, giving developers a technical look at an early version of Leonida.",
-    "image_url": "https://github.com/akhileshgulia72-dotcom/gta6-news-server/blob/main/images/gta_image_28.png?raw=true",
-    "source": "GTA 6 Companion",
-    "article_content": "An extremely early version of the Grand Theft Auto VI map has reportedly been ported into FiveM.\n\nThe map is believed to come from Rockstar development material dating back to 2014 or 2015 and represents an unfinished version of Leonida from an early stage of GTA VI's development.\n\nThe project was reportedly created by a FiveM user known as Glowabl3, who demonstrated that the old map could technically run within the multiplayer framework. However, the creator has reportedly decided not to release a public server because of Rockstar and Cfx.re rules surrounding leaked and external game assets.\n\nThe discovery does not represent the final GTA VI map and should not be treated as an indication of what the launch version will contain. Instead, it provides another glimpse at how dramatically the game's world has evolved during development.\n\n🗺️ GTA VI Prototype Map\n🌴 Early Leonida Build\n🎮 FiveM\n⚠️ Not the Final GTA VI Map\n📅 Release: November 19, 2026",
-    "category": "GTA 6 News",
-    "published_at": "2026-09-22T13:03:00Z",
-    "is_featured": true
-  },
-  {
-    "id": 78,
-    "created_at": "2026-09-22T22:35:00+05:30",
-    "title": "💿 GTA VI's $125 Liquid Vinyl Becomes a Collector's Item",
-    "description": "The limited-edition GTA VI album vinyl priced at $124.98 has quickly sold out on some regional storefronts as collectors rush to secure the unusual release.",
-    "image_url": "https://github.com/akhileshgulia72-dotcom/gta6-news-server/blob/main/images/gta_image_29.png?raw=true",
-    "source": "GTA 6 Companion",
-    "article_content": "Grand Theft Auto VI's upcoming soundtrack is already becoming a collector's item before the game itself launches.\n\nThe limited-edition physical version of GTA VI: The Album is priced at $124.98 and features two transparent magenta records filled with blue liquid, along with exclusive packaging and artwork.\n\nThe unusual vinyl edition quickly sold out on some regional versions of Rockstar and Atlantic Records' official store, although availability has differed between countries. The standard vinyl and CD editions remain separate products.\n\nThe limited pressing has also attracted attention from collectors and resellers, although reported resale listings should not be confused with confirmed completed sales.\n\nThe album contains 34 original tracks and is scheduled to release alongside Grand Theft Auto VI on November 19.\n\n💿 GTA VI: The Album\n💰 Limited Vinyl: $124.98\n🎵 34 Original Tracks\n🔥 Limited Collector's Edition\n📅 Album Release: November 19, 2026",
-    "category": "GTA 6 Music",
-    "published_at": "2026-09-22T16:00:00Z",
-    "is_featured": true
-  },
-  {
-    "id": 79,
-    "created_at": "2026-09-22T22:40:00+05:30",
-    "title": "🌎 GTA VI Could Unlock at Midnight in Each Region",
-    "description": "Platform and support documentation reportedly indicates that GTA VI may become playable at midnight on November 19 in each region rather than at one global launch time.",
-    "image_url": "https://github.com/akhileshgulia72-dotcom/gta6-news-server/blob/main/images/gta_image_30.png?raw=true",
-    "source": "GTA 6 Companion",
-    "article_content": "Grand Theft Auto VI could use a region-by-region midnight release schedule when it launches on November 19.\n\nReports based on platform store and support documentation indicate that the game may unlock at midnight local time in each region rather than becoming available simultaneously worldwide.\n\nThis could mean players in New Zealand and other parts of the Asia-Pacific region receive access before players in Europe and North America, depending on their local time zones.\n\nRockstar Games has confirmed the November 19 release date and the PlayStation 5 and Xbox Series X|S launch platforms, but it has not published a detailed worldwide unlock schedule or officially explained the timing.\n\nPlayers should therefore treat the regional midnight schedule as reported information until Rockstar or the platform holders provide final confirmation.\n\n🌎 Regional Launch\n⏰ Midnight Local Time Reported\n📅 GTA VI Release: November 19, 2026\n🎮 PS5 & Xbox Series X|S\n⚠️ Final Schedule Not Officially Confirmed",
-    "category": "GTA 6 News",
-    "published_at": "2026-09-22T18:00:00Z",
     "is_featured": true
   }
  
