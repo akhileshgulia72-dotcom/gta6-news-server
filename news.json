@@ -1,4 +1,40 @@
 [
+        {
+    "id": 113,
+    "created_at": "2026-10-07T23:00:00+05:30",
+    "title": "☁️ GTA VI Will Support Xbox Cloud Gaming at Launch",
+    "description": "Xbox has confirmed that GTA VI will be available through Xbox Cloud Gaming on Xbox consoles at launch, although it will not be streamed to PC.",
+    "image_url": "https://github.com/akhileshgulia72-dotcom/gta6-news-server/blob/main/images/gta_image_64.png?raw=true",
+    "source": "GTA 6 Companion",
+    "article_content": "Grand Theft Auto VI is set to receive Xbox Cloud Gaming support when it launches on November 19, 2026.\n\nMicrosoft has clarified that GTA VI will be playable through Xbox Cloud Gaming on supported Xbox consoles. However, the company says the game will not be available for PC streaming through Xbox Cloud Gaming at launch.\n\nThe clarification follows reports that Microsoft had secured an exclusive cloud-streaming arrangement for GTA VI. Xbox chief strategy officer Matthew Ball pushed back against the idea of an exclusive streaming deal while confirming that GTA VI will launch on Xbox on November 19.\n\nThe cloud support gives Xbox players another way to access GTA VI without relying entirely on a local installation, while Rockstar's official release platforms remain PlayStation 5 and Xbox Series X|S.\n\n☁️ Xbox Cloud Gaming\n🎮 Xbox Series X|S\n💻 No PC Cloud Streaming\n🔥 GTA VI\n📅 Release: November 19, 2026",
+    "category": "GTA 6 News",
+    "published_at": "2026-10-07T18:00:00Z",
+    "is_featured": true
+  },
+  {
+    "id": 114,
+    "created_at": "2026-10-07T23:05:00+05:30",
+    "title": "💬 GTA VI Discord Campaign Reportedly Leaks",
+    "description": "A Discord datamine reportedly reveals a limited-time GTA VI campaign called 'Hexagon' featuring a Vice City theme, custom icon and GTA-style font.",
+    "image_url": "https://github.com/akhileshgulia72-dotcom/gta6-news-server/blob/main/images/gta_image_65.png?raw=true",
+    "source": "GTA 6 Companion",
+    "article_content": "A new Discord datamine has reportedly revealed a limited-time Grand Theft Auto VI promotional campaign ahead of the game's November launch.\n\nThe campaign is reportedly codenamed 'Hexagon' and could introduce a GTA VI-themed Discord app icon, a Vice City-inspired theme and a custom GTA-style display name font.\n\nThe leaked information also mentions a possible Discord Quest that could provide users with an unknown GTA VI-themed reward. The campaign is reportedly scheduled to begin on November 17, two days before GTA VI launches.\n\nAccording to the leaked dates, the promotion could remain available to free Discord users until December 8, while Nitro subscribers may retain access until February 15, 2027.\n\nHowever, Rockstar Games and Discord have not officially confirmed the campaign, so the details should be treated as a leak rather than an official announcement.\n\n💬 Discord Collaboration\n🌴 Vice City Theme\n🎨 GTA VI App Icon\n🔤 Custom Display Font\n🎁 Possible Quest Reward\n⚠️ Unconfirmed Leak\n📅 Reported Start: November 17, 2026",
+    "category": "GTA 6 News",
+    "published_at": "2026-10-07T17:00:00Z",
+    "is_featured": true
+  },
+  {
+    "id": 115,
+    "created_at": "2026-10-07T23:10:00+05:30",
+    "title": "🪖 Rockstar Explains Jason's Military Background in GTA VI",
+    "description": "Rockstar's narrative team says Jason's former military service was created as part of his personal history rather than to make a political statement.",
+    "image_url": "https://github.com/akhileshgulia72-dotcom/gta6-news-server/blob/main/images/gta_image_66.png?raw=true",
+    "source": "GTA 6 Companion",
+    "article_content": "Rockstar Games has provided more insight into Jason Duval's background and his time in the military in Grand Theft Auto VI.\n\nAccording to Rockstar's narrative team, Jason grew up around criminals before briefly joining the Army in an attempt to escape his troubled upbringing. After leaving the military, he eventually returned to a life of crime.\n\nRockstar narrative executive Rupert Humphries explained that Jason's military history was not intended to make a specific political or social statement. Instead, the character's criminal path is connected to his circumstances and personal choices.\n\nThe developers have left room for players to interpret whether Jason's decisions are driven primarily by necessity, personality or both. His background adds another layer to the character ahead of the game's November launch.\n\n🪖 Jason Duval\n🎖️ Former Military Service\n✍️ Rockstar Narrative Team\n🌴 Leonida\n🎮 GTA VI\n📅 Release: November 19, 2026",
+    "category": "Characters",
+    "published_at": "2026-10-06T16:00:00Z",
+    "is_featured": true
+  },
        {
     "id": 110,
     "created_at": "2026-10-06T21:00:00+05:30",
@@ -321,42 +357,6 @@
     "article_content": "Rockstar North has explained the visual philosophy behind Grand Theft Auto VI, saying the game is designed to feel realistic rather than simply look photorealistic.\n\nRockstar North co-studio head Rob Nelson explained that the studio believes pure photorealism can age poorly as technology advances. Instead, GTA VI uses a carefully controlled visual style that combines realistic environments, characters and lighting with Rockstar's traditional artistic direction.\n\nThe approach is intended to help the game's world remain visually convincing for years while keeping characters and action readable during gameplay.\n\nThe philosophy continues Rockstar's long-running preference for stylized realism rather than completely photorealistic visuals.\n\n🎨 GTA VI Visual Design\n🌴 Vice City & Leonida\n🧑‍🎨 Rockstar North\n🔥 Realistic, Not Purely Photorealistic\n📅 Release: November 19, 2026",
     "category": "GTA 6 Gameplay",
     "published_at": "2026-09-25T17:00:00Z",
-    "is_featured": true
-  },
-            {
-    "id": 83,
-    "created_at": "2026-09-24T23:30:00+05:30",
-    "title": "💰 Rockstar Reveals $400 GTA VI Vice City Collection",
-    "description": "Rockstar has officially opened pre-orders for the $399.99 Goodtime State – Vice City Collection, a premium GTA VI merchandise bundle that does not include the game.",
-    "image_url": "https://github.com/akhileshgulia72-dotcom/gta6-news-server/blob/main/images/gta_image_34.png?raw=true",
-    "source": "GTA 6 Companion",
-    "article_content": "Rockstar Games has officially revealed a new premium merchandise collection for Grand Theft Auto VI.\n\nThe Goodtime State – Vice City Collection is priced at $399.99 and includes 11 Vice City and Leonida-themed items, including a Macca the Gator figure, Oakley sunglasses, a Leonida Keys crossbody bag, a New Era hat, collectibles, stickers and a double-sided Leonida map poster.\n\nDespite its high price, the collection does not include a copy of Grand Theft Auto VI. The game must be purchased separately.\n\nRockstar says the collection will begin shipping on November 19, 2026, with availability limited while supplies last.\n\n💰 Price: $399.99\n🧳 11 Collectible Items\n🐊 Macca the Gator Figure\n🗺️ Leonida Map Poster\n📅 Ships: November 19, 2026",
-    "category": "GTA 6 News",
-    "published_at": "2026-09-24T16:00:00Z",
-    "is_featured": true
-  },
-  {
-    "id": 84,
-    "created_at": "2026-09-24T23:32:00+05:30",
-    "title": "🛍️ Over 50 New GTA VI Merchandise Items Surface",
-    "description": "More than 50 previously unannounced GTA VI merchandise products have been discovered in Rockstar's store data, including clothing, accessories and collectibles.",
-    "image_url": "https://github.com/akhileshgulia72-dotcom/gta6-news-server/blob/main/images/gta_image_35.png?raw=true",
-    "source": "GTA 6 Companion",
-    "article_content": "Rockstar Games appears to be preparing a major wave of Grand Theft Auto VI merchandise ahead of launch.\n\nData discovered from the Rockstar Store reportedly revealed more than 50 upcoming GTA VI products, including T-shirts, caps, hats, bags, sticker packs, accessories and collectibles.\n\nThe catalogue also contains products inspired by fictional brands and businesses from Leonida, suggesting Rockstar is expanding GTA VI's merchandise beyond traditional game-branded clothing.\n\nSome of the products were initially discovered before Rockstar officially announced the Goodtime State – Vice City Collection. Rockstar has now confirmed that collection, while many other merchandise items remain unannounced.\n\n👕 50+ Merchandise Items\n🧢 GTA VI Clothing & Accessories\n🛍️ Rockstar Store\n🌴 Leonida-Inspired Products\n📅 GTA VI Release: November 19, 2026",
-    "category": "GTA 6 News",
-    "published_at": "2026-09-24T15:00:00Z",
-    "is_featured": true
-  },
-  {
-    "id": 85,
-    "created_at": "2026-09-24T23:34:00+05:30",
-    "title": "🌍 GTA VI Physical Cases Appear in Stores Before Launch",
-    "description": "Retailers in Europe, the UK and Japan have reportedly begun displaying GTA VI physical game cases nearly two months before its November release.",
-    "image_url": "https://github.com/akhileshgulia72-dotcom/gta6-news-server/blob/main/images/gta_image_36.png?raw=true",
-    "source": "GTA 6 Companion",
-    "article_content": "Grand Theft Auto VI physical game packaging is reportedly beginning to appear at retail locations ahead of its November launch.\n\nImages shared from retailers in Europe, the United Kingdom and Japan show physical GTA VI cases for PlayStation 5 and Xbox Series X|S featuring Jason and Lucia artwork.\n\nThe early appearance of the cases comes nearly two months before the official November 19 release date and gives fans another look at the game's retail presentation.\n\nThe displayed packaging also highlights the Vintage Vice City Pack offered as a pre-order bonus. The appearance of retail cases does not mean the game is available to play before launch.\n\n📦 Physical GTA VI Cases\n🌍 Europe, UK & Japan\n🎮 PS5 & Xbox Series X|S\n🎁 Vintage Vice City Pack\n📅 Release: November 19, 2026",
-    "category": "GTA 6 News",
-    "published_at": "2026-09-24T14:00:00Z",
     "is_featured": true
   }
  
