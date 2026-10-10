@@ -1,4 +1,40 @@
 [
+           {
+    "id": 122,
+    "created_at": "2026-10-10T22:00:00+05:30",
+    "title": "🛍️ GTA VI Official Merch Is Here — Vice City Collectibles Revealed!",
+    "description": "Rockstar's official store has introduced a new GTA VI collection featuring themed clothing, accessories and Vice City-inspired collectibles ahead of launch.",
+    "image_url": "https://github.com/akhileshgulia72-dotcom/gta6-news-server/blob/main/images/gta_image_73.png?raw=true",
+    "source": "Rockstar Games Store",
+    "article_content": "Grand Theft Auto VI fans have another way to celebrate the upcoming release, with a new collection of officially branded merchandise appearing in the Rockstar Store.\n\nThe collection reportedly includes T-shirts, caps, tote bags and accessories inspired by the world of Vice City. Among the highlighted items are a Vice City-themed Zippo lighter and a money clip, alongside designs connected to GTA VI's fictional setting.\n\nThe merchandise rollout gives fans a chance to bring a piece of Leonida into the real world before the game's highly anticipated launch.\n\nRockstar's official store is the place to check current product availability, regional shipping restrictions and prices. Availability may vary by location.\n\n🛍️ Official GTA VI Collection\n🌴 Vice City-Inspired Designs\n👕 Themed Clothing\n🧢 Caps & Accessories\n🔥 Collectibles for Fans\n🎮 Grand Theft Auto VI\n📅 Game Release: November 19, 2026",
+    "category": "GTA 6 Merchandise",
+    "published_at": "2026-10-10T16:30:00Z",
+    "is_featured": true
+  },
+  {
+    "id": 123,
+    "created_at": "2026-10-10T22:05:00+05:30",
+    "title": "👀 GTA VI Boss Sam Houser Reportedly Withdraws From Major GQ Interview",
+    "description": "A new report claims Rockstar president Sam Houser has withdrawn from a long-planned GQ interview just weeks before GTA VI launches. The reason has not been independently confirmed.",
+    "image_url": "https://github.com/akhileshgulia72-dotcom/gta6-news-server/blob/main/images/gta_image_74.png?raw=true",
+    "source": "Leonida Hub",
+    "article_content": "A fresh report has drawn attention to Rockstar Games president Sam Houser after a major interview reportedly planned with GQ was called off shortly before the release of Grand Theft Auto VI.\n\nAccording to reporting summarized by Leonida Hub on October 10, journalist Sam White said the interview had taken years to arrange before Houser reportedly withdrew, largely for personal reasons.\n\nThe development has attracted attention because GTA VI is approaching its scheduled November launch, when interest in Rockstar's leadership and the game's development is particularly high.\n\nHowever, this remains a reported development rather than a confirmed change to GTA VI's launch plans. There is no verified evidence from this report alone that the interview cancellation signals a delay, production problem or other change to the game.\n\n👀 Sam Houser Report\n📰 GQ Interview\n🎮 Rockstar Games\n⏳ Weeks Before Launch\n⚠️ Reported, Not an Official GTA VI Announcement\n📅 Report Date: October 10, 2026\n🎯 Expected Game Release: November 19, 2026",
+    "category": "GTA 6 News",
+    "published_at": "2026-10-10T17:35:00Z",
+    "is_featured": true
+  },
+  {
+    "id": 124,
+    "created_at": "2026-10-10T22:10:00+05:30",
+    "title": "⏳ GTA VI Pre-Loading Date Confirmed — Get Ready for November 12!",
+    "description": "Rockstar's support information says digital pre-loading for GTA VI begins at local midnight on November 12, seven days before the game's scheduled launch.",
+    "image_url": "https://github.com/akhileshgulia72-dotcom/gta6-news-server/blob/main/images/gta_image_75.png?raw=true",
+    "source": "Rockstar Games Support",
+    "article_content": "The countdown to Grand Theft Auto VI is entering a crucial stage, and players preparing to purchase the game have an important date to remember.\n\nAccording to Rockstar Games' official platform and edition support information, digital pre-loading for GTA VI is scheduled to begin at local midnight on November 12, 2026. This will allow eligible players who have pre-ordered the digital version to start downloading the game ahead of its November 19 launch.\n\nRockstar's support page also states that physical versions will be distributed as download-code packages rather than traditional discs. These packages are expected to become available for shipping or pickup beginning November 12, supporting the pre-loading process.\n\nPlayers should check their PlayStation or Xbox storefront for account eligibility, available storage and the exact download instructions for their region.\n\n⏳ Pre-Load Date: November 12, 2026\n🌎 Starts at Local Midnight\n🎮 PlayStation 5\n🟩 Xbox Series X|S\n📦 Physical Edition Uses a Download Code\n🔥 Seven Days Before Launch\n📅 GTA VI Release: November 19, 2026",
+    "category": "GTA 6 News",
+    "published_at": "2026-10-10T18:40:00Z",
+    "is_featured": true
+  },
          {
     "id": 119,
     "created_at": "2026-10-09T19:00:00+05:30",
@@ -321,42 +357,6 @@
     "article_content": "Grand Theft Auto VI has received a major new batch of official gameplay imagery through Game Informer's latest cover story.\n\nThe feature includes 12 new screenshots showing previously unseen locations and gameplay moments across Leonida. The images include downtown Vice City and the Sahara Arena, wetlands filled with wildlife, storms over the Keys, Jason and Lucia at the beach, Jason riding a helicopter and Lucia carrying a rifle.\n\nOther screenshots show a hunter on an ATV, alligators near a swamp dock, a crop duster, a biker bar and a waterfall hiking area.\n\nThe new images provide another detailed look at the environments and activities players can expect when GTA VI launches.\n\n📸 12 New Screenshots\n🏙️ Sahara Arena\n🌴 Vice City & Leonida\n🐊 Wildlife\n🚁 Helicopter Gameplay\n🌩️ Stormy Weather\n🎮 GTA VI\n📅 Release: November 19, 2026",
     "category": "GTA 6 News",
     "published_at": "2026-09-30T17:00:00Z",
-    "is_featured": true
-  },
-   {
-    "id": 92,
-    "created_at": "2026-09-29T22:00:00+05:30",
-    "title": "🗺️ GTA VI Map Confirmed as Rockstar's Biggest Ever",
-    "description": "New Game Informer details reveal that GTA VI's Leonida map is the largest world Rockstar Games has ever created.",
-    "image_url": "https://github.com/akhileshgulia72-dotcom/gta6-news-server/blob/main/images/gta_image_43.png?raw=true",
-    "source": "GTA 6 Companion",
-    "article_content": "Grand Theft Auto VI is set to feature the largest open world Rockstar Games has ever created.\n\nNew details from Game Informer's GTA VI cover story reveal that the Leonida map is bigger than any previous Rockstar game by a noticeable margin.\n\nThe enormous world includes Vice City along with surrounding rural, coastal and wilderness areas, giving players a much larger environment to explore when the game launches.\n\nRockstar's developers have also discussed the importance of scale and environmental detail, suggesting that the expanded map is designed to feel dense and alive rather than simply being large.\n\n🗺️ Biggest Rockstar Map Ever\n🌴 Leonida & Vice City\n🎮 Rockstar Games\n📈 Expanded Open World\n📅 Release: November 19, 2026",
-    "category": "GTA 6 Gameplay",
-    "published_at": "2026-09-29T16:30:00Z",
-    "is_featured": true
-  },
-  {
-    "id": 93,
-    "created_at": "2026-09-29T22:02:00+05:30",
-    "title": "🦈 GTA VI Features More Than 170 Animal Species",
-    "description": "Game Informer's new GTA VI coverage reveals that Leonida is home to more than 170 animal species across land, air and water.",
-    "image_url": "https://github.com/akhileshgulia72-dotcom/gta6-news-server/blob/main/images/gta_image_44.png?raw=true",
-    "source": "GTA 6 Companion",
-    "article_content": "Grand Theft Auto VI's wildlife system is significantly larger than previously revealed.\n\nNew information from Game Informer's exclusive coverage indicates that GTA VI features more than 170 animal species throughout Leonida.\n\nThe animals are spread across different environments, including beaches, forests, wetlands, cities and waterways. The variety is part of Rockstar's effort to make the world feel like a living ecosystem inspired by Florida.\n\nThe expanded wildlife system includes animals living both on land and in the water, adding another layer of environmental activity to the massive open world.\n\n🦈 170+ Animal Species\n🌴 Leonida Wildlife\n🌊 Land, Air & Water\n🐊 Florida-Inspired Ecosystem\n🎮 GTA VI\n📅 Release: November 19, 2026",
-    "category": "GTA 6 Gameplay",
-    "published_at": "2026-09-29T17:00:00Z",
-    "is_featured": true
-  },
-  {
-    "id": 94,
-    "created_at": "2026-09-29T22:04:00+05:30",
-    "title": "🌪️ GTA VI Weather System Can Create Powerful Hurricanes",
-    "description": "New Game Informer details reveal a much more dynamic weather system in GTA VI, including localized storms and hurricane-style conditions.",
-    "image_url": "https://github.com/akhileshgulia72-dotcom/gta6-news-server/blob/main/images/gta_image_45.png?raw=true",
-    "source": "GTA 6 Companion",
-    "article_content": "Grand Theft Auto VI is taking its weather system to a new level with more localized and persistent conditions across Leonida.\n\nAccording to new details from Game Informer's Rockstar interviews, the weather system has been re-engineered so conditions can develop differently across the massive map rather than affecting the entire world uniformly.\n\nThe Florida-inspired setting also allows Rockstar to recreate dramatic weather phenomena, including powerful storms and hurricane conditions.\n\nThe system is designed to make weather feel like a persistent part of the world, potentially changing the atmosphere and activities players encounter across Leonida.\n\n🌪️ Dynamic Storms\n🌧️ Localized Weather\n🌴 Florida-Inspired Conditions\n🌊 Hurricane-Style Weather\n🎮 GTA VI\n📅 Release: November 19, 2026",
-    "category": "GTA 6 Gameplay",
-    "published_at": "2026-09-29T17:30:00Z",
     "is_featured": true
   }
  
