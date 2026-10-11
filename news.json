@@ -1,5 +1,41 @@
 [
            {
+    "id": 125,
+    "created_at": "2026-10-11T23:00:00+05:30",
+    "title": "🚨 GTA VI Leaker Threatens to Release the Entire Game!",
+    "description": "CyberLeek claims it will release a complete playable GTA VI build if its associated cryptocurrency reaches a $30 million market capitalization. The claim remains unverified.",
+    "image_url": "https://github.com/akhileshgulia72-dotcom/gta6-news-server/blob/main/images/gta_image_76.png?raw=true",
+    "source": "Tom's Hardware",
+    "article_content": "Grand Theft Auto VI has been pulled into a new controversy after the anonymous leaker known as CyberLeek issued a threat involving an alleged complete game build.\n\nOn October 10, CyberLeek claimed it would release the full playable build, including the entire single-player campaign, if its associated cryptocurrency reached a $30 million market capitalization.\n\nThe account also demanded that Take-Two Interactive arrange a physical-disc release and issue a public apology. The announcement has raised concerns that the controversy could be used to promote a speculative cryptocurrency.\n\nHowever, there is no public verification that CyberLeek possesses the complete game, and Rockstar Games has not confirmed the alleged build. Players should avoid unofficial game downloads, which may contain malware or scams.\n\n🚨 Full-Build Leak Threat\n🎮 Grand Theft Auto VI\n💰 $30 Million Crypto Target\n🏢 Take-Two Interactive\n⚠️ Complete Build Unverified\n🔒 Avoid Suspicious Downloads\n📅 Reported: October 11, 2026\n🎯 Expected Release: November 19, 2026",
+    "category": "GTA 6 News",
+    "published_at": "2026-10-11T17:30:00Z",
+    "is_featured": true
+  },
+  {
+    "id": 126,
+    "created_at": "2026-10-11T23:05:00+05:30",
+    "title": "🎮 Former Naughty Dog Developer Says GTA VI's Scale Is Intimidating",
+    "description": "A former visual effects artist from The Last of Us and Uncharted 4 says enormous games such as GTA VI can feel intimidating, highlighting the growing challenges of blockbuster development.",
+    "image_url": "https://github.com/akhileshgulia72-dotcom/gta6-news-server/blob/main/images/gta_image_77.png?raw=true",
+    "source": "GamesRadar+",
+    "article_content": "Grand Theft Auto VI's enormous scale has become part of a wider discussion about the future of blockbuster video games.\n\nMatt Radford, a former visual effects artist who worked on The Last of Us and Uncharted 4, recently discussed the appeal of shorter, more focused gaming experiences in an interview with Kiwi Talkz.\n\nRadford, who now leads his own studio, 5th Corner, described the scale of projects such as GTA VI and The Elder Scrolls VI as intimidating. He also highlighted how lengthy campaigns can be difficult for players who have limited time for gaming.\n\nHis comments reflect a broader industry debate about development budgets, production complexity and whether every major release needs to deliver an enormous open world.\n\nThese remarks are an individual developer's perspective, not criticism issued by Rockstar Games or evidence of a problem with GTA VI's development.\n\n🎮 GTA VI\n🎬 The Last of Us\n🧩 Uncharted 4\n👨‍💻 Matt Radford\n🏢 5th Corner Studio\n💬 Debate Over Massive Games\n📅 Reported: October 10, 2026\n🎯 GTA VI Release: November 19, 2026",
+    "category": "GTA 6 Industry",
+    "published_at": "2026-10-11T19:00:00Z",
+    "is_featured": false
+  },
+  {
+    "id": 127,
+    "created_at": "2026-10-11T23:10:00+05:30",
+    "title": "🎁 GTA VI Pre-Order Bonuses Revealed — Free GTA+ Included!",
+    "description": "Rockstar's store lists the Vintage Vice City Pack and one month of GTA+ among the bonuses for eligible digital pre-orders made before November 20, 2026.",
+    "image_url": "https://github.com/akhileshgulia72-dotcom/gta6-news-server/blob/main/images/gta_image_78.png?raw=true",
+    "source": "Rockstar Games Store",
+    "article_content": "Players preparing for Grand Theft Auto VI can find several additional benefits listed with eligible digital pre-orders ahead of the game's November launch.\n\nAccording to Rockstar's official store information, qualifying digital pre-orders of GTA VI Standard Edition or Ultimate Edition made before November 20, 2026, include the Vintage Vice City Pack and one month of GTA+ membership.\n\nThe Vintage Vice City Pack includes a '55 Vapid Stanier Sedan and garage, outfits and hairstyles, and an exclusive weapon pattern. These extras provide additional in-game content for players preparing to explore Leonida.\n\nRockstar also lists the game's physical version as a download-code package rather than a traditional disc. Players should review the official store terms and regional availability before purchasing.\n\n🎁 Vintage Vice City Pack\n🚗 '55 Vapid Stanier Sedan & Garage\n👕 Exclusive Outfits & Hairstyles\n🔫 Weapon Pattern\n⭐ One Month of GTA+ Membership\n🎮 PlayStation 5 & Xbox Series X|S\n📦 Physical Edition Uses a Download Code\n📅 Game Release: November 19, 2026",
+    "category": "GTA 6 Pre-Orders",
+    "published_at": "2026-10-11T20:40:00Z",
+    "is_featured": true
+  },
+           {
     "id": 122,
     "created_at": "2026-10-10T22:00:00+05:30",
     "title": "🛍️ GTA VI Official Merch Is Here — Vice City Collectibles Revealed!",
@@ -321,42 +357,6 @@
     "article_content": "Grand Theft Auto VI is introducing a significantly more dynamic wind system designed to make Leonida feel more alive.\n\nNew details from Game Informer's Rockstar interviews reveal that wind conditions can change depending on the environment, including sea breezes, rising air and the effect of buildings on wind direction.\n\nWind can move hair and debris on rooftops, create ripples across water and bend vegetation in swamp areas. These effects are designed to make the world respond naturally to changing weather conditions.\n\nThe system works alongside GTA VI's broader weather technology to create a more detailed and reactive environment.\n\n💨 Dynamic Wind\n🌊 Ocean Breezes\n🏙️ Building Wind Effects\n🌿 Moving Vegetation\n💦 Water Ripples\n🎮 GTA VI\n📅 Release: November 19, 2026",
     "category": "GTA 6 Gameplay",
     "published_at": "2026-10-01T18:00:00Z",
-    "is_featured": true
-  },
-    {
-    "id": 95,
-    "created_at": "2026-10-01T00:10:00+05:30",
-    "title": "🚕 GTA VI Reveals Ride-Share Fast Travel System",
-    "description": "Rockstar's latest GTA VI details reveal that players can use ride-share vehicles as a fast-travel option while exploring Leonida.",
-    "image_url": "https://github.com/akhileshgulia72-dotcom/gta6-news-server/blob/main/images/gta_image_46.png?raw=true",
-    "source": "GTA 6 Companion",
-    "article_content": "Grand Theft Auto VI will give players a new way to move around its massive world without driving everywhere themselves.\n\nNew details from Game Informer's GTA VI coverage reveal that ride-share vehicles can be used as a fast-travel option across Leonida. Players can ride as passengers while the driver takes them toward their destination.\n\nThe feature also includes additional interactions during the journey. Passengers can listen to conversations and browse the in-game Snapmatic social app while travelling.\n\nThe system gives players another option for crossing Leonida when they want to focus on exploration rather than spending time behind the wheel.\n\n🚕 Ride-Share Vehicles\n⚡ Fast Travel\n📱 Snapmatic Interactions\n🌴 Leonida\n🎮 GTA VI\n📅 Release: November 19, 2026",
-    "category": "GTA 6 Gameplay",
-    "published_at": "2026-09-30T16:00:00Z",
-    "is_featured": true
-  },
-  {
-    "id": 96,
-    "created_at": "2026-10-01T00:12:00+05:30",
-    "title": "🏄 GTA VI Reveals New Activities for Jason & Lucia",
-    "description": "Rockstar has revealed several activities Jason and Lucia can enjoy together, including scuba diving, mini golf, kayaking, jet skiing and street racing.",
-    "image_url": "https://github.com/akhileshgulia72-dotcom/gta6-news-server/blob/main/images/gta_image_47.png?raw=true",
-    "source": "GTA 6 Companion",
-    "article_content": "Grand Theft Auto VI will offer Jason and Lucia plenty of activities outside the game's criminal missions.\n\nNew information from Game Informer's GTA VI coverage reveals that the protagonists can take part in activities such as scuba diving, mini golf, kayaking, jet skiing and street racing.\n\nThese activities add more variety to the open world and give players additional ways to spend time with Jason and Lucia while exploring Leonida.\n\nThe activities also demonstrate Rockstar's focus on making the world feel like a place that players can explore beyond the main storyline.\n\n🏄 Scuba Diving\n⛳ Mini Golf\n🛶 Kayaking\n🌊 Jet Skiing\n🏎️ Street Racing\n👫 Jason & Lucia\n📅 Release: November 19, 2026",
-    "category": "GTA 6 Gameplay",
-    "published_at": "2026-09-30T16:30:00Z",
-    "is_featured": true
-  },
-  {
-    "id": 97,
-    "created_at": "2026-10-01T00:14:00+05:30",
-    "title": "📸 GTA VI Reveals 12 Brand-New Gameplay Screenshots",
-    "description": "Game Informer's new GTA VI feature has released 12 previously unseen screenshots showing Vice City, the Keys, wildlife, vehicles and Jason and Lucia.",
-    "image_url": "https://github.com/akhileshgulia72-dotcom/gta6-news-server/blob/main/images/gta_image_48.png?raw=true",
-    "source": "GTA 6 Companion",
-    "article_content": "Grand Theft Auto VI has received a major new batch of official gameplay imagery through Game Informer's latest cover story.\n\nThe feature includes 12 new screenshots showing previously unseen locations and gameplay moments across Leonida. The images include downtown Vice City and the Sahara Arena, wetlands filled with wildlife, storms over the Keys, Jason and Lucia at the beach, Jason riding a helicopter and Lucia carrying a rifle.\n\nOther screenshots show a hunter on an ATV, alligators near a swamp dock, a crop duster, a biker bar and a waterfall hiking area.\n\nThe new images provide another detailed look at the environments and activities players can expect when GTA VI launches.\n\n📸 12 New Screenshots\n🏙️ Sahara Arena\n🌴 Vice City & Leonida\n🐊 Wildlife\n🚁 Helicopter Gameplay\n🌩️ Stormy Weather\n🎮 GTA VI\n📅 Release: November 19, 2026",
-    "category": "GTA 6 News",
-    "published_at": "2026-09-30T17:00:00Z",
     "is_featured": true
   }
  
