@@ -1,4 +1,40 @@
 [
+            {
+    "id": 128,
+    "created_at": "2026-10-12T22:45:00+05:30",
+    "title": "🌴 GTA VI Vice City Blimp Spotted Flying Across America!",
+    "description": "A Goodyear airship featuring GTA VI and Vice City branding was spotted flying from Ohio toward North Carolina, giving Rockstar's upcoming game another eye-catching promotional moment.",
+    "image_url": "https://github.com/akhileshgulia72-dotcom/gta6-news-server/blob/main/images/gta_image_79.png?raw=true",
+    "source": "GTA BOOM",
+    "article_content": "Grand Theft Auto VI's marketing campaign has taken to the skies, with a Goodyear airship spotted carrying Vice City and GTA VI branding as it travelled across the United States.\n\nThe aircraft, known as Wingfoot Three and registered as N3A, departed its Ohio base on October 12 and headed toward Smith Reynolds Airport in Winston-Salem, North Carolina. Aviation enthusiasts reported the new branding as the airship began its journey south.\n\nThe flight attracted attention from GTA fans, who could follow the aircraft's movement using FlightAware. Reports also suggested that the airship could eventually head toward Florida, although its complete route and the identity of the campaign's organizer have not been officially confirmed.\n\nNeither Rockstar Games nor Goodyear had publicly explained the branding at the time of reporting. The sighting nevertheless adds another unusual real-world promotional moment to the build-up toward GTA VI's launch.\n\n🌴 Vice City Branding\n✈️ Goodyear Wingfoot Three\n📍 Ohio to North Carolina\n🔎 Live Flight Tracking\n🎮 Grand Theft Auto VI\n⚠️ Official Campaign Details Unconfirmed\n📅 Reported: October 12, 2026\n🎯 Expected Release: November 19, 2026",
+    "category": "GTA 6 Marketing",
+    "published_at": "2026-10-12T15:00:00Z",
+    "is_featured": true
+  },
+  {
+    "id": 129,
+    "created_at": "2026-10-12T22:46:00+05:30",
+    "title": "🏖️ GTA VI Branding Is Coming to Miami Beach on October 15!",
+    "description": "Newly reported city authorizations will allow GTA VI and Vice City branding on Miami Beach concession equipment and promotional banners in downtown Miami beginning October 15.",
+    "image_url": "https://github.com/akhileshgulia72-dotcom/gta6-news-server/blob/main/images/gta_image_80.png?raw=true",
+    "source": "GTA BOOM",
+    "article_content": "Grand Theft Auto VI's real-world promotional campaign is expanding across Miami, the Florida city that helped inspire the game's fictional Vice City.\n\nAccording to reporting published on October 12, two local measures are scheduled to take effect on October 15. One authorizes a marketing agreement involving Vice City and GTA VI branding on Miami Beach concession equipment, including beach chairs and umbrellas.\n\nA separate measure allows temporary promotional banners within a designated downtown Miami event area. The reported rules limit the banners' duration and require the campaign to end no later than December 31, 2026.\n\nThe campaign brings the game's fictional identity closer to the real-world locations that inspired Leonida. However, the measures authorize the promotional activity; they do not mean that every planned advertisement has already been installed.\n\n🏖️ Miami Beach Promotion\n🌴 Vice City Branding\n🏙️ Downtown Miami Banners\n📅 Authorization Begins October 15\n🎮 Grand Theft Auto VI\n🗓️ Promotional Period May Extend Through December 31\n📅 Reported: October 12, 2026\n🎯 Expected Release: November 19, 2026",
+    "category": "GTA 6 Marketing",
+    "published_at": "2026-10-12T15:30:00Z",
+    "is_featured": true
+  },
+  {
+    "id": 130,
+    "created_at": "2026-10-12T22:47:00+05:30",
+    "title": "🎮 Nintendo Says Switch 2 Could Run GTA VI — But There's a Catch!",
+    "description": "Nintendo of America president Devon Pritchard says Switch 2 has the technical capability to run GTA VI, but a version for the console has not been announced and would depend on Rockstar and Take-Two.",
+    "image_url": "https://github.com/akhileshgulia72-dotcom/gta6-news-server/blob/main/images/gta_image_81.png?raw=true",
+    "source": "GTA BOOM",
+    "article_content": "Could Grand Theft Auto VI eventually arrive on Nintendo Switch 2? A recent interview has reignited the discussion surrounding a possible version of Rockstar's upcoming blockbuster.\n\nNintendo of America president Devon Pritchard addressed the possibility in an interview with Variety. She indicated that the Switch 2 has the technical capability to handle a game like GTA VI, while making clear that any release would be a decision for Take-Two Interactive and Rockstar Games.\n\nHer comments are notable because GTA VI is currently scheduled to launch on PlayStation 5 and Xbox Series X|S on November 19, 2026. Nintendo's statement has encouraged speculation about whether Rockstar might eventually expand the game's platform availability.\n\nHowever, no Switch 2 version has been officially announced. Hardware capability alone does not guarantee a port, and Rockstar has not confirmed plans to bring GTA VI to Nintendo's console.\n\n🎮 Nintendo Switch 2\n🗣️ Devon Pritchard\n🏢 Rockstar Games & Take-Two\n⚙️ Hardware Capability Discussed\n❓ Switch 2 Version Unconfirmed\n🎮 Current Launch Platforms: PS5 & Xbox Series X|S\n📅 Reported: October 10, 2026\n🎯 Expected Release: November 19, 2026",
+    "category": "GTA 6 Platforms",
+    "published_at": "2026-10-12T17:00:00Z",
+    "is_featured": true
+  },
            {
     "id": 125,
     "created_at": "2026-10-11T23:00:00+05:30",
@@ -321,42 +357,6 @@
     "article_content": "New Grand Theft Auto VI screenshots are giving fans another look at the quieter moments between Jason and Lucia.\n\nOne of the newly revealed images shows the pair spending time together inside a bar while playing pool. Other images show them relaxing and posing in different locations across Leonida.\n\nThe scenes highlight Rockstar's continued focus on activities and interactions outside the game's main criminal missions.\n\nThe latest screenshots also show different clothing and character appearances, adding more visual variety to Jason and Lucia ahead of the game's November launch.\n\n🎱 Pool Game\n🍺 Leonida Bar\n👫 Jason & Lucia\n👕 Character Outfits\n📸 New GTA VI Imagery\n🎮 GTA VI\n📅 Release: November 19, 2026",
     "category": "GTA 6 Gameplay",
     "published_at": "2026-10-02T13:00:00Z",
-    "is_featured": true
-  },
-     {
-    "id": 98,
-    "created_at": "2026-10-01T22:30:00+05:30",
-    "title": "🚗 GTA VI Makes Car Theft More Advanced Than Ever",
-    "description": "Rockstar has revealed a deeper vehicle theft system where expensive cars can require special tools and may feature trackers and advanced security.",
-    "image_url": "https://github.com/akhileshgulia72-dotcom/gta6-news-server/blob/main/images/gta_image_49.png?raw=true",
-    "source": "GTA 6 Companion",
-    "article_content": "Grand Theft Auto VI is making stealing cars a much more involved process.\n\nNew details from Game Informer's GTA VI cover story reveal that some high-end vehicles will have advanced security systems and trackers. Players may need specialized tools to successfully steal certain expensive cars.\n\nA new in-game phone app called WAiNK can also provide information about vehicles, including security systems, trackers, registration costs and potential resale value.\n\nThe system adds another layer to vehicle theft and gives players more things to consider before taking an expensive ride.\n\n🚗 Advanced Car Theft\n🔧 Specialized Tools\n📱 WAiNK Vehicle App\n🔒 Security Systems & Trackers\n💰 Vehicle Resale Value\n🎮 GTA VI\n📅 Release: November 19, 2026",
-    "category": "GTA 6 Gameplay",
-    "published_at": "2026-10-01T17:00:00Z",
-    "is_featured": true
-  },
-  {
-    "id": 99,
-    "created_at": "2026-10-01T22:32:00+05:30",
-    "title": "🗺️ GTA VI World Split Into Six Major Regions",
-    "description": "New Game Informer details reveal six major regions across Leonida, giving GTA VI a much broader variety of environments beyond Vice City.",
-    "image_url": "https://github.com/akhileshgulia72-dotcom/gta6-news-server/blob/main/images/gta_image_50.png?raw=true",
-    "source": "GTA 6 Companion",
-    "article_content": "Grand Theft Auto VI's massive Leonida is divided into six major regions, according to new details from Game Informer's cover story.\n\nThe regions include Vice City, Leonida Keys, Grassrivers, Port Gellhorn, Ambrosia and Mount Kalaga National Park.\n\nEach area offers a different environment and atmosphere, ranging from dense urban locations and beaches to wetlands, industrial areas and rural landscapes.\n\nRockstar has also focused heavily on making the world feel connected, with more interiors, rooftops, alleys and activities spread throughout the map.\n\n🌴 Vice City\n🏝️ Leonida Keys\n🌿 Grassrivers\n⚓ Port Gellhorn\n🏭 Ambrosia\n🏔️ Mount Kalaga National Park\n🎮 GTA VI\n📅 Release: November 19, 2026",
-    "category": "GTA 6 News",
-    "published_at": "2026-10-01T17:30:00Z",
-    "is_featured": true
-  },
-  {
-    "id": 100,
-    "created_at": "2026-10-01T22:34:00+05:30",
-    "title": "💨 GTA VI's Wind System Will React to the World",
-    "description": "Rockstar has revealed a new dynamic wind system that can affect hair, debris, vegetation and water across Leonida.",
-    "image_url": "https://github.com/akhileshgulia72-dotcom/gta6-news-server/blob/main/images/gta_image_51.png?raw=true",
-    "source": "GTA 6 Companion",
-    "article_content": "Grand Theft Auto VI is introducing a significantly more dynamic wind system designed to make Leonida feel more alive.\n\nNew details from Game Informer's Rockstar interviews reveal that wind conditions can change depending on the environment, including sea breezes, rising air and the effect of buildings on wind direction.\n\nWind can move hair and debris on rooftops, create ripples across water and bend vegetation in swamp areas. These effects are designed to make the world respond naturally to changing weather conditions.\n\nThe system works alongside GTA VI's broader weather technology to create a more detailed and reactive environment.\n\n💨 Dynamic Wind\n🌊 Ocean Breezes\n🏙️ Building Wind Effects\n🌿 Moving Vegetation\n💦 Water Ripples\n🎮 GTA VI\n📅 Release: November 19, 2026",
-    "category": "GTA 6 Gameplay",
-    "published_at": "2026-10-01T18:00:00Z",
     "is_featured": true
   }
  
