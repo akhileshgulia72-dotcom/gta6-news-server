@@ -1,4 +1,40 @@
 [
+   {
+    "id": 134,
+    "created_at": "2026-10-14T22:45:00+05:30",
+    "title": "🚀 Rockstar Hints Future GTA Games Could Arrive Much Faster!",
+    "description": "Rockstar technical lead Phil Hooker says the technology, tools and team built during GTA VI development could help the studio create future games more quickly.",
+    "image_url": "https://github.com/akhileshgulia72-dotcom/gta6-news-server/blob/main/images/gta_image_85.png?raw=true",
+    "source": "The Verge",
+    "article_content": "Could the next Grand Theft Auto arrive much sooner than GTA VI? Rockstar Games has offered a reason for fans to be cautiously optimistic about the future of the franchise.\n\nIn a report published on October 14, Rockstar technical lead Phil Hooker discussed how the technology, development tools and experienced team assembled for Grand Theft Auto VI could accelerate future projects.\n\nGTA VI has taken approximately eight years to develop, creating a 13-year gap between GTA V and the upcoming sequel. Hooker indicated that Rockstar could build on its existing technology and expand its games in new directions instead of repeatedly rebuilding their foundations.\n\nThe comments suggest that lessons learned during GTA VI's development could benefit Rockstar's future releases. However, the studio has not announced a release date or development schedule for the next Grand Theft Auto game.\n\n🚀 Faster Future Development\n🛠️ Improved Development Tools\n🎮 Rockstar Games\n🌎 Next Grand Theft Auto Possibilities\n⚠️ No Next-Game Release Date Confirmed\n📅 Reported: October 14, 2026\n🎯 GTA VI Release: November 19, 2026",
+    "category": "GTA 6 Development",
+    "published_at": "2026-10-14T17:42:00Z",
+    "is_featured": true
+  },
+  {
+    "id": 135,
+    "created_at": "2026-10-14T22:46:00+05:30",
+    "title": "💻 GTA 6 PC Release Rumor Points to Early 2027!",
+    "description": "A report citing four anonymous industry sources claims GTA VI could arrive on PC during the first quarter of 2027, but Rockstar has not officially confirmed a PC version.",
+    "image_url": "https://github.com/akhileshgulia72-dotcom/gta6-news-server/blob/main/images/gta_image_86.png?raw=true",
+    "source": "TechRadar",
+    "article_content": "PC gamers may not have to wait as long as expected to play Grand Theft Auto VI, according to a new industry report published ahead of the game's console launch.\n\nOn October 13, TechRadar reported that GamesBeat had spoken to four anonymous industry sources who claimed Rockstar was targeting the first quarter of 2027 for the PC version of GTA VI.\n\nIf accurate, this would represent a significantly shorter wait than the approximately two-year gap between the original console and PC releases of GTA V. It could also allow Rockstar to reach PC players relatively soon after the initial launch on PlayStation 5 and Xbox Series X|S.\n\nHowever, Rockstar Games has not announced a PC edition or confirmed this reported release window. The suggested reasons behind the timing, including speculation about emulation and sales strategy, remain unverified.\n\n💻 Possible PC Release\n📅 Reported Window: January–March 2027\n🎮 PlayStation 5 & Xbox Series X|S First\n🔎 Four Anonymous Industry Sources\n⚠️ PC Release Date Not Officially Confirmed\n📅 Reported: October 13, 2026\n🎯 Console Release: November 19, 2026",
+    "category": "GTA 6 Platforms",
+    "published_at": "2026-10-14T20:00:00Z",
+    "is_featured": true
+  },
+  {
+    "id": 136,
+    "created_at": "2026-10-14T22:47:00+05:30",
+    "title": "💰 Rockstar Pushes Back Against GTA 6's $1.5 Billion Budget Rumor!",
+    "description": "Rockstar publishing head Jennifer Kolbe reportedly rejected claims that GTA VI cost more than Dubai's Burj Khalifa to develop, while the game's actual budget remains undisclosed.",
+    "image_url": "https://github.com/akhileshgulia72-dotcom/gta6-news-server/blob/main/images/gta_image_87.png?raw=true",
+    "source": "The Verge",
+    "article_content": "Grand Theft Auto VI's development budget has attracted enormous speculation, with some reports comparing its potential cost to the construction of Dubai's Burj Khalifa.\n\nA report published on October 14 by The Verge, drawing on Bloomberg's coverage of GTA VI's development, says Rockstar publishing head Jennifer Kolbe pushed back against claims that the game cost more than $1.5 billion to develop.\n\nThe comparison gained attention because the Burj Khalifa reportedly cost around $1.5 billion to construct. GTA VI's long development cycle, large workforce and ambitious production have encouraged speculation about how much Rockstar has invested in the project.\n\nHowever, rejecting the specific $1.5 billion comparison does not reveal the game's actual development budget. Rockstar has not publicly disclosed a definitive total, and estimates circulating online should not be treated as confirmed financial figures.\n\n💰 GTA VI Development Budget Debate\n🏢 Jennifer Kolbe\n🎮 Rockstar Games\n🏙️ Burj Khalifa Comparison\n🔎 Actual Budget Remains Undisclosed\n⚠️ Online Cost Estimates Are Not Confirmed\n📅 Reported: October 14, 2026\n🎯 GTA VI Release: November 19, 2026",
+    "category": "GTA 6 Industry",
+    "published_at": "2026-10-14T20:42:00Z",
+    "is_featured": true
+  },
              {
     "id": 131,
     "created_at": "2026-10-13T21:00:00+05:30",
@@ -321,42 +357,6 @@
     "article_content": "Rockstar's latest LOVE Magazine interview has revealed more about the studio's ambitions for Lucia Caminos.\n\nThe writers described Lucia as a fully realized and imperfect character whose personality, motivations and relationships are intended to make her feel authentic rather than simply serving as a second protagonist.\n\nRockstar's narrative team also discussed the importance of giving Jason and Lucia emotional depth and allowing both characters to influence each other throughout the story.\n\nThe developers hope Lucia can eventually stand alongside memorable Rockstar protagonists such as Arthur Morgan and Niko Bellic.\n\n👩 Lucia Caminos\n❤️ Character Development\n🎮 GTA VI\n✍️ Rockstar Writing Team\n🔥 Jason & Lucia\n📅 Release: November 19, 2026",
     "category": "Characters",
     "published_at": "2026-10-05T17:00:00Z",
-    "is_featured": true
-  },
-      {
-    "id": 104,
-    "created_at": "2026-10-03T22:35:00+05:30",
-    "title": "🎮 GTA VI Reportedly Requires New PS5 System Software",
-    "description": "A new report claims GTA VI may require PlayStation 5 system software version 14.10.00.00 or newer to run at launch.",
-    "image_url": "https://github.com/akhileshgulia72-dotcom/gta6-news-server/blob/main/images/gta_image_55.png?raw=true",
-    "source": "GTA 6 Companion",
-    "article_content": "Grand Theft Auto VI may require a relatively recent PlayStation 5 system software version when it launches later this year.\n\nAccording to information reportedly discovered through PlayStation backend data, GTA VI is listed as requiring PS5 system software version 14.10.00.00 or newer.\n\nThe requirement has not been separately announced by Rockstar Games, so players should treat the information as a reported technical requirement rather than an official Rockstar confirmation.\n\nIf accurate, the requirement would ensure that GTA VI can take advantage of the latest platform-level features and system software improvements available on PlayStation 5.\n\n🎮 PS5 System Requirement\n⚙️ Firmware Version 14.10.00.00+\n🔍 Backend Data Report\n🔥 GTA VI\n📅 Release: November 19, 2026",
-    "category": "GTA 6 News",
-    "published_at": "2026-10-03T16:00:00Z",
-    "is_featured": true
-  },
-  {
-    "id": 105,
-    "created_at": "2026-10-03T22:36:00+05:30",
-    "title": "🔞 GTA VI Receives Restricted R18+ Rating in Australia",
-    "description": "Australia's classification board has reportedly given GTA VI an R18+ classification, citing strong themes, violence, drug use, nudity and sexual content.",
-    "image_url": "https://github.com/akhileshgulia72-dotcom/gta6-news-server/blob/main/images/gta_image_56.png?raw=true",
-    "source": "GTA 6 Companion",
-    "article_content": "Grand Theft Auto VI has received a restricted R18+ classification in Australia ahead of its November launch.\n\nThe Australian classification reportedly cites strong themes, violence, offensive language, drug use, nudity and sexual content among the game's mature content descriptors.\n\nThe rating provides another official indication of the type of adult content included in Rockstar's upcoming open-world game.\n\nOther regional ratings and descriptors can differ, so the Australian classification should not automatically be treated as the final rating for every market.\n\n🔞 R18+ Classification\n🇦🇺 Australia\n💥 Violence & Strong Themes\n💊 Drug Use\n🎮 GTA VI\n📅 Release: November 19, 2026",
-    "category": "GTA 6 News",
-    "published_at": "2026-10-03T15:30:00Z",
-    "is_featured": true
-  },
-  {
-    "id": 106,
-    "created_at": "2026-10-03T22:37:00+05:30",
-    "title": "💰 GTA VI Could Help Push Game Prices Higher",
-    "description": "Warhorse Studios co-founder Martin Klima says GTA VI could help establish higher price points for major new games across the industry.",
-    "image_url": "https://github.com/akhileshgulia72-dotcom/gta6-news-server/blob/main/images/gta_image_57.png?raw=true",
-    "source": "GTA 6 Companion",
-    "article_content": "Grand Theft Auto VI is being discussed not only for its gameplay but also for its potential impact on video game pricing.\n\nWarhorse Studios co-founder Martin Klima has said he hopes GTA VI becomes successful enough to help push game prices higher across the industry.\n\nKlima suggested that Rockstar Games and Take-Two Interactive are in a particularly strong position to influence pricing because of the scale and commercial importance of GTA VI.\n\nHowever, the comments represent an industry executive's opinion rather than a confirmed GTA VI pricing announcement. Rockstar has not announced that GTA VI will establish a new standard price for games.\n\n💰 Game Pricing Debate\n🎮 GTA VI\n🏢 Rockstar Games\n📈 Industry Pricing\n🗣️ Industry Executive Comments\n📅 Release: November 19, 2026",
-    "category": "GTA 6 News",
-    "published_at": "2026-10-03T12:00:00Z",
     "is_featured": true
   }
  
