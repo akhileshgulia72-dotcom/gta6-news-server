@@ -1,5 +1,41 @@
 [
      {
+    "id": 146,
+    "created_at": "2026-10-19T22:00:00+05:30",
+    "title": "🔥 GTA 6 Trailer Has One Big Mystery Fans Can't Ignore!",
+    "description": "GTA 6 fans are closely examining the latest trailer for hidden details about Jason and Lucia. The footage offers more glimpses of Leonida, the game's characters, and its criminal underworld, leaving players searching for clues about the story. Rockstar has not confirmed every fan theory, so some details remain speculation.",
+    "image_url": "https://github.com/akhileshgulia72-dotcom/gta6-news-server/blob/main/images/gta_image_97.png?raw=true",
+    "source": "The Verge",
+    "article_content": "The excitement surrounding Grand Theft Auto VI continues as fans dissect its latest trailer for possible story clues. The footage highlights Jason and Lucia and their involvement in a criminal conspiracy set in Leonida. Viewers are examining background scenes, character interactions, vehicles, and locations for hints about missions and the wider story. However, theories circulating online should not be treated as confirmed gameplay features or plot details unless Rockstar Games verifies them. With the game's announced release date approaching, every new frame is attracting intense community attention.\n\n🎮 What fans are examining:\n- Jason and Lucia's relationship and criminal plans\n- Hidden details in Leonida's locations\n- Possible clues about missions and side activities\n- Visual details that may reveal more about the game's world\n\nRockstar has not confirmed all fan interpretations, so the mystery remains open.",
+    "category": "News",
+    "published_at": "2026-10-19T16:30:00Z",
+    "is_featured": true
+  },
+  {
+    "id": 147,
+    "created_at": "2026-10-19T22:05:00+05:30",
+    "title": "💻 GTA 6 PC Release Rumor Has Gamers Watching 2027!",
+    "description": "A report citing anonymous sources has reignited speculation that GTA 6 could arrive on PC sooner than some players expect, potentially in early 2027. Rockstar has not officially announced a PC release date, so PC gamers should treat the reported window as an unconfirmed rumor.",
+    "image_url": "https://github.com/akhileshgulia72-dotcom/gta6-news-server/blob/main/images/gta_image_98.png?raw=true",
+    "source": "PC Gamer",
+    "article_content": "PC players are eager to learn when Grand Theft Auto VI might arrive on their platform. A report from PC Gamer, citing information attributed to anonymous sources through GamesBeat, has suggested that a PC version could potentially launch in the first quarter of 2027. However, Rockstar Games has not officially confirmed this timing or announced a PC release date.\n\nThe game has been officially announced for PlayStation 5 and Xbox Series X|S, with its scheduled release date set for November 19, 2026. Until Rockstar provides an official PC announcement, the reported early-2027 window should be treated cautiously.\n\n🖥️ What PC players should know:\n- An early-2027 PC launch has been reported, but is unconfirmed\n- Rockstar has not announced an official PC release date\n- The announced console platforms are PS5 and Xbox Series X|S\n- Avoid treating rumor-based dates as guaranteed\n\nFor now, PC gamers will need to wait for official information from Rockstar.",
+    "category": "Rumors",
+    "published_at": "2026-10-19T17:35:00Z",
+    "is_featured": false
+  },
+  {
+    "id": 148,
+    "created_at": "2026-10-19T22:10:00+05:30",
+    "title": "⏳ GTA 6 Pre-Load Starts November 12 — Save the Date!",
+    "description": "Rockstar's official store listing states that GTA 6 pre-loading begins November 12, ahead of its scheduled November 19, 2026 release. Players should check their platform's store for availability and requirements as launch day approaches.",
+    "image_url": "https://github.com/akhileshgulia72-dotcom/gta6-news-server/blob/main/images/gta_image_99.png?raw=true",
+    "source": "Rockstar Games Store",
+    "article_content": "The countdown to Grand Theft Auto VI is getting more exciting. Rockstar's official store listing gives November 19, 2026 as the game's release date and states that pre-loading begins November 12, one week before launch. Pre-loading can allow players to download game files in advance so they can spend less time downloading when the game becomes available.\n\nPlayers should check the relevant console store for the latest download information, storage requirements, and availability. The timing and process may depend on the platform and regional store details.\n\n📅 Key dates:\n- November 12, 2026: Listed pre-load start date\n- November 19, 2026: Scheduled GTA 6 release date\n- Platforms announced: PlayStation 5 and Xbox Series X|S\n\nThe launch is approaching, but make sure to rely on official store updates for any changes.",
+    "category": "Updates",
+    "published_at": "2026-10-19T18:40:00Z",
+    "is_featured": true
+  },
+     {
     "id": 143,
     "created_at": "2026-10-18T14:00:00+05:30",
     "title": "🎬 GTA 6 Launch Trailer Has Fans Hunting for Hidden Details!",
@@ -321,42 +357,6 @@
     "article_content": "The musical rollout for Grand Theft Auto VI is building momentum as more tracks connected to its companion album become available.\n\nFollowing reports about the October 9 releases of 'Don't Chart' by Cardi B and 'Suzuki' by Fuerza Regida, coverage indicates that eight songs from GTA VI: The Album are now available to listeners.\n\nThe project is planned to contain 34 original tracks, bringing together artists from different musical backgrounds. Its release is scheduled for November 19, 2026, the same day GTA VI is expected to launch on PlayStation 5 and Xbox Series X|S.\n\nThe growing soundtrack lineup is giving fans another way to follow the game's pre-launch campaign before exploring Leonida themselves.\n\n💿 Eight Songs Reportedly Released\n🎤 Cardi B & Fuerza Regida\n🎵 34 Tracks Planned\n🌴 GTA VI Soundtrack\n🎮 PlayStation 5 & Xbox Series X|S\n📅 Release: November 19, 2026",
     "category": "GTA 6 Music",
     "published_at": "2026-10-09T15:00:00Z",
-    "is_featured": true
-  },
-         {
-    "id": 116,
-    "created_at": "2026-10-08T23:00:00+05:30",
-    "title": "📻 Rockstar Reveals GTA VI's First Six Radio Stations",
-    "description": "Rockstar has revealed six radio stations coming to GTA VI, including Cocoteo FM, AfroBank FM, Flash FM and Dirty South Classics, with podcasts and on-foot listening also confirmed.",
-    "image_url": "https://github.com/akhileshgulia72-dotcom/gta6-news-server/blob/main/images/gta_image_67.png?raw=true",
-    "source": "GTA 6 Companion",
-    "article_content": "Rockstar Games has revealed the first six radio stations coming to Grand Theft Auto VI, giving fans a closer look at the game's expanded music and audio experience.\n\nThe confirmed stations include Cocoteo FM, Back Country Radio, AfroBank FM, The Chamber 106.6, Flash FM and Dirty South Classics. Each station will feature its own musical style and hosts, with artists including Bad Bunny, Lana Del Rey, Robyn, Burna Boy and members of Slayer involved across the stations.\n\nGTA VI will also introduce on-demand fictional podcasts, while players will be able to listen to music and radio content while walking around Leonida through their phones.\n\nRockstar says GTA VI will feature the largest and most diverse collection of in-game radio stations and podcasts in the series' history.\n\n📻 Six Radio Stations Revealed\n🎤 Bad Bunny & Lana Del Rey\n🎸 Slayer\n🎙️ In-Game Podcasts\n📱 Radio While On Foot\n🌴 Leonida\n🎮 GTA VI\n📅 Release: November 19, 2026",
-    "category": "GTA 6 Music",
-    "published_at": "2026-10-08T17:00:00Z",
-    "is_featured": true
-  },
-  {
-    "id": 117,
-    "created_at": "2026-10-08T23:05:00+05:30",
-    "title": "🚔 GTA VI Police Can Track Your Clothes, Hair & Vehicle",
-    "description": "New GTA VI details reveal a more advanced wanted system where police can identify criminals using clothing, hairstyles and vehicles during pursuits.",
-    "image_url": "https://github.com/akhileshgulia72-dotcom/gta6-news-server/blob/main/images/gta_image_68.png?raw=true",
-    "source": "GTA 6 Companion",
-    "article_content": "Grand Theft Auto VI is introducing a more sophisticated wanted and criminal identification system that can make escaping the police more challenging.\n\nNew gameplay details indicate that police can remember important characteristics connected to a suspect, including clothing, hairstyles and the vehicle used during a crime.\n\nThe system works alongside GTA VI's expanded criminal profile mechanics, meaning players may need to think more carefully about how they commit crimes and escape from law enforcement.\n\nThe new approach is designed to make police responses feel more persistent and believable instead of simply resetting after players lose their wanted level.\n\n🚔 Advanced Police AI\n👕 Clothing Recognition\n💇 Hair Recognition\n🚗 Vehicle Tracking\n🔎 Criminal Profile System\n🌴 Leonida\n🎮 GTA VI\n📅 Release: November 19, 2026",
-    "category": "GTA 6 Gameplay",
-    "published_at": "2026-10-08T16:00:00Z",
-    "is_featured": true
-  },
-  {
-    "id": 118,
-    "created_at": "2026-10-08T23:10:00+05:30",
-    "title": "🎯 GTA VI Missions Will Offer More Freedom to Players",
-    "description": "New GTA VI gameplay details suggest Rockstar is making story missions less restrictive, allowing players to approach objectives in more dynamic ways.",
-    "image_url": "https://github.com/akhileshgulia72-dotcom/gta6-news-server/blob/main/images/gta_image_69.png?raw=true",
-    "source": "GTA 6 Companion",
-    "article_content": "Rockstar Games appears to be changing the way story missions work in Grand Theft Auto VI by giving players more freedom in how they approach objectives.\n\nNew gameplay details suggest that missions will be less restrictive than in some previous Rockstar games, reducing situations where players are forced to follow one exact sequence of actions.\n\nThe more flexible design is intended to make missions feel closer to the freedom already available in GTA's open world. Players may have more opportunities to react to situations and use different approaches while completing objectives.\n\nThe change addresses long-running criticism that Rockstar's highly detailed open worlds sometimes become unusually linear once a mission begins.\n\n🎯 More Flexible Missions\n🕹️ Dynamic Gameplay\n🔓 Greater Player Freedom\n🚗 Multiple Approaches\n🌴 Leonida\n🎮 GTA VI\n📅 Release: November 19, 2026",
-    "category": "GTA 6 Gameplay",
-    "published_at": "2026-10-08T15:00:00Z",
     "is_featured": true
   }
  
