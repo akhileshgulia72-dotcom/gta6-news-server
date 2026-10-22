@@ -1,4 +1,40 @@
 [
+       {
+    "id": 155,
+    "created_at": "2026-10-22T22:00:00+05:30",
+    "title": "🎬 GTA 6's Latest Trailer Hides a Much Darker Story Than Fans Expected!",
+    "description": "Jason and Lucia's story is shaping up to be more than a simple crime adventure. Rockstar's official launch trailer highlights their relationship and a dangerous criminal conspiracy that could put everything at risk.",
+    "image_url": "https://github.com/akhileshgulia72-dotcom/gta6-news-server/blob/main/images/gta_image_106.png?raw=true",
+    "source": "Rockstar Games",
+    "article_content": "Grand Theft Auto VI's official launch trailer, released on October 15, 2026, offers another look at Jason Duval and Lucia Caminos as they become entangled in a criminal conspiracy across Leonida. The trailer emphasizes their partnership, dangerous situations, and the consequences of getting involved with the wrong people. Rockstar has confirmed that GTA VI is scheduled to launch on November 19, 2026, for PlayStation 5 and Xbox Series X|S. Fans are still waiting for more detailed gameplay information and a deeper look at the story. This article is based on Rockstar's published trailer and release information; further story details remain unconfirmed.",
+    "category": "News",
+    "published_at": "2026-10-22T16:00:00Z",
+    "is_featured": true
+  },
+  {
+    "id": 156,
+    "created_at": "2026-10-22T22:01:00+05:30",
+    "title": "🎧 GTA 6's Radio Could Make Vice City Feel More Alive Than Ever!",
+    "description": "The music in GTA 6 is already attracting attention, but the full radio experience remains a mystery. Which songs, stations, and in-game surprises will players discover while exploring Vice City?",
+    "image_url": "https://github.com/akhileshgulia72-dotcom/gta6-news-server/blob/main/images/gta_image_107.png?raw=true",
+    "source": "Rockstar Games",
+    "article_content": "Music has always played an important role in the Grand Theft Auto series, and GTA VI is expected to continue that tradition in its modern Vice City setting. Rockstar's October 8, 2026, update highlighted music connected with the game, but the complete in-game radio lineup and every station's details have not been fully revealed. Players are eager to learn how the soundtrack will reflect the atmosphere of Leonida, from its busy streets to its nightlife. Until Rockstar publishes a complete tracklist or additional radio details, specific unreleased songs and station features should be treated as unconfirmed.",
+    "category": "Features",
+    "published_at": "2026-10-22T17:00:00Z",
+    "is_featured": false
+  },
+  {
+    "id": 157,
+    "created_at": "2026-10-22T22:02:00+05:30",
+    "title": "🍺 GTA 6's Fictional Beer Brands May Be Getting Real-World Attention!",
+    "description": "A new report has sparked interest in GTA-style beer branding appearing in U.S. records. Could this be connected to GTA 6 marketing, or is it simply a fun reference to the series?",
+    "image_url": "https://github.com/akhileshgulia72-dotcom/gta6-news-server/blob/main/images/gta_image_108.png?raw=true",
+    "source": "PC Gamer",
+    "article_content": "A recent PC Gamer report discussed GTA-inspired fictional beer branding appearing in U.S. alcohol-label records, drawing attention from fans who enjoy the series' parody products. Grand Theft Auto has a long history of using fictional brands to poke fun at real-world culture, and these names have become part of its identity. However, the appearance of a brand in public records does not by itself confirm an official GTA VI promotional campaign or an in-game feature. Rockstar has not confirmed any associated promotion in the information referenced here, so this story should be treated as a reported development rather than an official GTA VI announcement.",
+    "category": "Rumors",
+    "published_at": "2026-10-22T18:00:00Z",
+    "is_featured": false
+  },
       {
     "id": 152,
     "created_at": "2026-10-21T22:15:00+05:30",
@@ -321,42 +357,6 @@
     "article_content": "Could Grand Theft Auto VI eventually arrive on Nintendo Switch 2? A recent interview has reignited the discussion surrounding a possible version of Rockstar's upcoming blockbuster.\n\nNintendo of America president Devon Pritchard addressed the possibility in an interview with Variety. She indicated that the Switch 2 has the technical capability to handle a game like GTA VI, while making clear that any release would be a decision for Take-Two Interactive and Rockstar Games.\n\nHer comments are notable because GTA VI is currently scheduled to launch on PlayStation 5 and Xbox Series X|S on November 19, 2026. Nintendo's statement has encouraged speculation about whether Rockstar might eventually expand the game's platform availability.\n\nHowever, no Switch 2 version has been officially announced. Hardware capability alone does not guarantee a port, and Rockstar has not confirmed plans to bring GTA VI to Nintendo's console.\n\n🎮 Nintendo Switch 2\n🗣️ Devon Pritchard\n🏢 Rockstar Games & Take-Two\n⚙️ Hardware Capability Discussed\n❓ Switch 2 Version Unconfirmed\n🎮 Current Launch Platforms: PS5 & Xbox Series X|S\n📅 Reported: October 10, 2026\n🎯 Expected Release: November 19, 2026",
     "category": "GTA 6 Platforms",
     "published_at": "2026-10-12T17:00:00Z",
-    "is_featured": true
-  },
-           {
-    "id": 125,
-    "created_at": "2026-10-11T23:00:00+05:30",
-    "title": "🚨 GTA VI Leaker Threatens to Release the Entire Game!",
-    "description": "CyberLeek claims it will release a complete playable GTA VI build if its associated cryptocurrency reaches a $30 million market capitalization. The claim remains unverified.",
-    "image_url": "https://github.com/akhileshgulia72-dotcom/gta6-news-server/blob/main/images/gta_image_76.png?raw=true",
-    "source": "Tom's Hardware",
-    "article_content": "Grand Theft Auto VI has been pulled into a new controversy after the anonymous leaker known as CyberLeek issued a threat involving an alleged complete game build.\n\nOn October 10, CyberLeek claimed it would release the full playable build, including the entire single-player campaign, if its associated cryptocurrency reached a $30 million market capitalization.\n\nThe account also demanded that Take-Two Interactive arrange a physical-disc release and issue a public apology. The announcement has raised concerns that the controversy could be used to promote a speculative cryptocurrency.\n\nHowever, there is no public verification that CyberLeek possesses the complete game, and Rockstar Games has not confirmed the alleged build. Players should avoid unofficial game downloads, which may contain malware or scams.\n\n🚨 Full-Build Leak Threat\n🎮 Grand Theft Auto VI\n💰 $30 Million Crypto Target\n🏢 Take-Two Interactive\n⚠️ Complete Build Unverified\n🔒 Avoid Suspicious Downloads\n📅 Reported: October 11, 2026\n🎯 Expected Release: November 19, 2026",
-    "category": "GTA 6 News",
-    "published_at": "2026-10-11T17:30:00Z",
-    "is_featured": true
-  },
-  {
-    "id": 126,
-    "created_at": "2026-10-11T23:05:00+05:30",
-    "title": "🎮 Former Naughty Dog Developer Says GTA VI's Scale Is Intimidating",
-    "description": "A former visual effects artist from The Last of Us and Uncharted 4 says enormous games such as GTA VI can feel intimidating, highlighting the growing challenges of blockbuster development.",
-    "image_url": "https://github.com/akhileshgulia72-dotcom/gta6-news-server/blob/main/images/gta_image_77.png?raw=true",
-    "source": "GamesRadar+",
-    "article_content": "Grand Theft Auto VI's enormous scale has become part of a wider discussion about the future of blockbuster video games.\n\nMatt Radford, a former visual effects artist who worked on The Last of Us and Uncharted 4, recently discussed the appeal of shorter, more focused gaming experiences in an interview with Kiwi Talkz.\n\nRadford, who now leads his own studio, 5th Corner, described the scale of projects such as GTA VI and The Elder Scrolls VI as intimidating. He also highlighted how lengthy campaigns can be difficult for players who have limited time for gaming.\n\nHis comments reflect a broader industry debate about development budgets, production complexity and whether every major release needs to deliver an enormous open world.\n\nThese remarks are an individual developer's perspective, not criticism issued by Rockstar Games or evidence of a problem with GTA VI's development.\n\n🎮 GTA VI\n🎬 The Last of Us\n🧩 Uncharted 4\n👨‍💻 Matt Radford\n🏢 5th Corner Studio\n💬 Debate Over Massive Games\n📅 Reported: October 10, 2026\n🎯 GTA VI Release: November 19, 2026",
-    "category": "GTA 6 Industry",
-    "published_at": "2026-10-11T19:00:00Z",
-    "is_featured": false
-  },
-  {
-    "id": 127,
-    "created_at": "2026-10-11T23:10:00+05:30",
-    "title": "🎁 GTA VI Pre-Order Bonuses Revealed — Free GTA+ Included!",
-    "description": "Rockstar's store lists the Vintage Vice City Pack and one month of GTA+ among the bonuses for eligible digital pre-orders made before November 20, 2026.",
-    "image_url": "https://github.com/akhileshgulia72-dotcom/gta6-news-server/blob/main/images/gta_image_78.png?raw=true",
-    "source": "Rockstar Games Store",
-    "article_content": "Players preparing for Grand Theft Auto VI can find several additional benefits listed with eligible digital pre-orders ahead of the game's November launch.\n\nAccording to Rockstar's official store information, qualifying digital pre-orders of GTA VI Standard Edition or Ultimate Edition made before November 20, 2026, include the Vintage Vice City Pack and one month of GTA+ membership.\n\nThe Vintage Vice City Pack includes a '55 Vapid Stanier Sedan and garage, outfits and hairstyles, and an exclusive weapon pattern. These extras provide additional in-game content for players preparing to explore Leonida.\n\nRockstar also lists the game's physical version as a download-code package rather than a traditional disc. Players should review the official store terms and regional availability before purchasing.\n\n🎁 Vintage Vice City Pack\n🚗 '55 Vapid Stanier Sedan & Garage\n👕 Exclusive Outfits & Hairstyles\n🔫 Weapon Pattern\n⭐ One Month of GTA+ Membership\n🎮 PlayStation 5 & Xbox Series X|S\n📦 Physical Edition Uses a Download Code\n📅 Game Release: November 19, 2026",
-    "category": "GTA 6 Pre-Orders",
-    "published_at": "2026-10-11T20:40:00Z",
     "is_featured": true
   }
  
