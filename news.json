@@ -1,4 +1,40 @@
 [
+        {
+    "id": 158,
+    "created_at": "2026-10-23T21:00:00+05:30",
+    "title": "🏀 GTA 6 Is Taking Over Miami — Vice City Is Becoming REAL!",
+    "description": "Rockstar's GTA 6 marketing is moving beyond trailers. Reports say Miami's Kaseya Center has introduced Burger Shot and Cluckin' Bell-themed concessions, while the Miami Heat prepares a special 'A Night in Vice City' event for November 18.",
+    "image_url": "https://github.com/akhileshgulia72-dotcom/gta6-news-server/blob/main/images/gta_image_109.png?raw=true",
+    "source": "MeriStation",
+    "article_content": "Grand Theft Auto VI's fictional world is increasingly appearing in real-life Miami, the city that inspired Vice City.\n\nA report published on October 23 describes GTA-inspired food concessions at the Kaseya Center, home of the Miami Heat. The reported installations feature familiar fictional businesses, including Burger Shot and Cluckin' Bell, bringing elements of the Grand Theft Auto universe into a real sporting venue.\n\nThe promotion extends beyond food. The Miami Heat is preparing an event called 'A Night in Vice City' for November 18, the day before GTA VI's scheduled launch. The event is expected to feature custom Vice City uniforms, a specially designed basketball court and exclusive merchandise.\n\nThe campaign demonstrates how GTA VI's marketing is reaching fans outside traditional gaming advertisements. However, individual promotional installations and event details should be distinguished from announcements about the game's actual content.\n\n🏀 Miami Heat and Kaseya Center\n🍔 Burger Shot and Cluckin' Bell Branding\n🌴 A Night in Vice City\n👕 Special Merchandise and Uniforms\n📅 Reported: October 23, 2026\n🎯 Scheduled Release: November 19, 2026",
+    "category": "GTA 6 Marketing",
+    "published_at": "2026-10-23T16:00:00Z",
+    "is_featured": true
+  },
+  {
+    "id": 159,
+    "created_at": "2026-10-23T21:05:00+05:30",
+    "title": "📺 GTA 6's TV Ad Hides a Sneaky Change — Did You Catch It?",
+    "description": "Reports say GTA 6's first television commercial uses an edited version of the launch trailer, removing certain shots while briefly extending scenes featuring Jason, Lucia and an airplane. The Xbox logo is also absent from the reported TV version.",
+    "image_url": "https://github.com/akhileshgulia72-dotcom/gta6-news-server/blob/main/images/gta_image_110.png?raw=true",
+    "source": "MeriStation",
+    "article_content": "Grand Theft Auto VI's latest promotional push includes a television commercial that reportedly differs slightly from the launch trailer released earlier this month.\n\nAccording to a MeriStation report updated on October 23, the commercial aired on NBC Sports in the United States. The edited version reportedly removes shower scenes while slightly extending other shots, including an airplane sequence and a moment featuring Jason and Lucia.\n\nThe differences are brief, but they have attracted attention from fans who closely inspect every new piece of GTA VI footage. The reported absence of the Xbox logo has also raised questions about the game's marketing arrangements with PlayStation.\n\nImportantly, these edits do not establish that Rockstar has revealed new missions, mechanics or story details. The commercial appears to be a modified promotional cut rather than a separate gameplay reveal.\n\n🎬 Television Commercial Reported on NBC Sports\n✂️ Edited Scenes From the Launch Trailer\n✈️ Briefly Extended Airplane Sequence\n👫 Jason and Lucia Footage\n🎮 Xbox Logo Absent From the Reported TV Cut\n📅 Report Updated: October 23, 2026\n🎯 Scheduled Release: November 19, 2026",
+    "category": "GTA 6 Trailers",
+    "published_at": "2026-10-23T17:30:00Z",
+    "is_featured": true
+  },
+  {
+    "id": 160,
+    "created_at": "2026-10-23T21:10:00+05:30",
+    "title": "🍺 GTA 6's Fake Beer Brands May Be Going REAL — Here's the Twist!",
+    "description": "Reports have drawn attention to US alcohol-label records involving GTA-inspired beer brands, including Pißwasser and Patriot. The filings have fueled speculation about real-world merchandise, but Rockstar has not confirmed an official beer collaboration.",
+    "image_url": "https://github.com/akhileshgulia72-dotcom/gta6-news-server/blob/main/images/gta_image_111.png?raw=true",
+    "source": "PC Gamer",
+    "article_content": "Grand Theft Auto VI's fictional brands may be attracting attention beyond the game, following reports about beer-label approvals in the United States.\n\nPC Gamer reported on October 21 that GTA-inspired beer branding had appeared in US alcohol-label records. The names discussed include Pißwasser and Patriot, familiar fictional brands associated with the Grand Theft Auto universe.\n\nThe reports have sparked speculation about whether fans could eventually see real-world products inspired by GTA VI. Rockstar has a long history of using parody brands to satirize consumer culture, making the possibility particularly interesting to longtime players.\n\nHowever, an alcohol-label record does not, by itself, confirm an official Rockstar marketing partnership, a product launch date or retail availability. Rockstar has not confirmed an associated promotional collaboration in the reporting referenced here.\n\nFor now, the development is best treated as a reported branding story rather than proof that GTA VI beer merchandise is officially launching.\n\n🍺 Pißwasser and Patriot Branding\n📄 US Alcohol-Label Records\n🎮 GTA's Famous Fictional Brands\n🔎 Potential Real-World Products\n⚠️ Official Rockstar Collaboration Not Confirmed\n📅 Reported: October 21, 2026\n🎯 Scheduled Release: November 19, 2026",
+    "category": "GTA 6 Rumors",
+    "published_at": "2026-10-23T18:00:00Z",
+    "is_featured": false
+  },
        {
     "id": 155,
     "created_at": "2026-10-22T22:00:00+05:30",
@@ -322,42 +358,6 @@
     "category": "GTA 6 Rumors",
     "published_at": "2026-10-13T17:10:00Z",
     "is_featured": false
-  },
-            {
-    "id": 128,
-    "created_at": "2026-10-12T22:45:00+05:30",
-    "title": "🌴 GTA VI Vice City Blimp Spotted Flying Across America!",
-    "description": "A Goodyear airship featuring GTA VI and Vice City branding was spotted flying from Ohio toward North Carolina, giving Rockstar's upcoming game another eye-catching promotional moment.",
-    "image_url": "https://github.com/akhileshgulia72-dotcom/gta6-news-server/blob/main/images/gta_image_79.png?raw=true",
-    "source": "GTA BOOM",
-    "article_content": "Grand Theft Auto VI's marketing campaign has taken to the skies, with a Goodyear airship spotted carrying Vice City and GTA VI branding as it travelled across the United States.\n\nThe aircraft, known as Wingfoot Three and registered as N3A, departed its Ohio base on October 12 and headed toward Smith Reynolds Airport in Winston-Salem, North Carolina. Aviation enthusiasts reported the new branding as the airship began its journey south.\n\nThe flight attracted attention from GTA fans, who could follow the aircraft's movement using FlightAware. Reports also suggested that the airship could eventually head toward Florida, although its complete route and the identity of the campaign's organizer have not been officially confirmed.\n\nNeither Rockstar Games nor Goodyear had publicly explained the branding at the time of reporting. The sighting nevertheless adds another unusual real-world promotional moment to the build-up toward GTA VI's launch.\n\n🌴 Vice City Branding\n✈️ Goodyear Wingfoot Three\n📍 Ohio to North Carolina\n🔎 Live Flight Tracking\n🎮 Grand Theft Auto VI\n⚠️ Official Campaign Details Unconfirmed\n📅 Reported: October 12, 2026\n🎯 Expected Release: November 19, 2026",
-    "category": "GTA 6 Marketing",
-    "published_at": "2026-10-12T15:00:00Z",
-    "is_featured": true
-  },
-  {
-    "id": 129,
-    "created_at": "2026-10-12T22:46:00+05:30",
-    "title": "🏖️ GTA VI Branding Is Coming to Miami Beach on October 15!",
-    "description": "Newly reported city authorizations will allow GTA VI and Vice City branding on Miami Beach concession equipment and promotional banners in downtown Miami beginning October 15.",
-    "image_url": "https://github.com/akhileshgulia72-dotcom/gta6-news-server/blob/main/images/gta_image_80.png?raw=true",
-    "source": "GTA BOOM",
-    "article_content": "Grand Theft Auto VI's real-world promotional campaign is expanding across Miami, the Florida city that helped inspire the game's fictional Vice City.\n\nAccording to reporting published on October 12, two local measures are scheduled to take effect on October 15. One authorizes a marketing agreement involving Vice City and GTA VI branding on Miami Beach concession equipment, including beach chairs and umbrellas.\n\nA separate measure allows temporary promotional banners within a designated downtown Miami event area. The reported rules limit the banners' duration and require the campaign to end no later than December 31, 2026.\n\nThe campaign brings the game's fictional identity closer to the real-world locations that inspired Leonida. However, the measures authorize the promotional activity; they do not mean that every planned advertisement has already been installed.\n\n🏖️ Miami Beach Promotion\n🌴 Vice City Branding\n🏙️ Downtown Miami Banners\n📅 Authorization Begins October 15\n🎮 Grand Theft Auto VI\n🗓️ Promotional Period May Extend Through December 31\n📅 Reported: October 12, 2026\n🎯 Expected Release: November 19, 2026",
-    "category": "GTA 6 Marketing",
-    "published_at": "2026-10-12T15:30:00Z",
-    "is_featured": true
-  },
-  {
-    "id": 130,
-    "created_at": "2026-10-12T22:47:00+05:30",
-    "title": "🎮 Nintendo Says Switch 2 Could Run GTA VI — But There's a Catch!",
-    "description": "Nintendo of America president Devon Pritchard says Switch 2 has the technical capability to run GTA VI, but a version for the console has not been announced and would depend on Rockstar and Take-Two.",
-    "image_url": "https://github.com/akhileshgulia72-dotcom/gta6-news-server/blob/main/images/gta_image_81.png?raw=true",
-    "source": "GTA BOOM",
-    "article_content": "Could Grand Theft Auto VI eventually arrive on Nintendo Switch 2? A recent interview has reignited the discussion surrounding a possible version of Rockstar's upcoming blockbuster.\n\nNintendo of America president Devon Pritchard addressed the possibility in an interview with Variety. She indicated that the Switch 2 has the technical capability to handle a game like GTA VI, while making clear that any release would be a decision for Take-Two Interactive and Rockstar Games.\n\nHer comments are notable because GTA VI is currently scheduled to launch on PlayStation 5 and Xbox Series X|S on November 19, 2026. Nintendo's statement has encouraged speculation about whether Rockstar might eventually expand the game's platform availability.\n\nHowever, no Switch 2 version has been officially announced. Hardware capability alone does not guarantee a port, and Rockstar has not confirmed plans to bring GTA VI to Nintendo's console.\n\n🎮 Nintendo Switch 2\n🗣️ Devon Pritchard\n🏢 Rockstar Games & Take-Two\n⚙️ Hardware Capability Discussed\n❓ Switch 2 Version Unconfirmed\n🎮 Current Launch Platforms: PS5 & Xbox Series X|S\n📅 Reported: October 10, 2026\n🎯 Expected Release: November 19, 2026",
-    "category": "GTA 6 Platforms",
-    "published_at": "2026-10-12T17:00:00Z",
-    "is_featured": true
   }
  
 ]
