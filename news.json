@@ -1,4 +1,40 @@
 [
+         {
+    "id": 161,
+    "created_at": "2026-10-24T23:00:00+05:30",
+    "title": "🌴 Miami Is Turning Into GTA 6 — Vice City Is Everywhere!",
+    "description": "GTA 6's real-world marketing campaign is spreading across Miami, with reports of Vice City branding, fictional businesses, themed advertisements and beach installations. The growing campaign is bringing Rockstar's fictional world into the city that inspired it.",
+    "image_url": "https://github.com/akhileshgulia72-dotcom/gta6-news-server/blob/main/images/gta_image_112.png?raw=true",
+    "source": "Video Games Chronicle",
+    "article_content": "Miami is increasingly resembling the world of Grand Theft Auto VI as Rockstar's promotional campaign expands ahead of the game's scheduled November launch.\n\nReports published on October 22 describe Vice City-inspired advertising, themed vehicles, branded street displays and fictional businesses appearing around the real city. The Kaseya Center has also attracted attention for Burger Shot and Cluckin' Bell branding associated with the GTA universe.\n\nThe campaign extends beyond conventional gaming advertisements, allowing residents and visitors to encounter familiar fictional brands in real-world settings. Some installations have been documented by gaming publications and social media users, so individual sightings should be distinguished from officially announced partnerships.\n\nRockstar's collaboration with the Miami Heat includes A Night in Vice City on November 18, featuring special uniforms, a themed basketball court and promotional activities.\n\n🌴 Miami and Vice City Branding\n🍔 GTA-Inspired Restaurant Displays\n🚗 Fictional Brands in Real-World Advertising\n🏀 Miami Heat Promotional Event\n📅 Reported: October 22, 2026\n🎯 Scheduled Release: November 19, 2026",
+    "category": "GTA 6 Marketing",
+    "published_at": "2026-10-24T17:00:00Z",
+    "is_featured": true
+  },
+  {
+    "id": 162,
+    "created_at": "2026-10-24T23:05:00+05:30",
+    "title": "📺 GTA 6's TV Ad Has a PlayStation Twist — Xbox Fans Noticed!",
+    "description": "GTA 6's reported television commercial uses an edited version of the launch trailer and reportedly ends with PlayStation branding rather than an Xbox logo. The difference has sparked discussion, although the game remains scheduled for both PS5 and Xbox Series X|S.",
+    "image_url": "https://github.com/akhileshgulia72-dotcom/gta6-news-server/blob/main/images/gta_image_113.png?raw=true",
+    "source": "TalkEsport",
+    "article_content": "Grand Theft Auto VI's television advertising has attracted attention after viewers noticed differences between the reported TV commercial and the previously released launch trailer.\n\nA report published on October 22 says the commercial aired during NBA broadcasts in the United States on October 20. The shorter edit reportedly removes some shower scenes featuring Jason and Lucia and finishes with PlayStation branding.\n\nThe changes have prompted questions among fans about Rockstar's promotional strategy and the relationship between its console partners. However, a PlayStation-branded commercial does not mean that GTA VI has been cancelled or removed from Xbox.\n\nRockstar's announced console platforms remain PlayStation 5 and Xbox Series X|S, with the scheduled release date set for November 19, 2026. No official announcement in the reporting indicates a change to those plans.\n\n📺 Reported TV Commercial Debut: October 20\n✂️ Edited Launch Trailer Footage\n🎮 PlayStation Branding in the Reported TV Cut\n🟢 Xbox Series X|S Remains an Announced Platform\n📅 Report Updated: October 22, 2026\n🎯 Scheduled Release: November 19, 2026",
+    "category": "GTA 6 Trailers",
+    "published_at": "2026-10-24T17:30:00Z",
+    "is_featured": true
+  },
+  {
+    "id": 163,
+    "created_at": "2026-10-24T23:10:00+05:30",
+    "title": "🍺 GTA 6's Pißwasser Beer Could Become REAL — The Records Are In!",
+    "description": "US alcohol-label records reportedly feature GTA-inspired brands Pißwasser, Patriot and No Mames Vice City. The filings suggest possible real-world products, but Rockstar has not officially confirmed a collaboration or retail launch date.",
+    "image_url": "https://github.com/akhileshgulia72-dotcom/gta6-news-server/blob/main/images/gta_image_114.png?raw=true",
+    "source": "PC Gamer",
+    "article_content": "One of Grand Theft Auto's most recognizable fictional product brands may be moving beyond the game, according to reports about US alcohol-label records.\n\nPC Gamer reported on October 21 that records from the Alcohol and Tobacco Tax and Trade Bureau included labels for Pißwasser, Patriot and No Mames Vice City. The names are associated with GTA-style parody branding and have sparked speculation about a possible real-world promotional release.\n\nThe reported labels have fueled interest because GTA VI's marketing campaign is increasingly visible outside the gaming world. However, regulatory label records alone do not establish when products will reach stores, where they will be available or whether Rockstar has formally announced a commercial partnership.\n\nFor now, fans should treat the development as a reported real-world branding story rather than confirmation of an official launch. Any availability details will need further verification.\n\n🍺 Pißwasser and Patriot Branding\n📄 US Alcohol-Label Records\n🌴 No Mames Vice City\n🔎 Possible Real-World Products\n⚠️ Official Rockstar Collaboration Not Confirmed\n📅 Reported: October 21, 2026\n🎯 Scheduled GTA VI Release: November 19, 2026",
+    "category": "GTA 6 Rumors",
+    "published_at": "2026-10-24T18:00:00Z",
+    "is_featured": false
+  },
         {
     "id": 158,
     "created_at": "2026-10-23T21:00:00+05:30",
@@ -322,42 +358,6 @@
     "category": "GTA 6 Industry",
     "published_at": "2026-10-14T20:42:00Z",
     "is_featured": true
-  },
-             {
-    "id": 131,
-    "created_at": "2026-10-13T21:00:00+05:30",
-    "title": "🚨 GTA VI Leaker Drops New Lucia Footage — More Leaks Planned?",
-    "description": "CyberLeek has reportedly released additional alleged Lucia gameplay footage alongside a roadmap teasing further leaks. The material remains unauthenticated by Rockstar Games.",
-    "image_url": "https://github.com/akhileshgulia72-dotcom/gta6-news-server/blob/main/images/gta_image_82.png?raw=true",
-    "source": "Times of India",
-    "article_content": "Grand Theft Auto VI is facing renewed attention after the anonymous leaker known as CyberLeek reportedly shared additional footage featuring Lucia and outlined plans for further releases.\n\nReports published on October 12 describe a roadmap associated with the leaker's ongoing campaign. The latest developments have intensified discussion among fans, particularly as GTA VI approaches its scheduled November launch.\n\nHowever, Rockstar Games has not authenticated the newly circulated footage or confirmed the claims about the alleged development build. Leaked material may also contain misleading edits, unfinished features or story spoilers.\n\nFans should treat the footage as unverified rather than a reliable preview of the final game, and avoid suspicious downloads claiming to offer a playable build.\n\n🚨 New Lucia Footage Reported\n👩 Lucia Caminos\n🔎 Alleged Leak Roadmap\n⚠️ Footage Not Officially Verified\n🔒 Beware of Suspicious Downloads\n🎮 Grand Theft Auto VI\n📅 Reported: October 12, 2026\n🎯 Scheduled Release: November 19, 2026",
-    "category": "GTA 6 Leaks",
-    "published_at": "2026-10-13T15:00:00Z",
-    "is_featured": true
-  },
-  {
-    "id": 132,
-    "created_at": "2026-10-13T21:05:00+05:30",
-    "title": "🗺️ GTA VI Physical Edition May Include a Collector's Map — Here's the Catch!",
-    "description": "A rumored physical map for GTA VI has sparked discussion among fans, but conflicting reports from retail stores mean the collectible has not been confirmed.",
-    "image_url": "https://github.com/akhileshgulia72-dotcom/gta6-news-server/blob/main/images/gta_image_83.png?raw=true",
-    "source": "GTA BOOM",
-    "article_content": "Grand Theft Auto VI fans hoping to receive a physical map of Leonida with their purchase may need to wait for clearer information.\n\nA recent rumor suggested that a collector's map could accompany the game's physical edition. However, follow-up reporting on October 12 found conflicting answers from GameStop stores, leaving the claim unresolved.\n\nA physical map would be a welcome collectible for players who enjoy exploring the open world, discovering hidden locations and planning routes across Vice City and the surrounding areas.\n\nFor now, Rockstar Games has not confirmed that a printed map will be included with the standard physical edition. Buyers should check the exact contents of their chosen edition before spending money based on retailer rumors.\n\n🗺️ Physical Map Rumor\n🌴 Leonida & Vice City\n📦 Physical Edition Speculation\n🏪 Conflicting Retailer Information\n⚠️ Collectible Not Confirmed\n🎮 Grand Theft Auto VI\n📅 Reported: October 12, 2026\n🎯 Scheduled Release: November 19, 2026",
-    "category": "GTA 6 Collectibles",
-    "published_at": "2026-10-13T16:05:00Z",
-    "is_featured": true
-  },
-  {
-    "id": 133,
-    "created_at": "2026-10-13T21:10:00+05:30",
-    "title": "👀 GTA VI Fans Eye October 15 — Is Rockstar Preparing Another Reveal?",
-    "description": "Speculation is building around a possible GTA VI update on October 15, but Rockstar has not announced a reveal or confirmed that new information is coming on that date.",
-    "image_url": "https://github.com/akhileshgulia72-dotcom/gta6-news-server/blob/main/images/gta_image_84.png?raw=true",
-    "source": "Leonida Hub",
-    "article_content": "Could Rockstar Games have another Grand Theft Auto VI announcement planned for October 15? Some fans are watching the date closely as the game's scheduled November release approaches.\n\nA recent report from Leonida Hub examined speculation surrounding the date, noting that several recent GTA VI announcements have appeared on Thursdays. This pattern has encouraged fans to wonder whether another reveal could be approaching.\n\nHowever, a pattern of previous announcements is not proof of a scheduled event. Rockstar has not officially confirmed a new trailer, gameplay showcase or announcement for October 15.\n\nUntil the studio publishes an official update, fans should treat the date as speculation rather than a confirmed reveal. Any genuine announcement should appear through Rockstar's official Newswire or verified channels.\n\n👀 October 15 Speculation\n🎮 Grand Theft Auto VI\n📅 Fans Watching Thursday\n🔎 Possible Future Announcement\n⚠️ No Official Reveal Confirmed\n🏢 Rockstar Games\n📅 Report Checked: October 13, 2026\n🎯 Scheduled Release: November 19, 2026",
-    "category": "GTA 6 Rumors",
-    "published_at": "2026-10-13T17:10:00Z",
-    "is_featured": false
   }
  
 ]
