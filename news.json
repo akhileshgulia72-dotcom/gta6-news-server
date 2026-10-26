@@ -1,4 +1,40 @@
 [
+          {
+    "id": 167,
+    "created_at": "2026-10-26T22:00:00+05:30",
+    "title": "🎵 GTA 6's Official Album Is Getting Closer — New Music Details Await!",
+    "description": "Rockstar's official GTA VI soundtrack campaign is building anticipation ahead of launch. The game’s album is scheduled for November 19, 2026, while the recently released launch trailer features new music from Justice. Fans are waiting for further details about the soundtrack and its in-game radio experience.",
+    "image_url": "https://github.com/akhileshgulia72-dotcom/gta6-news-server/blob/main/images/gta_image_118.png?raw=true",
+    "source": "Rockstar Games",
+    "article_content": "Music is becoming a major part of the excitement surrounding Grand Theft Auto VI as Rockstar Games prepares players for its return to Vice City.\n\nOn October 15, Rockstar released the latest GTA VI launch trailer, featuring new music from electronic duo Justice. The accompanying announcement highlighted the single \"Flower in a Hurricane,\" featuring Tame Impala, SZA, and King Gizzard & The Lizard Wizard.\n\nRockstar previously announced Grand Theft Auto VI: The Album, scheduled to arrive on November 19, 2026. The company has also shared information about the game's in-game radio stations, giving fans more insight into the musical atmosphere planned for Leonida.\n\nThe soundtrack is an important part of the Grand Theft Auto experience, helping define everything from high-speed pursuits to late-night drives through the city. However, the complete final tracklist and every radio station's programming should not be assumed until Rockstar confirms those details.\n\nWith launch approaching, additional soundtrack announcements could become a major talking point among fans. For now, the confirmed music releases provide a glimpse of the atmosphere Rockstar is building for its next open-world adventure.\n\n🎵 Justice and New GTA VI Music\n🎧 Flower in a Hurricane\n💿 GTA VI: The Album\n📻 In-Game Radio Stations\n📅 Album Scheduled: November 19, 2026\n🎮 GTA VI Launch: November 19, 2026",
+    "category": "GTA 6 Music",
+    "published_at": "2026-10-26T16:30:00Z",
+    "is_featured": true
+  },
+  {
+    "id": 168,
+    "created_at": "2026-10-26T22:05:00+05:30",
+    "title": "🛍️ GTA 6 Fans Can Bring Vice City Home With Official Rockstar Merchandise!",
+    "description": "Rockstar is expanding the GTA VI experience beyond the game with official merchandise inspired by Vice City. The Goodtime State collection offers fans a way to celebrate the upcoming release, although merchandise availability and individual product details depend on the official Rockstar Store.",
+    "image_url": "https://github.com/akhileshgulia72-dotcom/gta6-news-server/blob/main/images/gta_image_119.png?raw=true",
+    "source": "Rockstar Games",
+    "article_content": "Grand Theft Auto VI's world is reaching beyond consoles as Rockstar Games continues to promote official merchandise inspired by the upcoming game.\n\nOn September 24, Rockstar announced the Goodtime State – Vice City Collection, giving fans an opportunity to explore merchandise connected to the fictional setting of GTA VI. The collection is part of the company's wider effort to build excitement around the return to Vice City.\n\nOfficial merchandise offers fans another way to connect with the series before launch. It also reflects how major gaming franchises extend their identities into clothing, collectibles, and other products outside the games themselves.\n\nPlayers interested in purchasing items should check Rockstar's official store for current stock, prices, shipping information, and regional availability. Product availability can change, and not every item will necessarily be offered in every country.\n\nThe collection is separate from the game's digital editions and does not confirm any additional gameplay features. Nevertheless, it gives dedicated fans another way to celebrate the upcoming release while waiting to explore Leonida.\n\n🛍️ Official Rockstar Merchandise\n🌴 Goodtime State – Vice City Collection\n🎮 Grand Theft Auto VI\n👕 Vice City-Inspired Products\n🔎 Check Official Store for Availability\n📅 Collection Announcement: September 24, 2026\n🎯 GTA VI Launch: November 19, 2026",
+    "category": "GTA 6 Merchandise",
+    "published_at": "2026-10-26T17:00:00Z",
+    "is_featured": false
+  },
+  {
+    "id": 169,
+    "created_at": "2026-10-26T22:10:00+05:30",
+    "title": "🎮 GTA 6 Launch Countdown Is Heating Up — Just Weeks Until Vice City!",
+    "description": "Grand Theft Auto VI is scheduled to launch on November 19, 2026, for PlayStation 5 and Xbox Series X|S. Rockstar has released a new launch trailer and confirmed pre-orders, while digital pre-loading is listed to begin November 12. Players should follow official platform stores for the latest launch information.",
+    "image_url": "https://github.com/akhileshgulia72-dotcom/gta6-news-server/blob/main/images/gta_image_120.png?raw=true",
+    "source": "Rockstar Games",
+    "article_content": "The countdown to Grand Theft Auto VI is entering its final weeks, with players preparing for the return to Vice City and the wider state of Leonida.\n\nRockstar Games currently lists November 19, 2026, as the release date for GTA VI on PlayStation 5 and Xbox Series X|S. The company has released a new launch trailer, providing another look at Jason Duval and Lucia Caminos as their criminal plans lead them into a dangerous conspiracy.\n\nPlayers who have already pre-ordered the digital edition can look forward to the listed pre-loading window beginning November 12, one week before launch. Pre-loading allows players to download game files ahead of release, subject to platform and regional availability.\n\nThe final weeks before launch are also a good time for players to review console storage, check their account details, and verify purchase information through their platform's official store. Fans should avoid unofficial websites promising early access, free full-game downloads, or unauthorized copies.\n\nAlthough excitement continues to grow, players should rely on official Rockstar announcements for any changes to release plans. The announced launch platforms remain PlayStation 5 and Xbox Series X|S, while an official PC release date has not been announced in the information cited here.\n\n⏳ GTA VI Launch Countdown\n📅 Release Date: November 19, 2026\n🎮 PlayStation 5 and Xbox Series X|S\n📥 Listed Pre-Load Date: November 12, 2026\n👫 Jason and Lucia Return\n🛡️ Avoid Fake Downloads and Early-Access Scams\n📢 Follow Official Rockstar Updates",
+    "category": "GTA 6 Updates",
+    "published_at": "2026-10-26T18:30:00Z",
+    "is_featured": true
+  },
          {
     "id": 164,
     "created_at": "2026-10-25T23:05:00+05:30",
@@ -321,42 +357,6 @@
     "article_content": "As anticipation builds for Grand Theft Auto VI, a fresh report has renewed attention on the working conditions behind Rockstar Games' blockbuster development process.\n\nIn an interview with Bloomberg discussed in an October 15 report, Rockstar publishing head Jennifer Kolbe explained that the experience of developing Red Dead Redemption 2 prompted the studio to reconsider its approach to extended overtime, commonly known as crunch.\n\nKolbe said Rockstar introduced policies that provide paid time off to compensate for additional hours worked and, in some cases, additional pay. She described the changes as an improvement over the development of Red Dead Redemption 2 while acknowledging that the new approach has not been perfect.\n\nThe comments offer insight into how Rockstar says it has tried to change its production practices while developing one of the industry's most anticipated games. However, the remarks do not establish that every employee has experienced the same working conditions, and earlier employee concerns have also been reported.\n\nThe discussion highlights the human effort behind a massive open-world game and the ongoing challenge of balancing ambitious production schedules with employee well-being.\n\n👥 Rockstar Development Team\n🏢 Jennifer Kolbe\n⏰ Overtime and Crunch Culture\n💼 Paid Time Off and Compensation Policies\n🔎 Changes Described as Imperfect\n🎮 Grand Theft Auto VI\n📅 Reported: October 15, 2026\n🎯 Scheduled Release: November 19, 2026",
     "category": "GTA 6 Industry",
     "published_at": "2026-10-17T09:00:00Z",
-    "is_featured": true
-  },
-    {
-    "id": 137,
-    "created_at": "2026-10-15T22:00:00+05:30",
-    "title": "🎬 GTA VI Launch Trailer Is Out — Jason & Lucia's Story Takes a Dark Turn!",
-    "description": "Rockstar Games has released a new GTA VI launch trailer showing Jason and Lucia caught in a criminal conspiracy, with a new soundtrack track by Justice.",
-    "image_url": "https://github.com/akhileshgulia72-dotcom/gta6-news-server/blob/main/images/gta_image_88.png?raw=true",
-    "source": "The Verge",
-    "article_content": "Grand Theft Auto VI has received a major new promotional update with the release of its launch trailer, offering another glimpse into Jason and Lucia's dangerous journey through Leonida.\n\nThe trailer shows the two protagonists becoming entangled in a criminal conspiracy after a robbery goes wrong. As the situation escalates, Jason and Lucia must rely on each other while facing increasingly dangerous circumstances.\n\nThe new footage also highlights the atmosphere of Vice City and features music from electronic duo Justice. Their track, 'Flower in a Hurricane,' adds another musical highlight to the game's growing soundtrack campaign.\n\nRockstar continues to build anticipation ahead of the scheduled November launch. However, the trailer focuses on story and atmosphere rather than providing an extensive new gameplay demonstration.\n\n🎬 New Launch Trailer Released\n👫 Jason & Lucia\n🌴 Vice City and Leonida\n🚨 Criminal Conspiracy\n🎵 Justice Soundtrack Track\n🎮 PlayStation 5 & Xbox Series X|S\n📅 Reported: October 15, 2026\n🎯 Scheduled Release: November 19, 2026",
-    "category": "GTA 6 Trailers",
-    "published_at": "2026-10-15T16:00:00Z",
-    "is_featured": true
-  },
-  {
-    "id": 138,
-    "created_at": "2026-10-15T22:05:00+05:30",
-    "title": "🚨 GTA 6 Ending Leak Claims Surface — CyberLeek Sparks Fresh Spoiler Fears!",
-    "description": "Reports say the leaker known as CyberLeek has circulated footage allegedly revealing parts of GTA VI's ending, but its authenticity and completeness remain unverified.",
-    "image_url": "https://github.com/akhileshgulia72-dotcom/gta6-news-server/blob/main/images/gta_image_89.png?raw=true",
-    "source": "Times of India",
-    "article_content": "Grand Theft Auto VI has become the focus of another leak controversy after reports emerged that footage allegedly showing parts of the game's ending had appeared online.\n\nAccording to reporting published on October 15, an anonymous leaker known as CyberLeek shared material on October 14 under the title 'The End of the Road.' The reports suggest that the release may reveal story details that Rockstar Games has not officially shown to the public.\n\nThe latest development has raised concerns among fans who want to experience the story without spoilers. However, the circulated footage has not been independently authenticated, and there is no reliable public confirmation that it reveals the complete ending or represents the final game.\n\nPlayers should be cautious about social media posts promising access to the full game or exclusive leaked files. Such links may lead to scams, malware or misleading content.\n\n🚨 Alleged Ending Footage\n🕵️ CyberLeek\n🎮 Grand Theft Auto VI\n⚠️ Authenticity Not Confirmed\n🔒 Potential Story Spoilers\n🛑 Avoid Suspicious Downloads\n📅 Reported: October 15, 2026\n🎯 Scheduled Release: November 19, 2026",
-    "category": "GTA 6 Leaks",
-    "published_at": "2026-10-15T14:00:00Z",
-    "is_featured": true
-  },
-  {
-    "id": 139,
-    "created_at": "2026-10-15T22:10:00+05:30",
-    "title": "⚖️ Rockstar Faces Fresh Scrutiny as Former GTA 6 Workers Rally in Glasgow!",
-    "description": "Former Rockstar employees have rallied in Glasgow over disputed dismissals, while an employment tribunal examines claims that the firings were unfair. Rockstar says confidentiality breaches were involved.",
-    "image_url": "https://github.com/akhileshgulia72-dotcom/gta6-news-server/blob/main/images/gta_image_90.png?raw=true",
-    "source": "The Scottish Sun",
-    "article_content": "Rockstar Games is facing renewed attention over a workplace dispute involving former employees who worked for the company behind Grand Theft Auto VI.\n\nA report published on October 15 says more than 30 former employees gathered in Glasgow nearly a year after being dismissed. A group of claimants represented by the Independent Workers' Union of Great Britain is challenging the dismissals through an employment tribunal.\n\nThe former employees allege that the dismissals were unfair and connected to union-related activity. Rockstar has maintained that the decision involved breaches of confidentiality and has defended its position during the ongoing proceedings.\n\nThe tribunal has examined questions about management decisions, internal communications and the handling of employee discussions on Discord. The competing accounts remain part of an ongoing dispute, and the proceedings have not established that the dismissals were unlawful.\n\nThe case has renewed discussion about working conditions and employee rights in the video game industry as Rockstar prepares for the launch of GTA VI.\n\n⚖️ Glasgow Employment Tribunal\n👥 Former Rockstar Employees\n🗣️ Union-Related Dispute\n🏢 Rockstar Games\n🔎 Competing Claims Under Examination\n📅 Reported: October 15, 2026\n🎮 GTA VI Scheduled Release: November 19, 2026",
-    "category": "GTA 6 Industry",
-    "published_at": "2026-10-15T12:00:00Z",
     "is_featured": true
   }
  
