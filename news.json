@@ -1,5 +1,41 @@
 [
            {
+    "id": 173,
+    "created_at": "2026-10-29T00:30:00+05:30",
+    "title": "🔥 GTA 6's Biggest Preview Yet? 16 Pages of New Details Arrive Today!",
+    "description": "GTA VI is taking over the latest issue of Edge magazine with a massive 16-page cover story featuring exclusive Rockstar interviews and new screenshots. The magazine goes on sale October 29, with the full feature also scheduled to appear online through GamesRadar+. Fans are waiting to discover what new details the preview reveals.",
+    "image_url": "https://github.com/akhileshgulia72-dotcom/gta6-news-server/blob/main/images/gta_image_124.png?raw=true",
+    "source": "GamesRadar+",
+    "article_content": "Grand Theft Auto VI fans have a major reason to watch the gaming news today. Edge magazine's latest issue features an extensive 16-page cover story dedicated to Rockstar Games' upcoming open-world adventure.\n\nAccording to GamesRadar+, the magazine's editorial team visited Rockstar's Edinburgh headquarters for exclusive interviews and new imagery related to the highly anticipated game. The special issue also features a gatefold cover showcasing protagonists Jason Duval and Lucia Caminos.\n\nThe feature is scheduled to go on sale October 29, 2026, with the full report expected to become available online through GamesRadar+ on the same day. It could provide additional insight into Rockstar's development process and its ambitions for the game.\n\nHowever, the precise contents of the interviews and any previously unrevealed gameplay information should not be assumed before the complete article becomes available. The announcement confirms the special coverage, but not every detail fans hope to discover.\n\nWith the scheduled November 19 launch approaching, this preview is another significant moment in the game's pre-release coverage.\n\n🔥 Edge Magazine's Special GTA VI Issue\n📰 16-Page Cover Story\n🎤 Exclusive Rockstar Interviews\n📸 New Game Screenshots\n👫 Jason and Lucia Cover Artwork\n📅 Magazine Release: October 29, 2026\n🎯 Scheduled Game Release: November 19, 2026\n\nSource: GamesRadar+",
+    "category": "GTA 6 News",
+    "published_at": "2026-10-28T21:00:00Z",
+    "is_featured": true
+  },
+  {
+    "id": 174,
+    "created_at": "2026-10-29T00:35:00+05:30",
+    "title": "🎧 GTA 6's New 7-Minute Track Is Here — Justice & Gesaffelstein Deliver!",
+    "description": "A new track titled Pusher, featuring Gesaffelstein and associated with Justice's original score for GTA VI, is arriving on October 29. The approximately seven-minute electronic track is generating excitement among fans eager to hear more of the game's music. It adds to the growing soundtrack anticipation ahead of the scheduled November launch.",
+    "image_url": "https://github.com/akhileshgulia72-dotcom/gta6-news-server/blob/main/images/gta_image_125.png?raw=true",
+    "source": "Push Square",
+    "article_content": "The music surrounding Grand Theft Auto VI is getting another major talking point. Justice and Gesaffelstein are bringing a new electronic track titled Pusher to listeners on October 29, according to recent music coverage.\n\nThe track runs for approximately seven minutes and is associated with the original score being created for GTA VI. Its release follows Flower in a Hurricane, the Justice track featured in the game's October 15 launch trailer.\n\nThe new music is attracting attention because electronic music has played an important role in the atmosphere of previous Grand Theft Auto games. Fans are eager to discover how the original score will complement high-speed chases, nighttime drives and the wider world of Vice City.\n\nIt is important to distinguish the original score from the separately promoted GTA VI: The Album. The two releases have different purposes, and the appearance of a track in the original score does not automatically establish that it will play on an in-game radio station.\n\nPlayers can follow official music listings and the artists' release announcements for availability in their region. Rockstar has previously confirmed Justice's involvement in the game's original score, although individual track placements and gameplay contexts should not be assumed without confirmation.\n\n🎧 New Track: Pusher\n🎹 Artists: Justice and Gesaffelstein\n⏱️ Approximate Runtime: 7 Minutes\n🎮 Associated With the GTA VI Original Score\n🎵 Follows Flower in a Hurricane\n📅 Reported Release: October 29, 2026\n🎯 GTA VI Release: November 19, 2026\n\nSource: Push Square and recent music-release reporting",
+    "category": "GTA 6 Music",
+    "published_at": "2026-10-28T22:30:00Z",
+    "is_featured": true
+  },
+  {
+    "id": 175,
+    "created_at": "2026-10-29T00:40:00+05:30",
+    "title": "🎬 Rockstar Just Changed Its GTA 6 Trailer Ads — Did You Spot the Difference?",
+    "description": "Rockstar has reportedly begun running shorter, approximately one-minute versions of the GTA VI launch trailer as advertisements on X. The edited cut resembles the television commercial reported earlier this month, with several scenes removed. Although fans are examining every frame, the shortened advertisement does not itself confirm new gameplay features or story revelations.",
+    "image_url": "https://github.com/akhileshgulia72-dotcom/gta6-news-server/blob/main/images/gta_image_126.png?raw=true",
+    "source": "iGrandTheftAuto",
+    "article_content": "Rockstar Games is continuing its promotional push for Grand Theft Auto VI with a shorter version of the launch trailer reportedly appearing in advertisements on X.\n\nA report published by iGrandTheftAuto on October 27 says the new advertisements run for approximately one minute and use an edited version of the launch trailer. The footage reportedly resembles the shortened television advertisement that recently attracted attention from fans.\n\nSome scenes have been removed from the shorter cut, including portions of footage featuring Jason and Lucia. These differences have encouraged players to compare the advertisement with the full trailer in search of details they might have missed.\n\nHowever, a shorter promotional edit should not be mistaken for a new gameplay reveal. Removing scenes to fit an advertising format does not establish that Rockstar has changed the storyline or confirmed additional mechanics.\n\nThe advertising activity comes as anticipation builds toward the scheduled November 19, 2026 release on PlayStation 5 and Xbox Series X|S. With launch approaching, further promotional material may attract close attention from the gaming community.\n\n🎬 Shortened Launch Trailer Advertisement\n⏱️ Approximately 1 Minute\n📱 Reportedly Running on X\n✂️ Edited Footage From the Full Trailer\n🔍 Fans Comparing Different Versions\n⚠️ No New Gameplay Features Confirmed by the Advertisement\n📅 Report Published: October 27, 2026\n🎯 Scheduled Release: November 19, 2026\n\nSource: iGrandTheftAuto",
+    "category": "GTA 6 Trailers",
+    "published_at": "2026-10-28T22:55:00Z",
+    "is_featured": true
+  },
+           {
     "id": 170,
     "created_at": "2026-10-27T23:05:00+05:30",
     "title": "💰 GTA 6 Pre-Orders Could Be Worth $630 Million — A Record-Breaking Launch Ahead?",
@@ -321,42 +357,6 @@
     "article_content": "The countdown to Grand Theft Auto VI is getting more exciting. Rockstar's official store listing gives November 19, 2026 as the game's release date and states that pre-loading begins November 12, one week before launch. Pre-loading can allow players to download game files in advance so they can spend less time downloading when the game becomes available.\n\nPlayers should check the relevant console store for the latest download information, storage requirements, and availability. The timing and process may depend on the platform and regional store details.\n\n📅 Key dates:\n- November 12, 2026: Listed pre-load start date\n- November 19, 2026: Scheduled GTA 6 release date\n- Platforms announced: PlayStation 5 and Xbox Series X|S\n\nThe launch is approaching, but make sure to rely on official store updates for any changes.",
     "category": "Updates",
     "published_at": "2026-10-19T18:40:00Z",
-    "is_featured": true
-  },
-     {
-    "id": 143,
-    "created_at": "2026-10-18T14:00:00+05:30",
-    "title": "🎬 GTA 6 Launch Trailer Has Fans Hunting for Hidden Details!",
-    "description": "Rockstar's recently released GTA VI launch trailer has sparked fresh discussion about Jason and Lucia's dangerous partnership, Vice City's atmosphere and the criminal conspiracy driving their story.",
-    "image_url": "https://github.com/akhileshgulia72-dotcom/gta6-news-server/blob/main/images/gta_image_94.png?raw=true",
-    "source": "The Verge",
-    "article_content": "Grand Theft Auto VI fans are taking another close look at Rockstar's latest launch trailer as anticipation builds ahead of the game's scheduled November release.\n\nThe approximately 90-second trailer follows Jason Duval and Lucia Caminos as an apparently straightforward robbery pulls them into a dangerous criminal conspiracy across Leonida. Their survival appears increasingly dependent on trust, teamwork and their ability to handle situations that quickly spiral out of control.\n\nThe footage offers another cinematic glimpse of Vice City and the wider world surrounding it. Music from electronic duo Justice adds to the trailer's distinctive atmosphere, while the PlayStation 5 footage showcases Rockstar's presentation of its upcoming open-world adventure.\n\nAlthough the trailer delivers new story context, it does not provide an extensive gameplay showcase. Fans should distinguish between details actually shown in the footage and theories circulating across social media.\n\n🎬 Latest Launch Trailer\n👫 Jason & Lucia's Partnership\n🌴 Vice City and Leonida\n🚨 A Dangerous Criminal Conspiracy\n🎵 Justice Soundtrack\n🎮 PlayStation 5 & Xbox Series X|S\n📅 Reported: October 18, 2026\n🎯 Scheduled Release: November 19, 2026",
-    "category": "GTA 6 Trailers",
-    "published_at": "2026-10-18T11:30:00Z",
-    "is_featured": true
-  },
-  {
-    "id": 144,
-    "created_at": "2026-10-18T14:05:00+05:30",
-    "title": "💻 GTA 6 PC Release Rumors Intensify — Is Early 2027 Possible?",
-    "description": "An industry report citing four anonymous sources has suggested a possible first-quarter 2027 PC release for GTA VI, but Rockstar has not officially confirmed a PC edition or release window.",
-    "image_url": "https://github.com/akhileshgulia72-dotcom/gta6-news-server/blob/main/images/gta_image_95.png?raw=true",
-    "source": "TechRadar",
-    "article_content": "PC gamers are watching closely for news about a computer version of Grand Theft Auto VI as the game's scheduled console launch approaches.\n\nA report published by TechRadar on October 13, citing GamesBeat and four anonymous industry sources, suggested that Rockstar could be targeting the first quarter of 2027 for a PC release. If accurate, that would mean a potentially shorter wait for PC players than the gap between the original console and PC releases of GTA V.\n\nHowever, the reported window remains unconfirmed. Rockstar Games has not officially announced a PC edition or provided a release date for one, so players should not treat the rumor as a confirmed launch plan.\n\nFor now, GTA VI is scheduled to launch on PlayStation 5 and Xbox Series X|S on November 19, 2026. PC players should rely on official Rockstar announcements for confirmed platform information and avoid suspicious downloads claiming to offer early access.\n\n💻 Possible PC Version\n📅 Rumored Window: January–March 2027\n🎮 Console Launch First\n🔎 Report Cites Anonymous Industry Sources\n⚠️ PC Release Not Officially Confirmed\n🛡️ Beware of Fake Downloads\n📅 Reported: October 18, 2026\n🎯 Console Release: November 19, 2026",
-    "category": "GTA 6 Platforms",
-    "published_at": "2026-10-18T12:35:00Z",
-    "is_featured": true
-  },
-  {
-    "id": 145,
-    "created_at": "2026-10-18T14:10:00+05:30",
-    "title": "👀 Rockstar's Next GTA Could Arrive Faster — But GTA 7 Isn't Confirmed!",
-    "description": "Rockstar technical lead Phil Hooker says the technology and development tools created for GTA VI could help future projects move faster, though no next Grand Theft Auto game or release date has been announced.",
-    "image_url": "https://github.com/akhileshgulia72-dotcom/gta6-news-server/blob/main/images/gta_image_96.png?raw=true",
-    "source": "The Verge",
-    "article_content": "Could Rockstar Games reduce the long wait between major Grand Theft Auto releases? Recent comments from technical lead Phil Hooker have given fans a reason to discuss the studio's future development plans.\n\nHooker reportedly explained that the engine, tools and experienced team assembled during GTA VI's lengthy production could help Rockstar develop future games more efficiently. Building on existing technology may allow developers to spend less time recreating core systems and more time improving gameplay and creating new experiences.\n\nThe possibility is particularly interesting after the long gap between GTA V and GTA VI. However, greater development efficiency does not automatically mean the next game is already in production or that it will arrive on a particular schedule.\n\nRockstar has not announced GTA VII or confirmed a release date for another Grand Theft Auto title. For now, the studio's immediate focus remains GTA VI, which is scheduled to launch on November 19, 2026.\n\n🚀 Potentially Faster Future Development\n🛠️ Existing Engine and Development Tools\n🎮 Rockstar Games\n⏳ Lessons from GTA VI\n⚠️ GTA VII Not Announced\n📅 Reported: October 18, 2026\n🎯 GTA VI Release: November 19, 2026",
-    "category": "GTA 6 Development",
-    "published_at": "2026-10-18T13:40:00Z",
     "is_featured": true
   }
  
