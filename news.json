@@ -1,4 +1,40 @@
 [
+             {
+    "id": 179,
+    "created_at": "2026-10-31T01:00:00+05:30",
+    "title": "🎵 GTA 6 JUST DROPPED A 30-TRACK MUSICAL BOMBSHELL!",
+    "description": "Rockstar Games has announced Grand Theft Auto VI: Original Score by Justice, arriving December 11, 2026. The 30-track album includes the new electronic single Pusher featuring Gesaffelstein. Discover how the game's original music is being designed to adapt to Jason and Lucia's journey across Vice City and Leonida.",
+    "image_url": "https://github.com/akhileshgulia72-dotcom/gta6-news-server/blob/main/images/Neon%20Vice%20City%20Music%20Drop%20(1).png?raw=true",
+    "source": "Rockstar Games",
+    "article_content": "Grand Theft Auto VI is turning up the volume ahead of launch, and Rockstar Games has revealed another major part of its musical experience.\n\nOn October 29, Rockstar announced Grand Theft Auto VI: Original Score by Justice, a 30-track album scheduled for release on December 11, 2026. The French electronic duo Justice composed the original score, bringing its distinctive electronic sound to the upcoming open-world adventure.\n\nThe announcement also introduced Pusher, a new track featuring Gesaffelstein. The approximately seven-minute electronic composition offers fans another preview of the music being developed for the world of Vice City and Leonida.\n\nRockstar describes the score as adaptive music designed to respond to different ways players experience the game. This approach aims to make the musical atmosphere complement the situations unfolding throughout Jason and Lucia's story.\n\nThe original score is separate from Grand Theft Auto VI: The Album, which is scheduled to launch on November 19 alongside the game. Players should not assume that every score track will appear on an in-game radio station.\n\n🎵 Original Score: Composed by Justice\n🎧 New Single: Pusher feat. Gesaffelstein\n💿 Original Score Album: December 11, 2026\n🎼 Main Album: 30 Tracks\n🌴 Setting: Vice City and Leonida\n🎮 Game Release: November 19, 2026\n\nSource: Rockstar Games",
+    "category": "GTA 6 Music",
+    "published_at": "2026-10-30T18:00:00Z",
+    "is_featured": true
+  },
+  {
+    "id": 180,
+    "created_at": "2026-10-31T01:05:00+05:30",
+    "title": "🚨 GTA 6'S LATEST PREVIEW REVEALS 12 NEW SCREENSHOTS!",
+    "description": "Edge magazine's new GTA VI cover feature brings fresh screenshots, developer interviews, and additional details from Rockstar North. The 16-page report explores Jason and Lucia, the world of Leonida, and systems that could make the open world feel more dynamic. Here is what the latest preview reveals ahead of launch.",
+    "image_url": "https://github.com/akhileshgulia72-dotcom/gta6-news-server/blob/main/images/GTA%20VI_%2012%20New%20Screenshots%20Revealed%20(1).png?raw=true",
+    "source": "GamesRadar+ and Edge Magazine",
+    "article_content": "Grand Theft Auto VI fans have fresh material to examine following the release of Edge magazine's extensive cover feature on October 29.\n\nThe 16-page feature follows a visit to Rockstar North's headquarters in Edinburgh. It includes developer interviews and new screenshots offering another look at Jason Duval, Lucia Caminos, and the world being created for the upcoming open-world adventure.\n\nThe preview explores Rockstar's approach to building a detailed environment and developing the experiences players will encounter throughout Leonida. Coverage of the feature has also drawn attention to character relationships and the systems governing interactions across the game world.\n\nOne of the biggest reasons this preview matters is that it provides additional reporting based on access to the development team rather than relying entirely on online speculation. The screenshots also give fans more visual details to compare with previously released trailers.\n\nHowever, individual preview observations should not automatically be treated as confirmation of every rumored feature. Players should distinguish reported details from mechanics that Rockstar has explicitly demonstrated or confirmed.\n\nThe game is currently scheduled to launch on November 19, 2026, for PlayStation 5 and Xbox Series X|S.\n\n📰 Publication: Edge Magazine\n📖 Feature: 16-Page Cover Story\n📸 New Screenshots and Developer Interviews\n👫 Characters: Jason Duval and Lucia Caminos\n🌴 Setting: Leonida and Vice City\n🎮 Platforms: PlayStation 5 and Xbox Series X|S\n📅 Scheduled Release: November 19, 2026\n\nSource: GamesRadar+ and Edge Magazine",
+    "category": "GTA 6 Gameplay",
+    "published_at": "2026-10-30T19:00:00Z",
+    "is_featured": true
+  },
+  {
+    "id": 181,
+    "created_at": "2026-10-31T01:10:00+05:30",
+    "title": "🧠 GTA 6 COULD CHANGE HOW POLICE HUNT YOU DOWN!",
+    "description": "The latest reporting on Edge magazine's GTA VI preview highlights more sophisticated criminal investigations and character interactions. Reported details suggest police may use clues and observations when pursuing suspects, potentially making escapes more involved. The full range of these systems still needs to be confirmed through official gameplay.",
+    "image_url": "https://github.com/akhileshgulia72-dotcom/gta6-news-server/blob/main/images/Vice%20City%20Police%20Hunt%20in%20GTA%20VI%20(1).png?raw=true",
+    "source": "GTA BOOM and Edge Magazine",
+    "article_content": "Getting away from the police could become a more involved experience in Grand Theft Auto VI, according to recent reporting about the game's latest preview coverage.\n\nDetails discussed in coverage of Edge magazine's visit to Rockstar North point toward a more developed approach to criminal investigations. Reported systems include police using clues and observations to help identify suspects following criminal activity.\n\nIf implemented as described, these systems could make escaping more dependent on what happens during a crime rather than simply driving away until the wanted level disappears. Players may need to think more carefully about their actions and how they respond when law enforcement begins investigating.\n\nThe preview coverage also discusses a Criminal Profile system associated with the player's criminal behavior. Such a system could provide another layer to the way criminal activity is represented in the game world.\n\nThese reported details are particularly interesting because they suggest that police encounters could involve more than immediate pursuit. However, the precise mechanics, limitations, and behavior of law enforcement have not all been independently demonstrated in publicly available gameplay.\n\nGTA VI is scheduled to launch on November 19, 2026, for PlayStation 5 and Xbox Series X|S. More official gameplay information will help clarify how these systems work in practice.\n\n🚔 Focus: Police Investigations\n🔎 Reported Feature: Criminal Profile System\n🧩 Potential Mechanic: Following Clues and Identifying Suspects\n🌴 Setting: Vice City and Leonida\n⚠️ Detailed Mechanics Still Require Confirmation\n🎮 Platforms: PlayStation 5 and Xbox Series X|S\n📅 Scheduled Release: November 19, 2026\n\nSource: GTA BOOM and Edge Magazine coverage",
+    "category": "GTA 6 Gameplay",
+    "published_at": "2026-10-30T21:00:00Z",
+    "is_featured": true
+  },
             {
     "id": 176,
     "created_at": "2026-10-29T22:15:00+05:30",
@@ -321,42 +357,6 @@
     "article_content": "Grand Theft Auto VI is aiming to make its open world feel more authentic, and one important design decision involves the streets themselves.\n\nA recent TechRadar report explains that Rockstar began planning GTA VI's map as early as 2015. Developers reportedly chose narrower roads than those found in GTA V, drawing inspiration from real-world urban environments and the streets of Miami.\n\nAlthough narrower roads can help cities feel more realistic and densely populated, the change reportedly had a ripple effect on development. The team needed to account for additional buildings and adjust the surrounding environment to support the revised layout.\n\nThe report illustrates how even a seemingly small map-design decision can affect a huge open-world project. More detailed streets could make exploring Vice City feel different from Los Santos, although the final experience will depend on how the world functions during gameplay.\n\nRockstar has discussed aspects of the game's world design, but players should avoid assuming that every reported environmental detail guarantees a particular gameplay feature.\n\n🛣️ Narrower Roads Than GTA V\n🏙️ Denser Urban Environments\n🌴 Miami-Inspired City Design\n🗺️ Map Development Began in 2015\n🏗️ Additional World-Building Challenges\n🎮 A Different Approach to Open-World Design\n📅 Reported: October 20, 2026\n🎯 Scheduled Release: November 19, 2026",
     "category": "GTA 6 Gameplay",
     "published_at": "2026-10-21T18:00:00Z",
-    "is_featured": true
-  },
-     {
-    "id": 149,
-    "created_at": "2026-10-20T21:45:00+05:30",
-    "title": "🛣️ GTA 6 Roads Will Be Different From GTA 5 — Here's Why!",
-    "description": "Rockstar's art director has reportedly explained that GTA 6 will feature narrower roads than GTA 5 to create denser, more realistic urban environments. Reports also highlight weapon limits designed to make combat decisions more strategic.",
-    "image_url": "https://github.com/akhileshgulia72-dotcom/gta6-news-server/blob/main/images/gta_image_100.png?raw=true",
-    "source": "Times of India",
-    "article_content": "Grand Theft Auto VI is aiming to make its open world feel more realistic, and even the roads are getting special attention.\n\nA report published on October 20 says Rockstar's art director discussed how development of GTA VI began with the creation of its map in 2015. One notable design difference is the use of narrower roads compared with GTA V, helping create denser urban environments inspired by modern Florida.\n\nThe report also discusses changes to the weapon system. Weapon limits have influenced the design of the weapon wheel, encouraging players to make more deliberate choices instead of carrying an overwhelming selection of equipment.\n\nThese reported design decisions suggest Rockstar is focusing on how players interact with the world, rather than simply making the map bigger. However, the full gameplay systems and their final implementation should be judged using official gameplay demonstrations and the released game.\n\n🛣️ Narrower Roads Compared With GTA V\n🏙️ Denser Urban Environments\n🔫 Weapon Selection Changes\n🎮 More Strategic Combat Decisions\n🗺️ Map Development Reportedly Began in 2015\n📅 Reported: October 20, 2026\n🎯 Scheduled Release: November 19, 2026",
-    "category": "GTA 6 Gameplay",
-    "published_at": "2026-10-20T16:00:00Z",
-    "is_featured": true
-  },
-  {
-    "id": 150,
-    "created_at": "2026-10-20T21:50:00+05:30",
-    "title": "🧠 Even Rockstar's Boss Can't Know Every Detail in GTA 6!",
-    "description": "Rockstar art director Aaron Garbut reportedly explained that GTA 6 has become so detailed that no single person can keep the entire game in their head. The comments highlight the scale of the development team's work.",
-    "image_url": "https://github.com/akhileshgulia72-dotcom/gta6-news-server/blob/main/images/gta_image_101.png?raw=true",
-    "source": "GTA BOOM",
-    "article_content": "Grand Theft Auto VI is shaping up to be an enormous project, and a new report highlights just how complicated its development has become.\n\nAccording to a report published on October 20, Rockstar art director Aaron Garbut said that no single person has every detail of GTA VI in their head. The game's world contains contributions from a large development team, with individual artists adding details throughout the environment.\n\nThat approach helps explain why fans spend so much time examining trailers and screenshots for small environmental clues. A shop interior, street corner or background scene can contain details that players might overlook during their first playthrough.\n\nHowever, the size and complexity of the project do not automatically confirm every fan theory about hidden missions, secret locations or unrevealed mechanics. Those claims still require evidence from Rockstar or reliable gameplay footage.\n\n🔍 Rockstar Art Director Aaron Garbut\n🌆 Detailed Open World\n👨‍💻 Contributions From a Large Team\n🎮 Environmental Details Worth Exploring\n🕵️ Fan Theories Still Need Evidence\n📅 Reported: October 20, 2026\n🎯 Scheduled Release: November 19, 2026",
-    "category": "GTA 6 Development",
-    "published_at": "2026-10-20T16:30:00Z",
-    "is_featured": true
-  },
-  {
-    "id": 151,
-    "created_at": "2026-10-20T21:55:00+05:30",
-    "title": "🎮 GTA 6 on PS5 Pro — What Players Should Know Before Launch!",
-    "description": "Recent reporting says PlayStation lists GTA VI as PS5 Pro Enhanced and highlights features including Tempest 3D Audio and adaptive triggers. Rockstar has not publicly confirmed a specific frame rate, so performance expectations should remain cautious.",
-    "image_url": "https://github.com/akhileshgulia72-dotcom/gta6-news-server/blob/main/images/gta_image_102.png?raw=true",
-    "source": "PlayStation Listings / Recent Gaming Reports",
-    "article_content": "With Grand Theft Auto VI approaching its scheduled November launch, PlayStation players are looking closely at the features listed for the upcoming game.\n\nRecent reporting dated October 17 says the PlayStation listing identifies GTA VI as PS5 Pro Enhanced and highlights features including Tempest 3D Audio and adaptive triggers. These capabilities could contribute to a more immersive experience, particularly when exploring Vice City and experiencing the game's action sequences.\n\nHowever, a PS5 Pro Enhanced label does not establish a guaranteed resolution or frame rate. Rockstar has not publicly confirmed a specific performance target in the cited reporting, so claims about 60 FPS or other exact performance figures should not be treated as official.\n\nPlayers should watch for further technical details from Rockstar and PlayStation as launch day approaches. Until then, the listed features offer a useful indication of the console experience without answering every performance question.\n\n🎮 PlayStation 5 and PS5 Pro\n🎧 Tempest 3D Audio Listed\n🎮 Adaptive Triggers Listed\n⚙️ PS5 Pro Enhanced Listing\n📊 Exact Frame Rate Not Confirmed in the Report\n📅 Reported: October 17, 2026\n🎯 Scheduled Release: November 19, 2026",
-    "category": "GTA 6 Platforms",
-    "published_at": "2026-10-20T17:00:00Z",
     "is_featured": true
   }
  
