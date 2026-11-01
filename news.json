@@ -1,4 +1,40 @@
 [
+    {
+    "id": 185,
+    "created_at": "2026-11-02T01:00:00+05:30",
+    "title": "🎮 GTA 6 LAUNCH PREP STARTS NOW — 17 DAYS LEFT!",
+    "description": "The countdown to Grand Theft Auto VI is entering its final stretch. The game is currently scheduled to launch on November 19, 2026, for PlayStation 5 and Xbox Series X|S, with digital pre-loading expected to begin on November 12. Players should check their console storage, internet connection, and pre-order status before launch day.",
+    "image_url": "https://github.com/akhileshgulia72-dotcom/gta6-news-server/blob/main/images/Neon%20Vice%20City%20Launch%20Prep%20Poster%20(1).png?raw=true",
+    "source": "Rockstar Games",
+    "article_content": "The wait for Grand Theft Auto VI is entering its final stretch, and players have less than three weeks to prepare for their return to Vice City.\n\nRockstar Games currently lists November 19, 2026, as the scheduled release date for GTA VI on PlayStation 5 and Xbox Series X|S. The upcoming launch is expected to bring players into the fictional state of Leonida, where Jason Duval and Lucia Caminos become involved in a dangerous criminal conspiracy.\n\nDigital pre-loading is scheduled to begin on November 12, giving eligible players time to download the game before release day. Pre-loading availability and timing may depend on the platform, region, and purchase status.\n\nPlayers should use this time to check their console storage, verify their pre-order, and ensure their internet connection is ready. A reported download size of approximately 210GB has attracted attention, but Rockstar has not officially confirmed that figure.\n\nThe final days before launch are also likely to bring increased attention to trailers, soundtrack details, and other official announcements. However, fans should not assume that another gameplay reveal will arrive before release.\n\n📅 Scheduled Release: November 19, 2026\n📥 Expected Pre-Load: November 12, 2026\n🎮 Platforms: PlayStation 5 and Xbox Series X|S\n🌴 Setting: Leonida and Vice City\n💾 Reported Download Size: Approximately 210GB, Unconfirmed\n⚠️ Follow Official Announcements for Changes\n\nSource: Rockstar Games and gaming industry reporting",
+    "category": "GTA 6 Updates",
+    "published_at": "2026-11-01T19:30:00Z",
+    "is_featured": true
+  },
+  {
+    "id": 186,
+    "created_at": "2026-11-02T01:05:00+05:30",
+    "title": "🎧 GTA 6'S MUSIC JUST GOT BIGGER — JUSTICE TAKES OVER!",
+    "description": "Rockstar Games has announced Grand Theft Auto VI: Original Score by Justice, scheduled for December 11, 2026. The 30-track release includes Pusher featuring Gesaffelstein and is designed to complement the game's world dynamically. The announcement offers another look at the musical direction behind the upcoming Vice City adventure.",
+    "image_url": "https://github.com/akhileshgulia72-dotcom/gta6-news-server/blob/main/images/Neon%20Vice%20City%20Music%20Takeover%20(1).png?raw=true",
+    "source": "Rockstar Games",
+    "article_content": "The music surrounding Grand Theft Auto VI is becoming a major part of the excitement ahead of launch, with Rockstar Games revealing more details about its original score.\n\nOn October 29, Rockstar announced Grand Theft Auto VI: Original Score by Justice, a musical release scheduled for December 11, 2026. The album features 30 tracks created by the French electronic duo Justice.\n\nThe announcement also introduced Pusher, featuring Gesaffelstein, giving listeners another taste of the electronic sounds associated with the upcoming game. The music is intended to complement the atmosphere of Vice City and the wider state of Leonida.\n\nRockstar has described the original score as adaptive music designed to respond to the player's experience. This approach could help different situations feel more immersive, although the exact implementation will become clearer when the game is available.\n\nThe original score is distinct from Grand Theft Auto VI: The Album, which Rockstar has scheduled for November 19, 2026. Players should not assume that every track from the original score will appear on an in-game radio station.\n\n🎵 Original Score: Justice\n🎧 Featured Track: Pusher feat. Gesaffelstein\n💿 Score Release: December 11, 2026\n🎼 Track Count: 30\n🌴 Musical Setting: Vice City and Leonida\n📅 Game Release: November 19, 2026\n\nSource: Rockstar Games",
+    "category": "GTA 6 Music",
+    "published_at": "2026-11-01T20:00:00Z",
+    "is_featured": true
+  },
+  {
+    "id": 187,
+    "created_at": "2026-11-02T01:10:00+05:30",
+    "title": "🗺️ GTA 6'S LEONIDA COULD BE ROCKSTAR'S BIGGEST WORLD YET!",
+    "description": "A new Edge magazine feature has renewed discussion about the scale of Grand Theft Auto VI. Reporting describes Leonida as an enormous world, with its landmass reportedly comparable to the combined playable areas of GTA IV, GTA V, and Red Dead Redemption 2. The comparison remains a reported description rather than a precise measurement of playable content.",
+    "image_url": "https://github.com/akhileshgulia72-dotcom/gta6-news-server/blob/main/images/GTA%20VI%E2%80%99s%20Ultimate%20Leonida%20Map%20(1).png?raw=true",
+    "source": "Edge Magazine and GamesRadar+",
+    "article_content": "Grand Theft Auto VI could deliver one of Rockstar Games' most ambitious open worlds yet, according to reporting surrounding Edge magazine's latest cover feature.\n\nThe magazine's 16-page feature, published on October 29, includes developer interviews, new screenshots, and coverage following a visit to Rockstar North in Edinburgh. The report examines the world of Leonida and the environments players will explore as Jason and Lucia pursue their criminal plans.\n\nOne particularly striking detail concerns the reported scale of the map. According to coverage of the feature, Rockstar described Leonida's landmass as approaching the combined playable areas of Grand Theft Auto IV, Grand Theft Auto V, and Red Dead Redemption 2.\n\nHowever, this comparison should not be interpreted as an exact measurement. A large geographical area does not automatically mean that every building is accessible or every location contains extensive activities.\n\nThe real test will be how Rockstar fills Leonida with missions, characters, environmental details, and interactive experiences. The preview offers encouraging indications of the game's ambitions, but players will need to experience the finished release to judge the world for themselves.\n\n🗺️ World: Leonida and Vice City\n📰 Coverage: Edge Magazine Issue 430\n📖 Feature: 16-Page Cover Story\n🌴 Reported Scale: Comparable to Three Previous Rockstar Game Maps Combined\n👫 Protagonists: Jason Duval and Lucia Caminos\n🎮 Platforms: PlayStation 5 and Xbox Series X|S\n📅 Scheduled Release: November 19, 2026\n\nSource: Edge Magazine and GamesRadar+",
+    "category": "GTA 6 Gameplay",
+    "published_at": "2026-11-01T20:30:00Z",
+    "is_featured": true
+  },
    {
     "id": 182,
     "created_at": "2026-11-01T01:00:00+05:30",
@@ -321,42 +357,6 @@
     "article_content": "Grand Theft Auto VI's fictional brands may be attracting attention beyond the game, following reports about beer-label approvals in the United States.\n\nPC Gamer reported on October 21 that GTA-inspired beer branding had appeared in US alcohol-label records. The names discussed include Pißwasser and Patriot, familiar fictional brands associated with the Grand Theft Auto universe.\n\nThe reports have sparked speculation about whether fans could eventually see real-world products inspired by GTA VI. Rockstar has a long history of using parody brands to satirize consumer culture, making the possibility particularly interesting to longtime players.\n\nHowever, an alcohol-label record does not, by itself, confirm an official Rockstar marketing partnership, a product launch date or retail availability. Rockstar has not confirmed an associated promotional collaboration in the reporting referenced here.\n\nFor now, the development is best treated as a reported branding story rather than proof that GTA VI beer merchandise is officially launching.\n\n🍺 Pißwasser and Patriot Branding\n📄 US Alcohol-Label Records\n🎮 GTA's Famous Fictional Brands\n🔎 Potential Real-World Products\n⚠️ Official Rockstar Collaboration Not Confirmed\n📅 Reported: October 21, 2026\n🎯 Scheduled Release: November 19, 2026",
     "category": "GTA 6 Rumors",
     "published_at": "2026-10-23T18:00:00Z",
-    "is_featured": false
-  },
-       {
-    "id": 155,
-    "created_at": "2026-10-22T22:00:00+05:30",
-    "title": "🎬 GTA 6's Latest Trailer Hides a Much Darker Story Than Fans Expected!",
-    "description": "Jason and Lucia's story is shaping up to be more than a simple crime adventure. Rockstar's official launch trailer highlights their relationship and a dangerous criminal conspiracy that could put everything at risk.",
-    "image_url": "https://github.com/akhileshgulia72-dotcom/gta6-news-server/blob/main/images/gta_image_106.png?raw=true",
-    "source": "Rockstar Games",
-    "article_content": "Grand Theft Auto VI's official launch trailer, released on October 15, 2026, offers another look at Jason Duval and Lucia Caminos as they become entangled in a criminal conspiracy across Leonida. The trailer emphasizes their partnership, dangerous situations, and the consequences of getting involved with the wrong people. Rockstar has confirmed that GTA VI is scheduled to launch on November 19, 2026, for PlayStation 5 and Xbox Series X|S. Fans are still waiting for more detailed gameplay information and a deeper look at the story. This article is based on Rockstar's published trailer and release information; further story details remain unconfirmed.",
-    "category": "News",
-    "published_at": "2026-10-22T16:00:00Z",
-    "is_featured": true
-  },
-  {
-    "id": 156,
-    "created_at": "2026-10-22T22:01:00+05:30",
-    "title": "🎧 GTA 6's Radio Could Make Vice City Feel More Alive Than Ever!",
-    "description": "The music in GTA 6 is already attracting attention, but the full radio experience remains a mystery. Which songs, stations, and in-game surprises will players discover while exploring Vice City?",
-    "image_url": "https://github.com/akhileshgulia72-dotcom/gta6-news-server/blob/main/images/gta_image_107.png?raw=true",
-    "source": "Rockstar Games",
-    "article_content": "Music has always played an important role in the Grand Theft Auto series, and GTA VI is expected to continue that tradition in its modern Vice City setting. Rockstar's October 8, 2026, update highlighted music connected with the game, but the complete in-game radio lineup and every station's details have not been fully revealed. Players are eager to learn how the soundtrack will reflect the atmosphere of Leonida, from its busy streets to its nightlife. Until Rockstar publishes a complete tracklist or additional radio details, specific unreleased songs and station features should be treated as unconfirmed.",
-    "category": "Features",
-    "published_at": "2026-10-22T17:00:00Z",
-    "is_featured": false
-  },
-  {
-    "id": 157,
-    "created_at": "2026-10-22T22:02:00+05:30",
-    "title": "🍺 GTA 6's Fictional Beer Brands May Be Getting Real-World Attention!",
-    "description": "A new report has sparked interest in GTA-style beer branding appearing in U.S. records. Could this be connected to GTA 6 marketing, or is it simply a fun reference to the series?",
-    "image_url": "https://github.com/akhileshgulia72-dotcom/gta6-news-server/blob/main/images/gta_image_108.png?raw=true",
-    "source": "PC Gamer",
-    "article_content": "A recent PC Gamer report discussed GTA-inspired fictional beer branding appearing in U.S. alcohol-label records, drawing attention from fans who enjoy the series' parody products. Grand Theft Auto has a long history of using fictional brands to poke fun at real-world culture, and these names have become part of its identity. However, the appearance of a brand in public records does not by itself confirm an official GTA VI promotional campaign or an in-game feature. Rockstar has not confirmed any associated promotion in the information referenced here, so this story should be treated as a reported development rather than an official GTA VI announcement.",
-    "category": "Rumors",
-    "published_at": "2026-10-22T18:00:00Z",
     "is_featured": false
   }
  
