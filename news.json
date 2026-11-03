@@ -1,4 +1,40 @@
 [
+      {
+    "id": 191,
+    "created_at": "2026-11-04T00:10:00+05:30",
+    "title": "🚨 GTA 6 IS 212GB! ROCKSTAR CONFIRMS MASSIVE DOWNLOAD SIZE!",
+    "description": "Rockstar Games has officially confirmed that Grand Theft Auto VI will require up to 212GB of available storage for pre-loading, depending on the device. Digital pre-loading begins November 10, nine days before launch. Console players should start clearing storage now to prepare for their return to Vice City.",
+    "image_url": "https://github.com/akhileshgulia72-dotcom/gta6-news-server/blob/main/images/Neon%20Vice%20City%20Download%20Announcement%20(1).png?raw=true",
+    "source": "Rockstar Games",
+    "article_content": "Rockstar Games has finally revealed one of the most important technical details ahead of Grand Theft Auto VI's highly anticipated launch: its pre-load will require up to 212GB of available storage.\n\nThe announcement was published on November 3, confirming that players will need substantial free space on their consoles before downloading the upcoming open-world adventure.\n\nDigital pre-loading on PlayStation 5 will begin on November 10 at midnight local time. Xbox Series X|S players can start downloading globally at 12 AM GMT on the same date.\n\nRockstar has also confirmed that code-in-box physical editions will begin appearing at retailers from November 12. These editions will contain a digital download code rather than a traditional game disc.\n\nThe confirmed 212GB requirement makes storage preparation particularly important for players with limited console space. The exact requirement may vary depending on the device.\n\n💾 Confirmed Pre-Load Size: Up to 212GB\n📥 Pre-Load Date: November 10, 2026\n🎮 Platforms: PlayStation 5 and Xbox Series X|S\n📦 Physical Code-in-Box Editions: November 12\n🚀 Official Launch: November 19, 2026\n\nSource: Rockstar Games Newswire and Rockstar Support",
+    "category": "GTA 6 Updates",
+    "published_at": "2026-11-03T18:30:00Z",
+    "is_featured": true
+  },
+  {
+    "id": 192,
+    "created_at": "2026-11-04T00:12:00+05:30",
+    "title": "🗺️ ROCKSTAR IS GIVING AWAY GTA 6'S LEONIDA MAP FOR FREE!",
+    "description": "Rockstar Games has announced that an official printable Grand Theft Auto VI cover art poster and map of Leonida will become available as free digital downloads on November 19. A physical double-sided poster will also arrive shortly after launch through the Rockstar Store.",
+    "image_url": "https://github.com/akhileshgulia72-dotcom/gta6-news-server/blob/main/images/GTA%20VI%20Leonida%20Map%20Giveaway%20Poster%20(1).png?raw=true",
+    "source": "Rockstar Games",
+    "article_content": "Grand Theft Auto VI fans will soon have another way to bring the world of Vice City into their homes. Rockstar Games has announced a free digital release of official GTA VI artwork and a map of Leonida.\n\nAccording to Rockstar's November 3 announcement, players will be able to download a printable Grand Theft Auto VI cover art poster and an official map of Leonida directly from the company's website starting November 19, 2026.\n\nThe announcement also revealed plans for a physical double-sided poster featuring the game's cover art and Leonida map.\n\nFans interested in the physical version will be able to purchase it through the Rockstar Store shortly after launch. The poster will cost $0.99 individually or be included as a free gift with any Rockstar Store purchase.\n\nThis gives fans an opportunity to explore the fictional state's map outside the game and collect official artwork celebrating the launch.\n\n🗺️ Free Digital Download: Leonida Map\n🎨 Printable GTA VI Cover Art Poster\n📅 Digital Availability: November 19, 2026\n🛍️ Physical Poster: Rockstar Store\n💰 Physical Poster Price: $0.99\n🎮 Game Launch: November 19, 2026\n\nSource: Rockstar Games Newswire",
+    "category": "GTA 6 Updates",
+    "published_at": "2026-11-03T19:35:00Z",
+    "is_featured": true
+  },
+  {
+    "id": 193,
+    "created_at": "2026-11-04T00:14:00+05:30",
+    "title": "⚡ GTA 6 LAUNCH WEEK COULD MAKE GAMING HISTORY — ROCKSTAR WORKERS TO VOTE!",
+    "description": "Rockstar Games employees in the UK are preparing for a historic union recognition vote scheduled between November 12 and November 26. The voting period will overlap with GTA VI's November 19 launch. The decision could give employees a collective voice on pay, overtime, job security, flexible working and other workplace policies.",
+    "image_url": "https://github.com/akhileshgulia72-dotcom/gta6-news-server/blob/main/images/GTA%206%20Launch%20Week_%20Union%20Vote%20(1).png?raw=true",
+    "source": "GamesRadar+ and Game Developer",
+    "article_content": "While millions of players prepare for Grand Theft Auto VI, Rockstar Games is approaching another major milestone behind the scenes.\n\nRockstar employees in the United Kingdom are scheduled to vote on whether to formally recognize the IWGB Rockstar Game Workers Union. The voting period will run from November 12 through November 26, 2026.\n\nInterestingly, the vote will overlap with the highly anticipated November 19 launch of Grand Theft Auto VI.\n\nIf employees approve union recognition, the agreement could give workers a stronger collective voice in discussions involving pay, bonuses, overtime, redundancies, flexible working arrangements and generative AI policies.\n\nThe vote follows months of discussions between workers and management. It also comes amid an ongoing employment dispute involving former employees who were dismissed in 2025. Rockstar has denied allegations that those dismissals were connected to union-organizing activities.\n\nA successful vote could represent an important development for the UK gaming industry, potentially establishing one of its largest recognized video game sector unions.\n\n🏢 Company: Rockstar Games\n🗳️ Union Voting: November 12–26, 2026\n🎮 GTA VI Launch: November 19, 2026\n👥 Organization: IWGB Rockstar Game Workers Union\n📋 Focus: Pay, Bonuses, Overtime and Workplace Policies\n⚠️ Voting Outcome: Not Yet Announced\n\nSource: GamesRadar+ and Game Developer",
+    "category": "GTA 6 Business",
+    "published_at": "2026-11-03T20:00:00Z",
+    "is_featured": true
+  },
      {
     "id": 188,
     "created_at": "2026-11-03T00:30:00+05:30",
@@ -322,42 +358,6 @@
     "category": "GTA 6 Trailers",
     "published_at": "2026-10-25T19:45:00Z",
     "is_featured": true
-  },
-         {
-    "id": 161,
-    "created_at": "2026-10-24T23:00:00+05:30",
-    "title": "🌴 Miami Is Turning Into GTA 6 — Vice City Is Everywhere!",
-    "description": "GTA 6's real-world marketing campaign is spreading across Miami, with reports of Vice City branding, fictional businesses, themed advertisements and beach installations. The growing campaign is bringing Rockstar's fictional world into the city that inspired it.",
-    "image_url": "https://github.com/akhileshgulia72-dotcom/gta6-news-server/blob/main/images/gta_image_112.png?raw=true",
-    "source": "Video Games Chronicle",
-    "article_content": "Miami is increasingly resembling the world of Grand Theft Auto VI as Rockstar's promotional campaign expands ahead of the game's scheduled November launch.\n\nReports published on October 22 describe Vice City-inspired advertising, themed vehicles, branded street displays and fictional businesses appearing around the real city. The Kaseya Center has also attracted attention for Burger Shot and Cluckin' Bell branding associated with the GTA universe.\n\nThe campaign extends beyond conventional gaming advertisements, allowing residents and visitors to encounter familiar fictional brands in real-world settings. Some installations have been documented by gaming publications and social media users, so individual sightings should be distinguished from officially announced partnerships.\n\nRockstar's collaboration with the Miami Heat includes A Night in Vice City on November 18, featuring special uniforms, a themed basketball court and promotional activities.\n\n🌴 Miami and Vice City Branding\n🍔 GTA-Inspired Restaurant Displays\n🚗 Fictional Brands in Real-World Advertising\n🏀 Miami Heat Promotional Event\n📅 Reported: October 22, 2026\n🎯 Scheduled Release: November 19, 2026",
-    "category": "GTA 6 Marketing",
-    "published_at": "2026-10-24T17:00:00Z",
-    "is_featured": true
-  },
-  {
-    "id": 162,
-    "created_at": "2026-10-24T23:05:00+05:30",
-    "title": "📺 GTA 6's TV Ad Has a PlayStation Twist — Xbox Fans Noticed!",
-    "description": "GTA 6's reported television commercial uses an edited version of the launch trailer and reportedly ends with PlayStation branding rather than an Xbox logo. The difference has sparked discussion, although the game remains scheduled for both PS5 and Xbox Series X|S.",
-    "image_url": "https://github.com/akhileshgulia72-dotcom/gta6-news-server/blob/main/images/gta_image_113.png?raw=true",
-    "source": "TalkEsport",
-    "article_content": "Grand Theft Auto VI's television advertising has attracted attention after viewers noticed differences between the reported TV commercial and the previously released launch trailer.\n\nA report published on October 22 says the commercial aired during NBA broadcasts in the United States on October 20. The shorter edit reportedly removes some shower scenes featuring Jason and Lucia and finishes with PlayStation branding.\n\nThe changes have prompted questions among fans about Rockstar's promotional strategy and the relationship between its console partners. However, a PlayStation-branded commercial does not mean that GTA VI has been cancelled or removed from Xbox.\n\nRockstar's announced console platforms remain PlayStation 5 and Xbox Series X|S, with the scheduled release date set for November 19, 2026. No official announcement in the reporting indicates a change to those plans.\n\n📺 Reported TV Commercial Debut: October 20\n✂️ Edited Launch Trailer Footage\n🎮 PlayStation Branding in the Reported TV Cut\n🟢 Xbox Series X|S Remains an Announced Platform\n📅 Report Updated: October 22, 2026\n🎯 Scheduled Release: November 19, 2026",
-    "category": "GTA 6 Trailers",
-    "published_at": "2026-10-24T17:30:00Z",
-    "is_featured": true
-  },
-  {
-    "id": 163,
-    "created_at": "2026-10-24T23:10:00+05:30",
-    "title": "🍺 GTA 6's Pißwasser Beer Could Become REAL — The Records Are In!",
-    "description": "US alcohol-label records reportedly feature GTA-inspired brands Pißwasser, Patriot and No Mames Vice City. The filings suggest possible real-world products, but Rockstar has not officially confirmed a collaboration or retail launch date.",
-    "image_url": "https://github.com/akhileshgulia72-dotcom/gta6-news-server/blob/main/images/gta_image_114.png?raw=true",
-    "source": "PC Gamer",
-    "article_content": "One of Grand Theft Auto's most recognizable fictional product brands may be moving beyond the game, according to reports about US alcohol-label records.\n\nPC Gamer reported on October 21 that records from the Alcohol and Tobacco Tax and Trade Bureau included labels for Pißwasser, Patriot and No Mames Vice City. The names are associated with GTA-style parody branding and have sparked speculation about a possible real-world promotional release.\n\nThe reported labels have fueled interest because GTA VI's marketing campaign is increasingly visible outside the gaming world. However, regulatory label records alone do not establish when products will reach stores, where they will be available or whether Rockstar has formally announced a commercial partnership.\n\nFor now, fans should treat the development as a reported real-world branding story rather than confirmation of an official launch. Any availability details will need further verification.\n\n🍺 Pißwasser and Patriot Branding\n📄 US Alcohol-Label Records\n🌴 No Mames Vice City\n🔎 Possible Real-World Products\n⚠️ Official Rockstar Collaboration Not Confirmed\n📅 Reported: October 21, 2026\n🎯 Scheduled GTA VI Release: November 19, 2026",
-    "category": "GTA 6 Rumors",
-    "published_at": "2026-10-24T18:00:00Z",
-    "is_featured": false
   }
  
 ]
