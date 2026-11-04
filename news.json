@@ -1,4 +1,40 @@
 [
+       {
+    "id": 194,
+    "created_at": "2026-11-04T22:15:00+05:30",
+    "title": "🚨 GTA 6 PRE-LOAD JUST GOT BIGGER — 212GB CONFIRMED!",
+    "description": "Rockstar Games has confirmed that Grand Theft Auto VI pre-loading will begin on November 10, two days earlier than previously announced. The download may require up to 212GB of storage, depending on the device. Physical code-in-box editions are expected at retailers from November 12.",
+    "image_url": "https://github.com/akhileshgulia72-dotcom/gta6-news-server/blob/main/images/GTA%20VI%20Pre-Load%20Confirmed%20in%20Vice%20City%20(1).png?raw=true",
+    "source": "Rockstar Games Newswire and The Verge",
+    "article_content": "Rockstar Games has delivered an important update for players preparing for Grand Theft Auto VI. The company has moved the digital pre-load date forward to November 10, giving players additional time to download the highly anticipated game before launch.\n\nAccording to Rockstar's latest announcement, PlayStation 5 players can begin pre-loading at midnight local time on November 10. Xbox Series X|S players can start at 12 AM GMT on the same date.\n\nThe reported storage requirement is another major talking point. GTA VI may require up to 212GB of available storage, although the exact requirement can vary depending on the device.\n\nPhysical editions will also work differently from traditional boxed releases. Code-in-box editions are expected to reach retailers from November 12, meaning players will receive a digital download code rather than a conventional game disc.\n\nWith launch approaching, players should check their console storage and prepare their internet connections in advance.\n\n💾 Storage Requirement: Up to 212GB\n📥 Digital Pre-Load: November 10, 2026\n🎮 Platforms: PS5 and Xbox Series X|S\n📦 Physical Editions: November 12\n🚀 Official Launch: November 19, 2026\n\nSource: Rockstar Games Newswire and The Verge",
+    "category": "GTA 6 Updates",
+    "published_at": "2026-11-04T16:00:00Z",
+    "is_featured": true
+  },
+  {
+    "id": 195,
+    "created_at": "2026-11-04T22:16:00+05:30",
+    "title": "💰 GTA 6 COULD GENERATE BILLIONS — ANALYSTS PREDICT HUGE LAUNCH!",
+    "description": "A new Reuters Breakingviews report highlights extraordinary commercial expectations for Grand Theft Auto VI. Newzoo estimates that the game could generate between $3.3 billion and $5.2 billion in cumulative sales by the end of launch week. Take-Two's CEO has also described pre-orders as unprecedented.",
+    "image_url": "https://github.com/akhileshgulia72-dotcom/gta6-news-server/blob/main/images/GTA%20VI%20Billion-Dollar%20Beachfront%20Launch%20(1).png?raw=true",
+    "source": "Reuters Breakingviews",
+    "article_content": "Grand Theft Auto VI is attracting enormous financial expectations ahead of its scheduled November 19 release, with new industry estimates suggesting that its launch could become one of the biggest events in entertainment history.\n\nA November 4 Reuters Breakingviews report cites Newzoo estimates suggesting GTA VI could generate between $3.3 billion and $5.2 billion in cumulative sales by the end of its launch week.\n\nThe report also highlights comments from Take-Two Interactive's CEO describing the game's pre-orders as unprecedented.\n\nAnother important detail is the game's reported $80 standard edition price, reflecting the increasing commercial expectations surrounding major blockbuster releases.\n\nHowever, these figures are forecasts rather than confirmed future earnings. Actual results will depend on launch demand, regional pricing, customer purchases and the game's performance after release.\n\nThe longer-term opportunity could be even more significant. Analysts see potential for recurring revenue through a future online experience, following the successful monetization model of GTA Online.\n\n💰 Estimated Launch-Week Cumulative Sales: $3.3B–$5.2B\n📊 Research Firm: Newzoo\n🏢 Publisher: Take-Two Interactive\n🎮 Standard Edition Price: $80\n📅 Scheduled Release: November 19, 2026\n⚠️ Revenue Figures: Industry Estimates, Not Confirmed Sales\n\nSource: Reuters Breakingviews, November 4, 2026",
+    "category": "GTA 6 Business",
+    "published_at": "2026-11-04T17:00:00Z",
+    "is_featured": true
+  },
+  {
+    "id": 196,
+    "created_at": "2026-11-04T22:17:00+05:30",
+    "title": "🌴 REAL-LIFE VICE CITY IS EXPANDING — GTA 6 TAKES OVER MIAMI!",
+    "description": "Grand Theft Auto VI's promotional campaign is expanding across Miami, with official and reported partnerships bringing fictional Vice City brands into real-world locations. Miami-Dade County has announced a marketing package worth approximately $3.9 million, including planned promotional installations at major locations.",
+    "image_url": "https://github.com/akhileshgulia72-dotcom/gta6-news-server/blob/main/images/Vice%20City%20Takes%20Over%20Miami%20(1).png?raw=true",
+    "source": "Vice Atlas and Miami-Dade County reporting",
+    "article_content": "Rockstar Games' promotional campaign for Grand Theft Auto VI is transforming parts of Miami into a real-world celebration of Vice City.\n\nThe campaign has already brought fictional GTA brands into real locations, including Burger Shot and Cluckin' Bell food stands at the Kaseya Center, home of the Miami Heat.\n\nA particularly significant development came on October 28, when Miami-Dade County announced a promotional agreement package worth approximately $3.9 million connected to GTA VI marketing.\n\nThe reported plans include themed promotional displays at Miami International Airport, PortMiami and selected traffic-signal cabinets. These activities are designed to connect the fictional world of Leonida with the real locations that inspired Vice City.\n\nThe Miami Heat is also preparing a special A Night in Vice City event on November 18, one day before the game's scheduled release.\n\nThis campaign demonstrates how Rockstar is using real-world experiences, partnerships and advertising to build anticipation beyond traditional gaming trailers.\n\n🌴 Location: Miami, Florida\n🍔 Featured Brands: Burger Shot and Cluckin' Bell\n🏢 Reported Marketing Package: Approximately $3.9 Million\n🏀 Miami Heat Event: November 18, 2026\n🎮 GTA VI Launch: November 19, 2026\n📢 Campaign: Real-World Vice City Promotions\n\nSource: Miami-Dade County reporting and Vice Atlas",
+    "category": "GTA 6 Marketing",
+    "published_at": "2026-11-04T19:00:00Z",
+    "is_featured": true
+  },
       {
     "id": 191,
     "created_at": "2026-11-04T00:10:00+05:30",
@@ -321,42 +357,6 @@
     "article_content": "The countdown to Grand Theft Auto VI is entering its final weeks, with players preparing for the return to Vice City and the wider state of Leonida.\n\nRockstar Games currently lists November 19, 2026, as the release date for GTA VI on PlayStation 5 and Xbox Series X|S. The company has released a new launch trailer, providing another look at Jason Duval and Lucia Caminos as their criminal plans lead them into a dangerous conspiracy.\n\nPlayers who have already pre-ordered the digital edition can look forward to the listed pre-loading window beginning November 12, one week before launch. Pre-loading allows players to download game files ahead of release, subject to platform and regional availability.\n\nThe final weeks before launch are also a good time for players to review console storage, check their account details, and verify purchase information through their platform's official store. Fans should avoid unofficial websites promising early access, free full-game downloads, or unauthorized copies.\n\nAlthough excitement continues to grow, players should rely on official Rockstar announcements for any changes to release plans. The announced launch platforms remain PlayStation 5 and Xbox Series X|S, while an official PC release date has not been announced in the information cited here.\n\n⏳ GTA VI Launch Countdown\n📅 Release Date: November 19, 2026\n🎮 PlayStation 5 and Xbox Series X|S\n📥 Listed Pre-Load Date: November 12, 2026\n👫 Jason and Lucia Return\n🛡️ Avoid Fake Downloads and Early-Access Scams\n📢 Follow Official Rockstar Updates",
     "category": "GTA 6 Updates",
     "published_at": "2026-10-26T18:30:00Z",
-    "is_featured": true
-  },
-         {
-    "id": 164,
-    "created_at": "2026-10-25T23:05:00+05:30",
-    "title": "🏨 GTA 6 Is Turning a REAL Miami Hotel Into the Y Hotel!",
-    "description": "Rockstar's reported GTA VI marketing campaign is bringing Vice City to Miami's waterfront. Reports say the W South Beach hotel will be transformed into the fictional Y Hotel under a reported $650,000 promotional deal, with the campaign running through December 2026.",
-    "image_url": "https://github.com/akhileshgulia72-dotcom/gta6-news-server/blob/main/images/gta_image_115.png?raw=true",
-    "source": "Beebom",
-    "article_content": "Grand Theft Auto VI's marketing campaign is reaching beyond gaming advertisements, with a reported plan to transform a real Miami hotel into one of the fictional locations associated with Vice City.\n\nA report published on October 23 describes a $650,000 promotional agreement involving the W South Beach hotel and a transformation into GTA VI's fictional Y Hotel. The reported campaign includes a large hotel banner and a redesigned emblem inspired by the game's branding.\n\nThe promotion is part of a broader campaign bringing fictional businesses, advertisements and locations from the Grand Theft Auto universe into the real world. Miami, which inspired Vice City, has become a major setting for these promotional activities as the game's scheduled launch approaches.\n\nAccording to the reporting, the hotel campaign is expected to run from October 15 through December 31, 2026. Additional installations around Miami Beach are also planned, although individual project schedules and completed installations should be distinguished.\n\nThe development highlights how Rockstar is using real-world locations to build anticipation for its next blockbuster. However, these promotional activities do not reveal new gameplay mechanics or confirm that the real hotel will appear in the final game exactly as advertised.\n\n🏨 Real Miami Hotel Transformation\n🌴 Fictional Y Hotel Branding\n💰 Reported Promotional Deal: $650,000\n📍 W South Beach, Miami\n📅 Reported: October 23, 2026\n🎯 Scheduled GTA VI Release: November 19, 2026",
-    "category": "GTA 6 Marketing",
-    "published_at": "2026-10-25T17:35:00Z",
-    "is_featured": true
-  },
-  {
-    "id": 165,
-    "created_at": "2026-10-25T23:10:00+05:30",
-    "title": "🌴 Vice City Is Escaping the Game — Miami's GTA 6 Takeover Grows!",
-    "description": "GTA VI's real-world marketing campaign continues to expand across Miami, with reports of fictional restaurant brands, Vice City vehicles, beach promotions and themed advertising. The growing campaign is turning the city that inspired Vice City into a real-life showcase for the upcoming game.",
-    "image_url": "https://github.com/akhileshgulia72-dotcom/gta6-news-server/blob/main/images/gta_image_116.png?raw=true",
-    "source": "Video Games Chronicle",
-    "article_content": "Miami is becoming a major part of Grand Theft Auto VI's promotional campaign as Rockstar brings elements of its fictional world into real-life locations.\n\nA report published on October 22 describes an expanding campaign featuring fictional restaurant chains, branded vehicles, outdoor advertisements and Vice City-themed displays. Visitors to the Kaseya Center have reportedly encountered Burger Shot and Cluckin' Bell branding, while other promotional installations have appeared around the city.\n\nThe campaign also includes a planned Miami Heat event called A Night in Vice City on November 18, the day before GTA VI's scheduled console launch. The event is expected to feature special uniforms, a themed basketball court and promotional merchandise.\n\nOther reported sightings include Vice City-branded beach furniture, buses, murals and fictional advertisements inspired by businesses from the Grand Theft Auto universe. These activities demonstrate how the game's marketing is extending beyond conventional trailers and online advertisements.\n\nHowever, individual installations may have different organizers and schedules, and not every fan-reported sighting necessarily represents an officially announced partnership. Promotional material should also not be confused with confirmation of new in-game locations or features.\n\n🌴 Vice City-Inspired Miami Campaign\n🍔 Burger Shot and Cluckin' Bell Displays\n🚗 Fictional Brands in Real-World Locations\n🏀 A Night in Vice City: November 18\n📅 Reported: October 22, 2026\n🎯 Scheduled GTA VI Release: November 19, 2026",
-    "category": "GTA 6 Marketing",
-    "published_at": "2026-10-25T18:40:00Z",
-    "is_featured": true
-  },
-  {
-    "id": 166,
-    "created_at": "2026-10-25T23:15:00+05:30",
-    "title": "🎬 GTA 6's TV Commercial Has a PlayStation Twist — Xbox Fans React!",
-    "description": "Reports about GTA VI's television advertising have drawn attention to an edited launch-trailer cut that reportedly ends with PlayStation branding. The difference has sparked discussion online, but Rockstar continues to list both PlayStation 5 and Xbox Series X|S as launch platforms.",
-    "image_url": "https://github.com/akhileshgulia72-dotcom/gta6-news-server/blob/main/images/gta_image_117.png?raw=true",
-    "source": "TalkEsport",
-    "article_content": "Grand Theft Auto VI's television advertising has become another talking point among fans as Rockstar increases promotion ahead of the game's scheduled November release.\n\nReports published on October 22 discussed a television commercial that reportedly aired during NBA broadcasts in the United States on October 20. The advertisement uses an edited version of the launch trailer, with some footage removed and PlayStation branding appearing at the end.\n\nThe reported edit has prompted questions about Rockstar's marketing arrangements with console manufacturers. Some fans have interpreted the absence of an Xbox logo as a sign of PlayStation's promotional role, while others have questioned whether the commercial reveals anything meaningful about platform availability.\n\nHowever, the branding in a particular advertisement does not establish platform exclusivity. Rockstar's official GTA VI website continues to list PlayStation 5 and Xbox Series X|S, with the release scheduled for November 19, 2026.\n\nThe commercial also should not be mistaken for a separate gameplay reveal. Although edited footage can contain differences from previously released trailers, the reported advertisement does not independently confirm new missions, mechanics or story details.\n\n📺 Reported TV Commercial: October 20\n🎬 Edited Launch-Trailer Footage\n🎮 PlayStation Branding in the Reported Advertisement\n🟢 Xbox Series X|S Remains an Announced Platform\n📅 Report Updated: October 22, 2026\n🎯 Scheduled Release: November 19, 2026",
-    "category": "GTA 6 Trailers",
-    "published_at": "2026-10-25T19:45:00Z",
     "is_featured": true
   }
  
