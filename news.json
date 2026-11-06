@@ -1,4 +1,40 @@
 [
+         {
+    "id": 200,
+    "created_at": "2026-11-06T22:45:00+05:30",
+    "title": "📸 ROCKSTAR JUST DROPPED 39 NEW GTA 6 SCREENSHOTS — VICE CITY LOOKS INSANE!",
+    "description": "Rockstar Games has released a brand-new Grand Theft Auto VI Launch Gallery featuring 39 official screenshots. Published on November 5, the collection showcases Vice City and beyond, giving fans another look at Jason, Lucia, wildlife, police encounters, nightlife and the game's detailed environments just two weeks before launch.",
+    "image_url": "https://github.com/akhileshgulia72-dotcom/gta6-news-server/blob/main/images/Vice%20City%20Screenshot%20Showcase%20(1).png?raw=true",
+    "source": "Rockstar Games and PC Gamer",
+    "article_content": "Rockstar Games has surprised Grand Theft Auto VI fans with a massive collection of new official screenshots just two weeks before the game's scheduled release.\n\nOn November 5, Rockstar published its official GTA VI Launch Gallery, giving players a fresh look at Vice City and the surrounding regions of Leonida.\n\nThe collection features 39 screenshots showcasing different aspects of the upcoming open-world adventure. Fans can spot Jason and Lucia, nighttime environments, police encounters, wildlife, underwater scenes and various criminal activities.\n\nSome images also highlight the game's environmental detail, character appearances and cinematic presentation. The collection provides additional material for fans to examine while waiting for launch day.\n\nImportantly, these are official screenshots rather than leaked images or fan-made artwork. However, individual screenshots should not be interpreted as confirmation of every possible gameplay mechanic.\n\nWith the November 19 release approaching, Rockstar is giving players another official look at the world they will soon explore.\n\n📸 New Screenshots: 39\n📅 Gallery Released: November 5, 2026\n🌴 Locations: Vice City and Leonida\n👫 Characters: Jason Duval and Lucia Caminos\n🎮 Platforms: PS5 and Xbox Series X|S\n🚀 Scheduled Launch: November 19, 2026\n\nSource: Rockstar Games Newswire and PC Gamer, November 5, 2026",
+    "category": "GTA 6 Gameplay",
+    "published_at": "2026-11-06T18:00:00Z",
+    "is_featured": true
+  },
+  {
+    "id": 201,
+    "created_at": "2026-11-06T22:45:00+05:30",
+    "title": "🏴‍☠️ GTA 6 PIRACY? TAKE-TWO CEO HAS A WARNING FOR PIRATES!",
+    "description": "Take-Two CEO Strauss Zelnick has addressed the possibility of Grand Theft Auto VI being pirated, describing piracy as a fact of life in the entertainment industry. He says the company is prepared to use legal action and technical protections if piracy becomes a serious problem.",
+    "image_url": "https://github.com/akhileshgulia72-dotcom/gta6-news-server/blob/main/images/GTA%206%20Piracy%20Warning_%20CEO%20Speaks%20(1).png?raw=true",
+    "source": "GamesRadar+ and Wall Street Journal Tech",
+    "article_content": "Grand Theft Auto VI could become one of the biggest targets for game piracy, but Take-Two Interactive CEO Strauss Zelnick says the company understands the challenge.\n\nDuring a recent interview with Wall Street Journal Tech, Zelnick described piracy as a fact of life across entertainment industries.\n\nHe explained that piracy has historically affected movies, music and video games, although its scale has changed over time.\n\nHowever, the Take-Two CEO made it clear that the company would not simply ignore the problem. If piracy becomes a significant issue for GTA VI, the publisher is prepared to respond using both legal action and technical protections.\n\nThe enormous expected demand for GTA VI makes piracy an important concern for Rockstar and its parent company. Large game downloads, hardware requirements and technical protections could also influence unauthorized distribution.\n\nZelnick did not announce a specific anti-piracy system or confirm exactly how Rockstar plans to protect the game.\n\n🏢 Company: Take-Two Interactive\n👤 CEO: Strauss Zelnick\n🏴‍☠️ Topic: GTA VI Piracy Protection\n⚖️ Possible Response: Legal Action\n🔒 Additional Measures: Technical Protections\n🎮 Game: Grand Theft Auto VI\n📅 Scheduled Launch: November 19, 2026\n\nSource: GamesRadar+ and Wall Street Journal Tech, November 5, 2026",
+    "category": "GTA 6 Business",
+    "published_at": "2026-11-06T19:00:00Z",
+    "is_featured": true
+  },
+  {
+    "id": 202,
+    "created_at": "2026-11-06T22:45:00+05:30",
+    "title": "🚨 WHY GTA 6 WAS DELAYED — TAKE-TWO CEO DOESN'T WANT ANOTHER CYBERPUNK DISASTER!",
+    "description": "Take-Two CEO Strauss Zelnick has explained why delaying a major game can be better than releasing it before it is ready. In a recent interview, he pointed toward the risks of launching an unfinished game, with GamesRadar+ interpreting his comments as an indirect reference to Cyberpunk 2077's troubled launch.",
+    "image_url": "https://github.com/akhileshgulia72-dotcom/gta6-news-server/blob/main/images/GTA%206%20Delayed_%20Avoiding%20Another%20Cyberpunk%20Disaster%20(1).png?raw=true",
+    "source": "GamesRadar+ and Wall Street Journal Tech",
+    "article_content": "Why did Rockstar Games delay Grand Theft Auto VI instead of rushing it to market? Take-Two Interactive CEO Strauss Zelnick has offered another explanation behind the company's approach to release quality.\n\nIn a recent interview with the Wall Street Journal, Zelnick discussed the difficult decisions involved in delaying major entertainment projects.\n\nHe explained that companies sometimes need to make expensive and inconvenient decisions to protect their creative ambitions and deliver the best possible experience.\n\nZelnick also discussed the risks of releasing a game simply to meet a schedule. Without directly naming Cyberpunk 2077, he referenced a high-profile game that was released before it was ready and subsequently had to be withdrawn from sale.\n\nGamesRadar+ interpreted this as an indirect reference to Cyberpunk 2077, which experienced a famously troubled launch in 2020.\n\nThe comments suggest that Take-Two considers launch quality more important than meeting an earlier release target at any cost.\n\nFor GTA VI fans, the key question is whether the additional development time will deliver the polished experience Rockstar is promising.\n\n🏢 Company: Take-Two Interactive\n👤 CEO: Strauss Zelnick\n🎮 Game: Grand Theft Auto VI\n📰 Interview: Wall Street Journal Tech\n⚠️ Main Topic: Release Quality and Development Delays\n🎯 Industry Comparison: Cyberpunk 2077 Launch\n📅 Scheduled GTA VI Release: November 19, 2026\n\nSource: GamesRadar+ and Wall Street Journal Tech, November 5, 2026",
+    "category": "GTA 6 Development",
+    "published_at": "2026-11-06T20:00:00Z",
+    "is_featured": true
+  },
         {
     "id": 197,
     "created_at": "2026-11-05T22:30:00+05:30",
@@ -321,42 +357,6 @@
     "article_content": "Rockstar Games is continuing its promotional push for Grand Theft Auto VI with a shorter version of the launch trailer reportedly appearing in advertisements on X.\n\nA report published by iGrandTheftAuto on October 27 says the new advertisements run for approximately one minute and use an edited version of the launch trailer. The footage reportedly resembles the shortened television advertisement that recently attracted attention from fans.\n\nSome scenes have been removed from the shorter cut, including portions of footage featuring Jason and Lucia. These differences have encouraged players to compare the advertisement with the full trailer in search of details they might have missed.\n\nHowever, a shorter promotional edit should not be mistaken for a new gameplay reveal. Removing scenes to fit an advertising format does not establish that Rockstar has changed the storyline or confirmed additional mechanics.\n\nThe advertising activity comes as anticipation builds toward the scheduled November 19, 2026 release on PlayStation 5 and Xbox Series X|S. With launch approaching, further promotional material may attract close attention from the gaming community.\n\n🎬 Shortened Launch Trailer Advertisement\n⏱️ Approximately 1 Minute\n📱 Reportedly Running on X\n✂️ Edited Footage From the Full Trailer\n🔍 Fans Comparing Different Versions\n⚠️ No New Gameplay Features Confirmed by the Advertisement\n📅 Report Published: October 27, 2026\n🎯 Scheduled Release: November 19, 2026\n\nSource: iGrandTheftAuto",
     "category": "GTA 6 Trailers",
     "published_at": "2026-10-28T22:55:00Z",
-    "is_featured": true
-  },
-           {
-    "id": 170,
-    "created_at": "2026-10-27T23:05:00+05:30",
-    "title": "💰 GTA 6 Pre-Orders Could Be Worth $630 Million — A Record-Breaking Launch Ahead?",
-    "description": "A report published by NDTV on October 21 estimates that GTA VI may have generated approximately $630 million in pre-order revenue, with more than 6 million copies reportedly sold across PlayStation 5 and Xbox Series X|S. These figures are estimates rather than officially confirmed sales numbers from Rockstar Games.",
-    "image_url": "https://github.com/akhileshgulia72-dotcom/gta6-news-server/blob/main/images/gta_image_121.png?raw=true",
-    "source": "NDTV",
-    "article_content": "Grand Theft Auto VI is generating enormous commercial expectations before its scheduled release, with new estimates suggesting that pre-orders alone could already represent hundreds of millions of dollars in revenue.\n\nA report published by NDTV on October 21, 2026, estimated that GTA VI had generated approximately $630 million through pre-orders. The report also cited estimates of more than 6 million copies sold across PlayStation 5 and Xbox Series X|S.\n\nIf these estimates prove accurate, they would demonstrate the extraordinary demand surrounding Rockstar Games' upcoming open-world title. The franchise has attracted a massive international audience, and the return to Vice City has become one of the most anticipated events in gaming.\n\nHowever, these figures should be interpreted carefully. They are estimates reported by a third party, not an official sales announcement from Rockstar Games. Actual sales, revenue, refunds and regional purchasing patterns may differ from the reported projections.\n\nThe game's scheduled November 19, 2026 launch will provide a clearer picture of its commercial performance. Until Rockstar publishes verified figures, claims about total pre-orders and revenue should remain attributed to the reporting source.\n\n💰 Estimated Pre-Order Revenue: $630 Million\n📦 Reported Estimated Sales: More Than 6 Million Copies\n🎮 Platforms: PlayStation 5 and Xbox Series X|S\n📊 Figures: Third-Party Estimates\n⚠️ Rockstar Has Not Officially Confirmed These Totals\n📅 Report Published: October 21, 2026\n🎯 Scheduled Release: November 19, 2026",
-    "category": "GTA 6 Business",
-    "published_at": "2026-10-27T17:35:00Z",
-    "is_featured": true
-  },
-  {
-    "id": 171,
-    "created_at": "2026-10-27T23:10:00+05:30",
-    "title": "❤️ GTA 6's Launch Trailer Has Fans Worried About Jason and Lucia's Future!",
-    "description": "GTA VI's latest launch trailer has sparked fresh discussion about Jason and Lucia's relationship, with viewers interpreting its cinematic presentation as a sign that their partnership could face serious challenges. Rockstar has revealed a dangerous criminal conspiracy but has not confirmed the story's ultimate outcome.",
-    "image_url": "https://github.com/akhileshgulia72-dotcom/gta6-news-server/blob/main/images/gta_image_122.png?raw=true",
-    "source": "NDTV",
-    "article_content": "Grand Theft Auto VI's latest launch trailer has given fans another reason to examine the relationship between Jason Duval and Lucia Caminos before the game's scheduled release.\n\nA report published by NDTV on October 16 highlighted how the trailer presents the protagonists' partnership through cinematic scenes, emotional moments and glimpses of the criminal world surrounding them. Rather than focusing exclusively on action, the footage places considerable attention on the connection between the two central characters.\n\nThe trailer's story description indicates that an apparently straightforward robbery draws Jason and Lucia into a dangerous criminal conspiracy across Leonida. Their ability to trust one another could become important as their plans lead them into increasingly risky situations.\n\nSome viewers have interpreted the trailer's tone as a suggestion that the relationship may face serious tests. However, these interpretations are fan speculation, not confirmation of a particular ending, betrayal or character death.\n\nRockstar Games has not revealed the complete storyline or the final outcome of Jason and Lucia's journey. Players will need to experience the game to discover how their partnership develops.\n\n❤️ Jason Duval and Lucia Caminos\n🎬 Latest Launch Trailer\n🌴 Vice City and the State of Leonida\n🚨 A Dangerous Criminal Conspiracy\n🔍 Fan Theories About Their Relationship\n⚠️ Story Outcomes Remain Unconfirmed\n📅 Report Published: October 16, 2026\n🎯 Scheduled Release: November 19, 2026",
-    "category": "GTA 6 Story",
-    "published_at": "2026-10-27T18:40:00Z",
-    "is_featured": true
-  },
-  {
-    "id": 172,
-    "created_at": "2026-10-27T23:15:00+05:30",
-    "title": "🎮 GTA 6's Biggest Mystery Remains Unanswered — Where Is the PC Version?",
-    "description": "With GTA VI scheduled to launch on PlayStation 5 and Xbox Series X|S on November 19, PC players are still waiting for an official release announcement. Earlier industry reports have suggested a possible 2027 launch window, but Rockstar Games has not confirmed a PC version or its release date.",
-    "image_url": "https://github.com/akhileshgulia72-dotcom/gta6-news-server/blob/main/images/gta_image_123.png?raw=true",
-    "source": "TechRadar",
-    "article_content": "As the scheduled console launch of Grand Theft Auto VI approaches, one major question remains unanswered for PC players: when will the game arrive on their platform?\n\nEarlier reporting from TechRadar discussed the possibility of a PC release during the first quarter of 2027, citing GamesBeat and anonymous industry sources. Such a release window would give PC players a possible timeframe to watch, but it remains unconfirmed.\n\nRockstar Games has officially announced Grand Theft Auto VI for PlayStation 5 and Xbox Series X|S, with the scheduled console release set for November 19, 2026. The company has not announced an official PC release date in the information cited here.\n\nThe absence of a confirmed PC date leaves important questions unanswered, including potential system requirements, graphics options, performance targets and whether PC players will receive additional technical features. None of these details should be assumed before an official announcement.\n\nPC gamers should also be cautious of websites claiming to offer GTA VI downloads before an authorized PC release. Unofficial installers and supposed early-access copies can expose users to malware or account theft.\n\nFor now, the safest approach is to follow Rockstar's official announcements and treat any projected PC launch window as speculation until confirmed.\n\n💻 PC Release Date: Not Officially Announced\n📅 Possible Window: First Quarter of 2027, According to Earlier Reports\n🎮 Confirmed Launch Platforms: PlayStation 5 and Xbox Series X|S\n📆 Scheduled Console Release: November 19, 2026\n⚠️ PC Timing Remains Unconfirmed\n🛡️ Avoid Suspicious Downloads and Fake Early-Access Offers",
-    "category": "GTA 6 Platforms",
-    "published_at": "2026-10-27T19:45:00Z",
     "is_featured": true
   }
  
