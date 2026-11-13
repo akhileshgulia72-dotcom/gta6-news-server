@@ -1,5 +1,41 @@
 [
           {
+    "id": 221,
+    "created_at": "2026-11-13T23:20:00+05:30",
+    "title": "🍔 GTA 6 BURGER SHOT GOES REAL — MIAMI RESTAURANTS TRANSFORM INTO VICE CITY!",
+    "description": "Miami burger chain Skinny Louie is expanding its GTA VI Burger Shot collaboration across its Florida restaurants. From November 13 to December 31, participating locations will feature Burger Shot branding, themed uniforms and special game-inspired menu items.",
+    "image_url": "https://github.com/akhileshgulia72-dotcom/gta6-news-server/blob/main/images/Burger%20Shot%20Vice%20City%20Takeover%20(1).png?raw=true",
+    "source": "IGN, November 13, 2026",
+    "article_content": "Vice City is officially invading the real world! GTA VI's iconic Burger Shot brand is getting a real-life restaurant takeover across Florida.\n\nAccording to IGN, Miami-based smash-burger chain Skinny Louie is expanding its Grand Theft Auto VI collaboration beyond its previous Miami Heat arena activation.\n\nStarting November 13, participating standalone Florida restaurants will receive Burger Shot-inspired signage, employee uniforms and a special game-themed menu.\n\nThe promotion is scheduled to continue until December 31, giving GTA fans an opportunity to experience one of the franchise's most recognizable fictional fast-food brands outside the game.\n\nInterestingly, this campaign arrives just six days before GTA VI's scheduled November 19 release.\n\n🍔 Brand: Burger Shot\n🏢 Real-World Partner: Skinny Louie\n📍 Location: Florida, USA\n📅 Promotion: November 13 – December 31\n🎮 Game: Grand Theft Auto VI\n🚀 Launch: November 19, 2026\n\nSource: IGN, November 13, 2026",
+    "category": "GTA 6 Marketing",
+    "published_at": "2026-11-13T18:00:00Z",
+    "is_featured": true
+  },
+  {
+    "id": 222,
+    "created_at": "2026-11-13T23:21:00+05:30",
+    "title": "🔥 YOUTUBE ANNOUNCES 24-HOUR GTA 6 LIVESTREAM — 30+ CREATORS JOIN THE CELEBRATION!",
+    "description": "YouTube and Rockstar Games are partnering for a massive 24-hour GTA VI launch livestream on November 19. The broadcast will feature live gameplay, creator podcasts and special content featuring more than 30 gaming personalities, including Indian creators Payal Gaming and Total Gaming.",
+    "image_url": "https://github.com/akhileshgulia72-dotcom/gta6-news-server/blob/main/images/GTA%20VI%2024-Hour%20Miami%20Livestream%20(1)%20(1).png?raw=true",
+    "source": "YouTube Official Blog, November 12, 2026",
+    "article_content": "GTA VI launch day is about to become an internet-wide gaming festival! YouTube has officially announced a special 24-hour livestream celebrating the arrival of Grand Theft Auto VI.\n\nThe event is being organized in partnership with Rockstar Games and will bring together more than 30 gaming creators and internet personalities from around the world.\n\nIndian fans will also see familiar faces, with popular creators Payal Gaming and Total Gaming included in the announced lineup.\n\nThe broadcast will begin with an RDCWorld-hosted pre-show on November 18 at 11 PM Eastern Time, followed by the main 24-hour livestream at midnight Eastern Time on November 19.\n\nViewers can expect live gameplay, creator podcasts, original content and special live coverage from Miami.\n\nYouTube is also introducing five limited-edition GTA VI-themed livestream gifts, including animated Wanted Stars, alongside a special Vice City Shorts effect.\n\n📺 Platform: YouTube\n⏰ Duration: 24 Hours\n👥 Creators: 30+\n🇮🇳 Indian Creators: Payal Gaming and Total Gaming\n🎤 Pre-Show: RDCWorld\n📅 Main Event: November 19, 2026\n🌎 Special Coverage: Miami\n🤝 Partnership: YouTube and Rockstar Games\n\nSource: YouTube Official Blog, November 12, 2026",
+    "category": "GTA 6 Marketing",
+    "published_at": "2026-11-13T19:00:00Z",
+    "is_featured": true
+  },
+  {
+    "id": 223,
+    "created_at": "2026-11-13T23:22:00+05:30",
+    "title": "😳 GTA 6 ALMOST GETS BANNED IN SOUTH KOREA — RATING BOARD SPLITS 3-3!",
+    "description": "Grand Theft Auto VI reportedly came close to being refused classification in South Korea after its ratings board initially split 3-3 over the game's frequent background male nudity. A subsequent vote resulted in an Adults Only classification, with eight members supporting the rating and one voting against it.",
+    "image_url": "https://github.com/akhileshgulia72-dotcom/gta6-news-server/blob/main/images/GTA%20VI%20South%20Korea%20Rating%20Showdown%20(1).png?raw=true",
+    "source": "Push Square and Inven, November 2026",
+    "article_content": "GTA VI almost faced a major release problem in South Korea just months before launch!\n\nAccording to reporting by Korean gaming outlet Inven, the country's Game Rating and Administration Committee initially reached a 3-3 split when deciding how to classify Rockstar's upcoming blockbuster.\n\nThree committee members supported an Adults Only rating, while three others reportedly wanted the game to be refused classification entirely.\n\nThe main controversy involved frequent background appearances of male genital nudity without an explicitly sexual context. Some committee members considered the content excessive compared with other video games.\n\nHowever, after further discussions and adjustments to the classification process, a second vote produced a different result.\n\nEight members supported an Adults Only classification, while only one voted for outright refusal.\n\nThis means GTA VI will be permitted for sale under South Korea's Adults Only rating rather than being completely banned.\n\n🎮 Game: Grand Theft Auto VI\n🌏 Country: South Korea\n⚖️ Initial Vote: 3–3 Split\n🔞 Final Classification: Adults Only\n📊 Final Vote: 8–1\n🏢 Rating Authority: Game Rating and Administration Committee\n🚀 Scheduled Launch: November 19, 2026\n\nSource: Inven and Push Square, November 2026",
+    "category": "GTA 6 Updates",
+    "published_at": "2026-11-13T20:00:00Z",
+    "is_featured": true
+  },
+          {
     "id": 218,
     "created_at": "2026-11-13T01:31:00+05:30",
     "title": "🌐 GTA 6 BREAKS INTERNET RECORDS — PRE-LOAD CRASHES NETWORKS!",
@@ -321,42 +357,6 @@
     "article_content": "Rockstar Games' promotional campaign for Grand Theft Auto VI is transforming parts of Miami into a real-world celebration of Vice City.\n\nThe campaign has already brought fictional GTA brands into real locations, including Burger Shot and Cluckin' Bell food stands at the Kaseya Center, home of the Miami Heat.\n\nA particularly significant development came on October 28, when Miami-Dade County announced a promotional agreement package worth approximately $3.9 million connected to GTA VI marketing.\n\nThe reported plans include themed promotional displays at Miami International Airport, PortMiami and selected traffic-signal cabinets. These activities are designed to connect the fictional world of Leonida with the real locations that inspired Vice City.\n\nThe Miami Heat is also preparing a special A Night in Vice City event on November 18, one day before the game's scheduled release.\n\nThis campaign demonstrates how Rockstar is using real-world experiences, partnerships and advertising to build anticipation beyond traditional gaming trailers.\n\n🌴 Location: Miami, Florida\n🍔 Featured Brands: Burger Shot and Cluckin' Bell\n🏢 Reported Marketing Package: Approximately $3.9 Million\n🏀 Miami Heat Event: November 18, 2026\n🎮 GTA VI Launch: November 19, 2026\n📢 Campaign: Real-World Vice City Promotions\n\nSource: Miami-Dade County reporting and Vice Atlas",
     "category": "GTA 6 Marketing",
     "published_at": "2026-11-04T19:00:00Z",
-    "is_featured": true
-  },
-      {
-    "id": 191,
-    "created_at": "2026-11-04T00:10:00+05:30",
-    "title": "🚨 GTA 6 IS 212GB! ROCKSTAR CONFIRMS MASSIVE DOWNLOAD SIZE!",
-    "description": "Rockstar Games has officially confirmed that Grand Theft Auto VI will require up to 212GB of available storage for pre-loading, depending on the device. Digital pre-loading begins November 10, nine days before launch. Console players should start clearing storage now to prepare for their return to Vice City.",
-    "image_url": "https://github.com/akhileshgulia72-dotcom/gta6-news-server/blob/main/images/Neon%20Vice%20City%20Download%20Announcement%20(1).png?raw=true",
-    "source": "Rockstar Games",
-    "article_content": "Rockstar Games has finally revealed one of the most important technical details ahead of Grand Theft Auto VI's highly anticipated launch: its pre-load will require up to 212GB of available storage.\n\nThe announcement was published on November 3, confirming that players will need substantial free space on their consoles before downloading the upcoming open-world adventure.\n\nDigital pre-loading on PlayStation 5 will begin on November 10 at midnight local time. Xbox Series X|S players can start downloading globally at 12 AM GMT on the same date.\n\nRockstar has also confirmed that code-in-box physical editions will begin appearing at retailers from November 12. These editions will contain a digital download code rather than a traditional game disc.\n\nThe confirmed 212GB requirement makes storage preparation particularly important for players with limited console space. The exact requirement may vary depending on the device.\n\n💾 Confirmed Pre-Load Size: Up to 212GB\n📥 Pre-Load Date: November 10, 2026\n🎮 Platforms: PlayStation 5 and Xbox Series X|S\n📦 Physical Code-in-Box Editions: November 12\n🚀 Official Launch: November 19, 2026\n\nSource: Rockstar Games Newswire and Rockstar Support",
-    "category": "GTA 6 Updates",
-    "published_at": "2026-11-03T18:30:00Z",
-    "is_featured": true
-  },
-  {
-    "id": 192,
-    "created_at": "2026-11-04T00:12:00+05:30",
-    "title": "🗺️ ROCKSTAR IS GIVING AWAY GTA 6'S LEONIDA MAP FOR FREE!",
-    "description": "Rockstar Games has announced that an official printable Grand Theft Auto VI cover art poster and map of Leonida will become available as free digital downloads on November 19. A physical double-sided poster will also arrive shortly after launch through the Rockstar Store.",
-    "image_url": "https://github.com/akhileshgulia72-dotcom/gta6-news-server/blob/main/images/GTA%20VI%20Leonida%20Map%20Giveaway%20Poster%20(1).png?raw=true",
-    "source": "Rockstar Games",
-    "article_content": "Grand Theft Auto VI fans will soon have another way to bring the world of Vice City into their homes. Rockstar Games has announced a free digital release of official GTA VI artwork and a map of Leonida.\n\nAccording to Rockstar's November 3 announcement, players will be able to download a printable Grand Theft Auto VI cover art poster and an official map of Leonida directly from the company's website starting November 19, 2026.\n\nThe announcement also revealed plans for a physical double-sided poster featuring the game's cover art and Leonida map.\n\nFans interested in the physical version will be able to purchase it through the Rockstar Store shortly after launch. The poster will cost $0.99 individually or be included as a free gift with any Rockstar Store purchase.\n\nThis gives fans an opportunity to explore the fictional state's map outside the game and collect official artwork celebrating the launch.\n\n🗺️ Free Digital Download: Leonida Map\n🎨 Printable GTA VI Cover Art Poster\n📅 Digital Availability: November 19, 2026\n🛍️ Physical Poster: Rockstar Store\n💰 Physical Poster Price: $0.99\n🎮 Game Launch: November 19, 2026\n\nSource: Rockstar Games Newswire",
-    "category": "GTA 6 Updates",
-    "published_at": "2026-11-03T19:35:00Z",
-    "is_featured": true
-  },
-  {
-    "id": 193,
-    "created_at": "2026-11-04T00:14:00+05:30",
-    "title": "⚡ GTA 6 LAUNCH WEEK COULD MAKE GAMING HISTORY — ROCKSTAR WORKERS TO VOTE!",
-    "description": "Rockstar Games employees in the UK are preparing for a historic union recognition vote scheduled between November 12 and November 26. The voting period will overlap with GTA VI's November 19 launch. The decision could give employees a collective voice on pay, overtime, job security, flexible working and other workplace policies.",
-    "image_url": "https://github.com/akhileshgulia72-dotcom/gta6-news-server/blob/main/images/GTA%206%20Launch%20Week_%20Union%20Vote%20(1).png?raw=true",
-    "source": "GamesRadar+ and Game Developer",
-    "article_content": "While millions of players prepare for Grand Theft Auto VI, Rockstar Games is approaching another major milestone behind the scenes.\n\nRockstar employees in the United Kingdom are scheduled to vote on whether to formally recognize the IWGB Rockstar Game Workers Union. The voting period will run from November 12 through November 26, 2026.\n\nInterestingly, the vote will overlap with the highly anticipated November 19 launch of Grand Theft Auto VI.\n\nIf employees approve union recognition, the agreement could give workers a stronger collective voice in discussions involving pay, bonuses, overtime, redundancies, flexible working arrangements and generative AI policies.\n\nThe vote follows months of discussions between workers and management. It also comes amid an ongoing employment dispute involving former employees who were dismissed in 2025. Rockstar has denied allegations that those dismissals were connected to union-organizing activities.\n\nA successful vote could represent an important development for the UK gaming industry, potentially establishing one of its largest recognized video game sector unions.\n\n🏢 Company: Rockstar Games\n🗳️ Union Voting: November 12–26, 2026\n🎮 GTA VI Launch: November 19, 2026\n👥 Organization: IWGB Rockstar Game Workers Union\n📋 Focus: Pay, Bonuses, Overtime and Workplace Policies\n⚠️ Voting Outcome: Not Yet Announced\n\nSource: GamesRadar+ and Game Developer",
-    "category": "GTA 6 Business",
-    "published_at": "2026-11-03T20:00:00Z",
     "is_featured": true
   }
  
