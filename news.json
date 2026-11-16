@@ -1,4 +1,40 @@
 [
+            {
+    "id": 230,
+    "created_at": "2026-11-17T01:20:00+05:30",
+    "title": "🚨 GTA 6 GETS ANOTHER UPDATE — ROCKSTAR DROPS SECOND PATCH BEFORE LAUNCH!",
+    "description": "Grand Theft Auto VI has reportedly received its second pre-launch update, version 1.002.001, on November 16. The update measures approximately 602.5MB on PlayStation 5 and 1.59GB on Xbox Series X|S. Rockstar has not published official patch notes explaining the changes.",
+    "image_url": "https://github.com/akhileshgulia72-dotcom/gta6-news-server/blob/main/images/GTA%20VI_%20Another%20Update%20Drops%20(1).png?raw=true",
+    "source": "VICE, RockstarINTEL and PlayStation Game Size, November 16, 2026",
+    "article_content": "Rockstar Games isn't letting GTA VI reach launch day without another round of updates!\n\nJust three days before its scheduled November 19 release, Grand Theft Auto VI has reportedly received its second pre-launch update.\n\nThe update is identified as version 01.002.001 and began rolling out on November 16 to players who have already downloaded the game.\n\nAccording to reports, the PlayStation 5 update is approximately 602.5MB, while the Xbox Series X|S version is around 1.59GB.\n\nPlayStation users are receiving the update through a staged rollout, meaning not everyone will see it simultaneously. Xbox availability has also been reported.\n\nInterestingly, Rockstar has not released official patch notes explaining what has changed. Players are therefore left guessing whether the update addresses technical issues, improves stability or prepares the game for launch.\n\n🔧 Game: Grand Theft Auto VI\n📦 Update Version: 01.002.001\n💾 PS5 Update: Approximately 602.5MB\n🎮 Xbox Update: Approximately 1.59GB\n📅 Reported Update Date: November 16, 2026\n📝 Official Patch Notes: Not Published\n🚀 Scheduled Launch: November 19, 2026\n\n💬 Two updates before launch? Rockstar is patching Vice City like it's already running GTA Online!",
+    "category": "GTA 6 Updates",
+    "published_at": "2026-11-16T20:00:00Z",
+    "is_featured": true
+  },
+  {
+    "id": 231,
+    "created_at": "2026-11-17T01:20:00+05:30",
+    "title": "💀 GTA 6 BUYERS GET EMPTY BOXES — SOME PLAYERS CAN'T EVEN DOWNLOAD THE GAME!",
+    "description": "Several GTA VI buyers have reportedly discovered missing or already-redeemed download codes inside their physical game boxes. Complaints involve PlayStation 5 and Xbox Series X|S editions purchased from retailers and the Rockstar Games Store. The scale of the problem remains unknown.",
+    "image_url": "https://github.com/akhileshgulia72-dotcom/gta6-news-server/blob/main/images/GTA%20VI%20Empty%20Box%20Shock%20(1).png?raw=true",
+    "source": "Kotaku, Dexerto and Game News Plus, November 15–16, 2026",
+    "article_content": "Imagine waiting more than a decade for GTA VI, paying for your copy and discovering that you cannot even download the game!\n\nSeveral Grand Theft Auto VI buyers have reportedly complained about problems with their physical editions ahead of the November 19 launch.\n\nUnlike traditional game releases, GTA VI physical boxes contain digital download codes instead of actual game discs.\n\nHowever, some customers have reported receiving boxes with missing codes, while others claim their codes were already redeemed when they attempted to activate them.\n\nThe reported complaints involve both PlayStation 5 and Xbox Series X|S editions purchased through retailers including GameStop, Best Buy and the Rockstar Games Store.\n\nThis has raised concerns among collectors and players who purchased physical editions specifically to secure their copies before launch.\n\nSome reports have also raised questions about whether codes could potentially be exposed or accessed before customers open their sealed boxes.\n\nRockstar has not confirmed a widespread packaging problem, and the total number of affected customers remains unknown.\n\n📦 Product: GTA VI Physical Edition\n🎮 Platforms: PS5 and Xbox Series X|S\n⚠️ Reported Problems: Missing or Already-Redeemed Codes\n🏪 Retailers: GameStop, Best Buy and Rockstar Games Store\n📅 Reports: November 15–16, 2026\n🚀 Scheduled Launch: November 19, 2026\n\n💬 Bro waited 13 years for GTA 6 just to receive a box containing disappointment!",
+    "category": "GTA 6 Updates",
+    "published_at": "2026-11-16T18:00:00Z",
+    "is_featured": true
+  },
+  {
+    "id": 232,
+    "created_at": "2026-11-17T01:20:00+05:30",
+    "title": "🌐 GTA 6 ALMOST DESTROYS THE INTERNET — COMCAST REPORTS BIGGEST DOWNLOAD EVENT EVER!",
+    "description": "GTA VI pre-loading has reportedly triggered the largest standalone data-usage event in Comcast's network history. The first 48 hours of downloads created two of the network's ten busiest days, while Virgin Media O2 also reported unprecedented broadband traffic in the UK ahead of the November 19 launch.",
+    "image_url": "https://github.com/akhileshgulia72-dotcom/gta6-news-server/blob/main/images/GTA%20VI%20Internet%20Overload%20(1).png?raw=true",
+    "source": "New York Post, November 16, 2026",
+    "article_content": "GTA VI hasn't even launched, and internet providers are already feeling the damage!\n\nThe massive pre-loading campaign for Grand Theft Auto VI has reportedly created unprecedented internet traffic across multiple networks.\n\nAccording to reporting by the New York Post, Comcast revealed that the first 48 hours of GTA VI downloads created the largest standalone event in its network's history.\n\nThe download rush also produced two of Comcast's ten busiest days ever, highlighting the enormous demand surrounding Rockstar's upcoming blockbuster.\n\nThe situation isn't limited to the United States. British broadband provider Virgin Media O2 also reported extraordinary network activity, with traffic during the first hour reportedly 51.6% higher than the previous week.\n\nMillions of players are preparing their consoles ahead of the November 19 release, with Rockstar recommending up to 212GB of available storage for the game.\n\nThe enormous download size combined with simultaneous pre-loading has turned GTA VI into a major internet infrastructure event before players have even entered Vice City.\n\n🌐 Network: Comcast\n📊 Record: Largest Standalone Network Event\n📅 Observation: First 48 Hours of Pre-Loading\n🇬🇧 UK Provider: Virgin Media O2\n📈 UK Traffic: 51.6% Above Previous Week During First Hour\n💾 Recommended Storage: Up to 212GB\n🎮 Platforms: PS5 and Xbox Series X|S\n🚀 Scheduled Launch: November 19, 2026\n\n💬 GTA 6 players haven't robbed a single bank yet, but they've already robbed everyone's internet speed!",
+    "category": "GTA 6 Updates",
+    "published_at": "2026-11-16T19:00:00Z",
+    "is_featured": true
+  },
            {
     "id": 227,
     "created_at": "2026-11-16T01:22:00+05:30",
@@ -321,42 +357,6 @@
     "article_content": "The final preparation period for Grand Theft Auto VI is approaching, and console players should start checking their available storage.\n\nRockstar Games has confirmed that digital pre-loading will begin on November 10, 2026, ahead of the game's scheduled November 19 release.\n\nPlayStation 5 players can begin pre-loading at midnight local time on November 10. Xbox Series X|S players can start at 12 AM GMT on the same date.\n\nAnother major talking point is the reported storage requirement. The pre-load may require up to 212GB of available space, although the exact requirement can vary depending on the device.\n\nPhysical editions are also expected to reach retailers from November 12. These boxed editions contain digital download codes rather than traditional game discs.\n\nPlayers should check their available console storage, internet connection and account access before downloading.\n\nThe countdown is now entering its final stretch. Vice City is almost ready to welcome its next generation of criminals.\n\n💾 Storage Requirement: Up to 212GB\n📥 Digital Pre-Load: November 10, 2026\n🎮 Platforms: PS5 and Xbox Series X|S\n📦 Physical Editions: November 12\n🚀 Scheduled Launch: November 19, 2026\n⏳ Time Until Launch: 12 Days on November 7\n\nSource: Rockstar Games Newswire and GamesRadar+, November 2026",
     "category": "GTA 6 Updates",
     "published_at": "2026-11-07T19:00:00Z",
-    "is_featured": true
-  },
-         {
-    "id": 200,
-    "created_at": "2026-11-06T22:45:00+05:30",
-    "title": "📸 ROCKSTAR JUST DROPPED 39 NEW GTA 6 SCREENSHOTS — VICE CITY LOOKS INSANE!",
-    "description": "Rockstar Games has released a brand-new Grand Theft Auto VI Launch Gallery featuring 39 official screenshots. Published on November 5, the collection showcases Vice City and beyond, giving fans another look at Jason, Lucia, wildlife, police encounters, nightlife and the game's detailed environments just two weeks before launch.",
-    "image_url": "https://github.com/akhileshgulia72-dotcom/gta6-news-server/blob/main/images/Vice%20City%20Screenshot%20Showcase%20(1).png?raw=true",
-    "source": "Rockstar Games and PC Gamer",
-    "article_content": "Rockstar Games has surprised Grand Theft Auto VI fans with a massive collection of new official screenshots just two weeks before the game's scheduled release.\n\nOn November 5, Rockstar published its official GTA VI Launch Gallery, giving players a fresh look at Vice City and the surrounding regions of Leonida.\n\nThe collection features 39 screenshots showcasing different aspects of the upcoming open-world adventure. Fans can spot Jason and Lucia, nighttime environments, police encounters, wildlife, underwater scenes and various criminal activities.\n\nSome images also highlight the game's environmental detail, character appearances and cinematic presentation. The collection provides additional material for fans to examine while waiting for launch day.\n\nImportantly, these are official screenshots rather than leaked images or fan-made artwork. However, individual screenshots should not be interpreted as confirmation of every possible gameplay mechanic.\n\nWith the November 19 release approaching, Rockstar is giving players another official look at the world they will soon explore.\n\n📸 New Screenshots: 39\n📅 Gallery Released: November 5, 2026\n🌴 Locations: Vice City and Leonida\n👫 Characters: Jason Duval and Lucia Caminos\n🎮 Platforms: PS5 and Xbox Series X|S\n🚀 Scheduled Launch: November 19, 2026\n\nSource: Rockstar Games Newswire and PC Gamer, November 5, 2026",
-    "category": "GTA 6 Gameplay",
-    "published_at": "2026-11-06T18:00:00Z",
-    "is_featured": true
-  },
-  {
-    "id": 201,
-    "created_at": "2026-11-06T22:45:00+05:30",
-    "title": "🏴‍☠️ GTA 6 PIRACY? TAKE-TWO CEO HAS A WARNING FOR PIRATES!",
-    "description": "Take-Two CEO Strauss Zelnick has addressed the possibility of Grand Theft Auto VI being pirated, describing piracy as a fact of life in the entertainment industry. He says the company is prepared to use legal action and technical protections if piracy becomes a serious problem.",
-    "image_url": "https://github.com/akhileshgulia72-dotcom/gta6-news-server/blob/main/images/GTA%206%20Piracy%20Warning_%20CEO%20Speaks%20(1).png?raw=true",
-    "source": "GamesRadar+ and Wall Street Journal Tech",
-    "article_content": "Grand Theft Auto VI could become one of the biggest targets for game piracy, but Take-Two Interactive CEO Strauss Zelnick says the company understands the challenge.\n\nDuring a recent interview with Wall Street Journal Tech, Zelnick described piracy as a fact of life across entertainment industries.\n\nHe explained that piracy has historically affected movies, music and video games, although its scale has changed over time.\n\nHowever, the Take-Two CEO made it clear that the company would not simply ignore the problem. If piracy becomes a significant issue for GTA VI, the publisher is prepared to respond using both legal action and technical protections.\n\nThe enormous expected demand for GTA VI makes piracy an important concern for Rockstar and its parent company. Large game downloads, hardware requirements and technical protections could also influence unauthorized distribution.\n\nZelnick did not announce a specific anti-piracy system or confirm exactly how Rockstar plans to protect the game.\n\n🏢 Company: Take-Two Interactive\n👤 CEO: Strauss Zelnick\n🏴‍☠️ Topic: GTA VI Piracy Protection\n⚖️ Possible Response: Legal Action\n🔒 Additional Measures: Technical Protections\n🎮 Game: Grand Theft Auto VI\n📅 Scheduled Launch: November 19, 2026\n\nSource: GamesRadar+ and Wall Street Journal Tech, November 5, 2026",
-    "category": "GTA 6 Business",
-    "published_at": "2026-11-06T19:00:00Z",
-    "is_featured": true
-  },
-  {
-    "id": 202,
-    "created_at": "2026-11-06T22:45:00+05:30",
-    "title": "🚨 WHY GTA 6 WAS DELAYED — TAKE-TWO CEO DOESN'T WANT ANOTHER CYBERPUNK DISASTER!",
-    "description": "Take-Two CEO Strauss Zelnick has explained why delaying a major game can be better than releasing it before it is ready. In a recent interview, he pointed toward the risks of launching an unfinished game, with GamesRadar+ interpreting his comments as an indirect reference to Cyberpunk 2077's troubled launch.",
-    "image_url": "https://github.com/akhileshgulia72-dotcom/gta6-news-server/blob/main/images/GTA%206%20Delayed_%20Avoiding%20Another%20Cyberpunk%20Disaster%20(1).png?raw=true",
-    "source": "GamesRadar+ and Wall Street Journal Tech",
-    "article_content": "Why did Rockstar Games delay Grand Theft Auto VI instead of rushing it to market? Take-Two Interactive CEO Strauss Zelnick has offered another explanation behind the company's approach to release quality.\n\nIn a recent interview with the Wall Street Journal, Zelnick discussed the difficult decisions involved in delaying major entertainment projects.\n\nHe explained that companies sometimes need to make expensive and inconvenient decisions to protect their creative ambitions and deliver the best possible experience.\n\nZelnick also discussed the risks of releasing a game simply to meet a schedule. Without directly naming Cyberpunk 2077, he referenced a high-profile game that was released before it was ready and subsequently had to be withdrawn from sale.\n\nGamesRadar+ interpreted this as an indirect reference to Cyberpunk 2077, which experienced a famously troubled launch in 2020.\n\nThe comments suggest that Take-Two considers launch quality more important than meeting an earlier release target at any cost.\n\nFor GTA VI fans, the key question is whether the additional development time will deliver the polished experience Rockstar is promising.\n\n🏢 Company: Take-Two Interactive\n👤 CEO: Strauss Zelnick\n🎮 Game: Grand Theft Auto VI\n📰 Interview: Wall Street Journal Tech\n⚠️ Main Topic: Release Quality and Development Delays\n🎯 Industry Comparison: Cyberpunk 2077 Launch\n📅 Scheduled GTA VI Release: November 19, 2026\n\nSource: GamesRadar+ and Wall Street Journal Tech, November 5, 2026",
-    "category": "GTA 6 Development",
-    "published_at": "2026-11-06T20:00:00Z",
     "is_featured": true
   }
  
