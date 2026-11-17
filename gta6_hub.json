@@ -1,0 +1,47 @@
+{
+  "version": 1,
+  "enabled": true,
+  "title": "GTA VI",
+  "subtitle": "Your guide to Leonida",
+  "announcement": "Explore our GTA VI hub. New guides and updates will appear here as they are published.",
+  "sections": [
+    {
+      "id": "essentials",
+      "title": "Essentials",
+      "items": [
+        {
+          "id": "official-game",
+          "title": "The official GTA VI destination",
+          "summary": "Find the latest official game information from Rockstar Games.",
+          "body": "Visit Rockstar's official GTA VI page for current announcements, platform details, trailers and game information. Vice World is an independent fan companion.",
+          "link_url": "https://www.rockstargames.com/VI",
+          "spoiler": false,
+          "published": true
+        },
+        {
+          "id": "session-prep",
+          "title": "Get ready for your next session",
+          "summary": "A short checklist before you jump in.",
+          "body": "Check your console library and installation progress. Review available game and console updates. Charge your controller and test your audio.\n\nUse the launch checklist in Today to save your preparation progress. Add a personal goal in My Hub's play journal so you know what you want to explore next.",
+          "spoiler": false,
+          "published": true
+        }
+      ]
+    },
+    {
+      "id": "support",
+      "title": "Support",
+      "items": [
+        {
+          "id": "official-support",
+          "title": "Need help with the game?",
+          "summary": "Keep your error message handy and consult official support.",
+          "body": "For technical game issues, consult Rockstar Support. For purchases and licenses, contact the store where you bought the game.\n\nVice World cannot access or recover your console saves or Rockstar account.",
+          "link_url": "https://support.rockstargames.com/",
+          "spoiler": false,
+          "published": true
+        }
+      ]
+    }
+  ]
+}
