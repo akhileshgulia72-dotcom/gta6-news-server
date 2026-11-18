@@ -1,5 +1,15 @@
 {
   "version": 1,
   "channel": "Vice World Gaming",
-  "videos": []
+  "videos": [
+    {"id": "short-001", "title": "GTA 6 Premium Short", "creator": "Vice World Gaming", "youtubeId": "k5_WgQHv3l8"},
+    {"id": "short-002", "title": "Jason Duval & Lucia", "creator": "Vice World Gaming", "youtubeId": "v2DLSSyfioU"},
+    {"id": "short-003", "title": "Vice City Nights", "creator": "Vice World Gaming", "youtubeId": "lcq86jSJZhs"},
+    {"id": "short-004", "title": "GTA 6 Cinematic 004", "creator": "Vice World Gaming", "youtubeId": "7DCsdMedkl0"},
+    {"id": "short-005", "title": "GTA 6 Cinematic 005", "creator": "Vice World Gaming", "youtubeId": "0YQ2uYNFxPI"},
+    {"id": "short-006", "title": "GTA 6 Cinematic 006", "creator": "Vice World Gaming", "youtubeId": "_xVfVoRk8zA"},
+    {"id": "short-007", "title": "GTA 6 Cinematic 007", "creator": "Vice World Gaming", "youtubeId": "6ZZfpYMwads"},
+    {"id": "short-008", "title": "GTA 6 Cinematic 008", "creator": "Vice World Gaming", "youtubeId": "epxmuU7iJnM"},
+    {"id": "short-009", "title": "GTA 6 Cinematic 009", "creator": "Vice World Gaming", "youtubeId": "5v-exqBWLQY"}
+  ]
 }
