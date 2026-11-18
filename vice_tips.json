@@ -1,0 +1,40 @@
+{
+  "version": 1,
+  "tips": [
+    {
+      "id": "mission-prep",
+      "category": "Missions",
+      "title": "Mission preparation checklist",
+      "summary": "A spoiler-safe checklist to prepare before a difficult mission.",
+      "steps": ["Restock health and armor.", "Choose a suitable vehicle and save nearby.", "Check objectives before committing to a route."]
+    },
+    {
+      "id": "money-basics",
+      "category": "Money",
+      "title": "Build cash without wasting upgrades",
+      "summary": "Prioritize reliable income and purchases that improve future earning.",
+      "steps": ["Complete available activities before luxury purchases.", "Keep a reserve for mission equipment.", "Compare utility before buying upgrades."]
+    },
+    {
+      "id": "vehicle-control",
+      "category": "Vehicles",
+      "title": "Learn each vehicle class",
+      "summary": "Handling changes with weight, road surface, and speed.",
+      "steps": ["Brake before the corner.", "Use smooth steering inputs.", "Practice one route with different vehicle classes."]
+    },
+    {
+      "id": "secret-hunt",
+      "category": "Secrets",
+      "title": "Search the world methodically",
+      "summary": "Use landmarks and map zones so you do not repeat the same areas.",
+      "steps": ["Divide the map into small zones.", "Check rooftops, alleys, coastlines, and interiors.", "Record discoveries in your mission tracker."]
+    },
+    {
+      "id": "controls",
+      "category": "Tutorials",
+      "title": "Tune controls before long sessions",
+      "summary": "Small sensitivity and camera changes can improve consistency.",
+      "steps": ["Change one setting at a time.", "Test it in a safe area.", "Keep it only if it feels better after several minutes."]
+    }
+  ]
+}
