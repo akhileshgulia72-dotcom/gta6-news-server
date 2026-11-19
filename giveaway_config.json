@@ -1,0 +1,9 @@
+{
+  "version": 1,
+  "scheduleLabel": "Winners announced every Sunday",
+  "announcementTime": "8:00 PM IST",
+  "title": "Weekly winner announcement",
+  "weekLabel": "Current giveaway week",
+  "message": "No verified winners have been published yet. Results will appear here after review.",
+  "winners": []
+}
