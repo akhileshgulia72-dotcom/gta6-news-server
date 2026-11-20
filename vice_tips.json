@@ -1,40 +1,333 @@
 {
-  "version": 1,
+  "version": 2,
+  "updatedAt": "2026-11-20T08:50:23.272Z",
+  "categories": [
+    {
+      "id": "basics",
+      "label": "Getting started",
+      "order": 1
+    }
+  ],
   "tips": [
     {
-      "id": "mission-prep",
-      "category": "Missions",
-      "title": "Mission preparation checklist",
-      "summary": "A spoiler-safe checklist to prepare before a difficult mission.",
-      "steps": ["Restock health and armor.", "Choose a suitable vehicle and save nearby.", "Check objectives before committing to a route."]
+      "id": "launch-tip-1",
+      "category": "basics",
+      "title": "Store early cash",
+      "summary": "Use Jason’s bedroom floorboard stash before banking unlocks.",
+      "guide": [
+        "Use Jason’s bedroom floorboard stash before banking unlocks."
+      ],
+      "steps": [],
+      "imageUrl": "https://github.com/akhileshgulia72-dotcom/gta6-news-server/blob/main/images/Jason_and_Lucia_01.jpg?raw=true",
+      "imageCaption": "GTA VI gallery artwork; illustrative, not a step-by-step screenshot.",
+      "sourceUrl": "https://www.videogameschronicle.com/guide/gta-6-beginners-guide-6-tips-you-need-to-know-before-starting-gta-6/",
+      "order": 1,
+      "published": true,
+      "verified": true
     },
     {
-      "id": "money-basics",
-      "category": "Money",
-      "title": "Build cash without wasting upgrades",
-      "summary": "Prioritize reliable income and purchases that improve future earning.",
-      "steps": ["Complete available activities before luxury purchases.", "Keep a reserve for mission equipment.", "Compare utility before buying upgrades."]
+      "id": "launch-tip-2",
+      "category": "basics",
+      "title": "Check shop hours",
+      "summary": "Check your phone’s clock before visiting shops or starting time-dependent missions.",
+      "guide": [
+        "Check your phone’s clock before visiting shops or starting time-dependent missions."
+      ],
+      "steps": [],
+      "imageUrl": "https://github.com/akhileshgulia72-dotcom/gta6-news-server/blob/main/images/Jason_and_Lucia_02.jpg?raw=true",
+      "imageCaption": "GTA VI gallery artwork; illustrative, not a step-by-step screenshot.",
+      "sourceUrl": "https://www.videogameschronicle.com/guide/gta-6-beginners-guide-6-tips-you-need-to-know-before-starting-gta-6/",
+      "order": 2,
+      "published": true,
+      "verified": true
     },
     {
-      "id": "vehicle-control",
-      "category": "Vehicles",
-      "title": "Learn each vehicle class",
-      "summary": "Handling changes with weight, road surface, and speed.",
-      "steps": ["Brake before the corner.", "Use smooth steering inputs.", "Practice one route with different vehicle classes."]
+      "id": "launch-tip-3",
+      "category": "basics",
+      "title": "Look for hidden rooms",
+      "summary": "Approach rear doors and inspect the minimap for additional interiors.",
+      "guide": [
+        "Approach rear doors and inspect the minimap for additional interiors."
+      ],
+      "steps": [],
+      "imageUrl": "https://github.com/akhileshgulia72-dotcom/gta6-news-server/blob/main/images/Jason_and_Lucia_03.jpg?raw=true",
+      "imageCaption": "GTA VI gallery artwork; illustrative, not a step-by-step screenshot.",
+      "sourceUrl": "https://www.videogameschronicle.com/guide/gta-6-beginners-guide-6-tips-you-need-to-know-before-starting-gta-6/",
+      "order": 3,
+      "published": true,
+      "verified": true
     },
     {
-      "id": "secret-hunt",
-      "category": "Secrets",
-      "title": "Search the world methodically",
-      "summary": "Use landmarks and map zones so you do not repeat the same areas.",
-      "steps": ["Divide the map into small zones.", "Check rooftops, alleys, coastlines, and interiors.", "Record discoveries in your mission tracker."]
+      "id": "launch-tip-4",
+      "category": "basics",
+      "title": "Read building colors",
+      "summary": "Darker blue buildings on the world map indicate accessible interiors.",
+      "guide": [
+        "Darker blue buildings on the world map indicate accessible interiors."
+      ],
+      "steps": [],
+      "imageUrl": "https://github.com/akhileshgulia72-dotcom/gta6-news-server/blob/main/images/Jason_and_Lucia_04.jpg?raw=true",
+      "imageCaption": "GTA VI gallery artwork; illustrative, not a step-by-step screenshot.",
+      "sourceUrl": "https://www.videogameschronicle.com/guide/gta-6-beginners-guide-6-tips-you-need-to-know-before-starting-gta-6/",
+      "order": 4,
+      "published": true,
+      "verified": true
     },
     {
-      "id": "controls",
-      "category": "Tutorials",
-      "title": "Tune controls before long sessions",
-      "summary": "Small sensitivity and camera changes can improve consistency.",
-      "steps": ["Change one setting at a time.", "Test it in a safe area.", "Keep it only if it feels better after several minutes."]
+      "id": "launch-tip-5",
+      "category": "basics",
+      "title": "Feed Dolores",
+      "summary": "Feeding Jason’s snake provides an early Focus boost.",
+      "guide": [
+        "Feeding Jason’s snake provides an early Focus boost."
+      ],
+      "steps": [],
+      "imageUrl": "https://github.com/akhileshgulia72-dotcom/gta6-news-server/blob/main/images/Jason_and_Lucia_05.jpg?raw=true",
+      "imageCaption": "GTA VI gallery artwork; illustrative, not a step-by-step screenshot.",
+      "sourceUrl": "https://www.videogameschronicle.com/guide/gta-6-beginners-guide-6-tips-you-need-to-know-before-starting-gta-6/",
+      "order": 5,
+      "published": true,
+      "verified": true
+    },
+    {
+      "id": "launch-tip-6",
+      "category": "basics",
+      "title": "Call for repairs",
+      "summary": "After Just A Scratch, call the mechanic for roadside repairs; budget for the fee.",
+      "guide": [
+        "After Just A Scratch, call the mechanic for roadside repairs; budget for the fee."
+      ],
+      "steps": [],
+      "imageUrl": "https://github.com/akhileshgulia72-dotcom/gta6-news-server/blob/main/images/Jason_and_Lucia_06.jpg?raw=true",
+      "imageCaption": "GTA VI gallery artwork; illustrative, not a step-by-step screenshot.",
+      "sourceUrl": "https://www.videogameschronicle.com/guide/gta-6-beginners-guide-6-tips-you-need-to-know-before-starting-gta-6/",
+      "order": 6,
+      "published": true,
+      "verified": true
+    },
+    {
+      "id": "launch-tip-7",
+      "category": "basics",
+      "title": "Equip body armor",
+      "summary": "Restock armor at Ammu-Nation and equip it through the item wheel.",
+      "guide": [
+        "Restock armor at Ammu-Nation and equip it through the item wheel."
+      ],
+      "steps": [],
+      "imageUrl": "https://github.com/akhileshgulia72-dotcom/gta6-news-server/blob/main/images/Jason_and_Lucia_07.jpg?raw=true",
+      "imageCaption": "GTA VI gallery artwork; illustrative, not a step-by-step screenshot.",
+      "sourceUrl": "https://www.powerpyx.com/gta-6-tips-tricks/",
+      "order": 7,
+      "published": true,
+      "verified": true
+    },
+    {
+      "id": "launch-tip-8",
+      "category": "basics",
+      "title": "Filter the map",
+      "summary": "Use map categories to narrow your search.",
+      "guide": [
+        "Use map categories to narrow your search."
+      ],
+      "steps": [],
+      "imageUrl": "https://github.com/akhileshgulia72-dotcom/gta6-news-server/blob/main/images/Jason_and_Lucia_08.jpg?raw=true",
+      "imageCaption": "GTA VI gallery artwork; illustrative, not a step-by-step screenshot.",
+      "sourceUrl": "https://www.powerpyx.com/gta-6-tips-tricks/",
+      "order": 8,
+      "published": true,
+      "verified": true
+    },
+    {
+      "id": "launch-tip-9",
+      "category": "basics",
+      "title": "Train regularly",
+      "summary": "Exercise daily to improve health and stamina.",
+      "guide": [
+        "Exercise daily to improve health and stamina."
+      ],
+      "steps": [],
+      "imageUrl": "https://github.com/akhileshgulia72-dotcom/gta6-news-server/blob/main/images/Jason_and_Lucia_09.jpg?raw=true",
+      "imageCaption": "GTA VI gallery artwork; illustrative, not a step-by-step screenshot.",
+      "sourceUrl": "https://www.powerpyx.com/gta-6-tips-tricks/",
+      "order": 9,
+      "published": true,
+      "verified": true
+    },
+    {
+      "id": "launch-tip-10",
+      "category": "basics",
+      "title": "Practice at ranges",
+      "summary": "Shooting-range challenges improve Focus.",
+      "guide": [
+        "Shooting-range challenges improve Focus."
+      ],
+      "steps": [],
+      "imageUrl": "https://github.com/akhileshgulia72-dotcom/gta6-news-server/blob/main/images/Jason_and_Lucia_10.jpg?raw=true",
+      "imageCaption": "GTA VI gallery artwork; illustrative, not a step-by-step screenshot.",
+      "sourceUrl": "https://www.powerpyx.com/gta-6-tips-tricks/",
+      "order": 10,
+      "published": true,
+      "verified": true
+    },
+    {
+      "id": "launch-tip-11",
+      "category": "basics",
+      "title": "Prepare before missions",
+      "summary": "Food and drinks provide temporary stat boosts.",
+      "guide": [
+        "Food and drinks provide temporary stat boosts."
+      ],
+      "steps": [],
+      "imageUrl": "https://github.com/akhileshgulia72-dotcom/gta6-news-server/blob/main/images/Jason_and_Lucia_12.jpg?raw=true",
+      "imageCaption": "GTA VI gallery artwork; illustrative, not a step-by-step screenshot.",
+      "sourceUrl": "https://www.powerpyx.com/gta-6-tips-tricks/",
+      "order": 11,
+      "published": true,
+      "verified": true
+    },
+    {
+      "id": "launch-tip-12",
+      "category": "basics",
+      "title": "Use disguises",
+      "summary": "Equip hats, glasses or a bandana to reduce recognition.",
+      "guide": [
+        "Equip hats, glasses or a bandana to reduce recognition."
+      ],
+      "steps": [],
+      "imageUrl": "https://github.com/akhileshgulia72-dotcom/gta6-news-server/blob/main/images/Jason_and_Lucia_13.jpg?raw=true",
+      "imageCaption": "GTA VI gallery artwork; illustrative, not a step-by-step screenshot.",
+      "sourceUrl": "https://www.powerpyx.com/gta-6-tips-tricks/",
+      "order": 12,
+      "published": true,
+      "verified": true
+    },
+    {
+      "id": "launch-tip-13",
+      "category": "basics",
+      "title": "Sell stolen goods",
+      "summary": "Use fences; story progression unlocks additional buyers.",
+      "guide": [
+        "Use fences; story progression unlocks additional buyers."
+      ],
+      "steps": [],
+      "imageUrl": "https://github.com/akhileshgulia72-dotcom/gta6-news-server/blob/main/images/Jason_and_Lucia_01.jpg?raw=true",
+      "imageCaption": "GTA VI gallery artwork; illustrative, not a step-by-step screenshot.",
+      "sourceUrl": "https://www.powerpyx.com/gta-6-tips-tricks/",
+      "order": 13,
+      "published": true,
+      "verified": true
+    },
+    {
+      "id": "launch-tip-14",
+      "category": "basics",
+      "title": "Register a vehicle",
+      "summary": "Chapter 2 introduces personal registration for stolen vehicles.",
+      "guide": [
+        "Chapter 2 introduces personal registration for stolen vehicles."
+      ],
+      "steps": [],
+      "imageUrl": "https://github.com/akhileshgulia72-dotcom/gta6-news-server/blob/main/images/Jason_and_Lucia_02.jpg?raw=true",
+      "imageCaption": "GTA VI gallery artwork; illustrative, not a step-by-step screenshot.",
+      "sourceUrl": "https://www.powerpyx.com/gta-6-tips-tricks/",
+      "order": 14,
+      "published": true,
+      "verified": true
+    },
+    {
+      "id": "launch-tip-15",
+      "category": "basics",
+      "title": "Check phone apps",
+      "summary": "Snapmatic and News can reveal points of interest.",
+      "guide": [
+        "Snapmatic and News can reveal points of interest."
+      ],
+      "steps": [],
+      "imageUrl": "https://github.com/akhileshgulia72-dotcom/gta6-news-server/blob/main/images/Jason_and_Lucia_03.jpg?raw=true",
+      "imageCaption": "GTA VI gallery artwork; illustrative, not a step-by-step screenshot.",
+      "sourceUrl": "https://www.powerpyx.com/gta-6-tips-tricks/",
+      "order": 15,
+      "published": true,
+      "verified": true
+    },
+    {
+      "id": "launch-tip-16",
+      "category": "basics",
+      "title": "Choose a suitable workshop",
+      "summary": "Mod shops specialize in different vehicle types.",
+      "guide": [
+        "Mod shops specialize in different vehicle types."
+      ],
+      "steps": [],
+      "imageUrl": "https://github.com/akhileshgulia72-dotcom/gta6-news-server/blob/main/images/Jason_and_Lucia_04.jpg?raw=true",
+      "imageCaption": "GTA VI gallery artwork; illustrative, not a step-by-step screenshot.",
+      "sourceUrl": "https://www.powerpyx.com/gta-6-tips-tricks/",
+      "order": 16,
+      "published": true,
+      "verified": true
+    },
+    {
+      "id": "launch-tip-17",
+      "category": "basics",
+      "title": "Adjust accessibility",
+      "summary": "Gameplay settings offer reduced combat and vehicle damage.",
+      "guide": [
+        "Gameplay settings offer reduced combat and vehicle damage."
+      ],
+      "steps": [],
+      "imageUrl": "https://github.com/akhileshgulia72-dotcom/gta6-news-server/blob/main/images/Jason_and_Lucia_05.jpg?raw=true",
+      "imageCaption": "GTA VI gallery artwork; illustrative, not a step-by-step screenshot.",
+      "sourceUrl": "https://www.powerpyx.com/gta-6-tips-tricks/",
+      "order": 17,
+      "published": true,
+      "verified": true
+    },
+    {
+      "id": "launch-tip-18",
+      "category": "basics",
+      "title": "Calibrate brightness",
+      "summary": "Adjust display brightness when nighttime visibility is difficult.",
+      "guide": [
+        "Adjust display brightness when nighttime visibility is difficult."
+      ],
+      "steps": [],
+      "imageUrl": "https://github.com/akhileshgulia72-dotcom/gta6-news-server/blob/main/images/Jason_and_Lucia_06.jpg?raw=true",
+      "imageCaption": "GTA VI gallery artwork; illustrative, not a step-by-step screenshot.",
+      "sourceUrl": "https://www.powerpyx.com/gta-6-tips-tricks/",
+      "order": 18,
+      "published": true,
+      "verified": true
+    },
+    {
+      "id": "launch-tip-19",
+      "category": "basics",
+      "title": "Watch fuel levels",
+      "summary": "Refuel vehicles before long journeys.",
+      "guide": [
+        "Refuel vehicles before long journeys."
+      ],
+      "steps": [],
+      "imageUrl": "https://github.com/akhileshgulia72-dotcom/gta6-news-server/blob/main/images/Jason_and_Lucia_07.jpg?raw=true",
+      "imageCaption": "GTA VI gallery artwork; illustrative, not a step-by-step screenshot.",
+      "sourceUrl": "https://www.powerpyx.com/gta-6-tips-tricks/",
+      "order": 19,
+      "published": true,
+      "verified": true
+    },
+    {
+      "id": "launch-tip-20",
+      "category": "basics",
+      "title": "Let side missions develop",
+      "summary": "Complete other activities while waiting for follow-up quests.",
+      "guide": [
+        "Complete other activities while waiting for follow-up quests."
+      ],
+      "steps": [],
+      "imageUrl": "https://github.com/akhileshgulia72-dotcom/gta6-news-server/blob/main/images/Jason_and_Lucia_08.jpg?raw=true",
+      "imageCaption": "GTA VI gallery artwork; illustrative, not a step-by-step screenshot.",
+      "sourceUrl": "https://www.powerpyx.com/gta-6-tips-tricks/",
+      "order": 20,
+      "published": true,
+      "verified": true
     }
   ]
 }
