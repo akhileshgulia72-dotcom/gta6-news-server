@@ -1,5 +1,41 @@
 [
   {
+    "id": 242,
+    "created_at": "2026-11-21T00:25:00+05:30",
+    "title": "💰 GTA 6 LAUNCH SALES HIT $2.36 BILLION — ROCKSTAR JUST PRINTED MONEY!",
+    "description": "Grand Theft Auto VI reportedly sold approximately 24.6 million copies shortly after launch, generating an estimated $2.36 billion in revenue, according to market research firm Sensor Tower. These figures are estimates and have not been officially confirmed by Rockstar Games.",
+    "image_url": "https://github.com/akhileshgulia72-dotcom/gta6-news-server/blob/main/images/Vice%20City%E2%80%99s%20Billion-Dollar%20Launch%20(1).png?raw=true",
+    "source": "Associated Press and Sensor Tower, November 20, 2026",
+    "article_content": "ROCKSTAR'S MONEY COUNTER IS PROBABLY WORKING OVERTIME!\n\nGrand Theft Auto VI is reportedly delivering an enormous commercial launch, with market research estimates suggesting approximately 24.6 million copies sold shortly after release.\n\nAccording to figures attributed to Sensor Tower, those sales could represent approximately $2.36 billion in revenue, making GTA VI one of the biggest entertainment launches ever recorded.\n\nThe game launched worldwide on November 19 for PlayStation 5 and Xbox Series X|S, following more than a decade of anticipation.\n\nThese numbers are estimates from market research and are not official sales figures released by Rockstar Games or Take-Two Interactive.\n\n💰 Estimated Copies Sold: Approximately 24.6 Million\n📊 Estimated Revenue: Approximately $2.36 Billion\n🎮 Game: Grand Theft Auto VI\n🏢 Developer: Rockstar Games\n🏢 Parent Company: Take-Two Interactive\n📅 Reported: November 20, 2026\n⚠️ Figures: Industry Estimates\n\n💬 Players are still trying to find their first car, while Rockstar's finance department has already unlocked billionaire mode!",
+    "category": "GTA 6 Business",
+    "published_at": "2026-11-20T20:00:00Z",
+    "is_featured": true
+  },
+  {
+    "id": 243,
+    "created_at": "2026-11-21T00:25:00+05:30",
+    "title": "🖥️ GTA 6 PC PLAYERS ARE STILL WAITING — ROCKSTAR HASN'T ANNOUNCED A RELEASE DATE!",
+    "description": "Grand Theft Auto VI is currently available on PlayStation 5 and Xbox Series X|S, but Rockstar Games has not announced an official PC release date. PC gamers continue to wait for confirmation of when the game will arrive on Windows.",
+    "image_url": "https://github.com/akhileshgulia72-dotcom/gta6-news-server/blob/main/images/GTA%20VI%20PC%20Players%20Still%20Waiting%20(1).png?raw=true",
+    "source": "VICE and The Verge, November 20, 2026",
+    "article_content": "PC GAMERS ARE WATCHING VICE CITY FROM THE OUTSIDE!\n\nGrand Theft Auto VI is finally available, but the launch currently covers PlayStation 5 and Xbox Series X|S.\n\nRockstar Games has not officially announced a release date for the PC version, leaving PC players waiting for news about when they can experience the new game.\n\nRecent discussions and industry speculation suggest a possible future PC release, but no confirmed date or official launch window has been provided by Rockstar.\n\nUntil an official announcement arrives, PC players should treat release-date rumors cautiously.\n\n🎮 Game: Grand Theft Auto VI\n🖥️ PC Version: Not Officially Announced\n🎮 Current Platforms: PS5 and Xbox Series X|S\n🏢 Developer: Rockstar Games\n📅 Update: November 20, 2026\n⚠️ PC Release Date: Unconfirmed\n\n💬 PC gamers have powerful graphics cards, 200GB of free storage and absolutely nowhere to go!",
+    "category": "GTA 6 Updates",
+    "published_at": "2026-11-20T21:00:00Z",
+    "is_featured": true
+  },
+  {
+    "id": 244,
+    "created_at": "2026-11-21T00:25:00+05:30",
+    "title": "🎮 GTA 6 STILL RUNS AT 30 FPS — EVEN PS5 PRO CAN'T ESCAPE!",
+    "description": "Recent reporting indicates that Grand Theft Auto VI does not currently offer a 60 FPS mode on PS5 or PS5 Pro. Discussions surrounding console performance have highlighted Rockstar's emphasis on visual detail and world density rather than higher frame rates.",
+    "image_url": "https://github.com/akhileshgulia72-dotcom/gta6-news-server/blob/main/images/GTA%20VI%20Stuck%20at%2030%20FPS%20(1).png?raw=true",
+    "source": "Kotaku, November 18, 2026",
+    "article_content": "THE PS5 PRO IS POWERFUL, BUT VICE CITY IS STILL LOCKED AT 30 FPS!\n\nGrand Theft Auto VI's console performance has become a major discussion among players following the game's launch.\n\nRecent reporting suggests that GTA VI does not currently provide a 60 FPS mode, even on the PlayStation 5 Pro.\n\nThe game's demanding visuals, environment density and technical design appear to be major factors behind its performance target, although Rockstar has not announced a new performance mode.\n\nPlayers hoping for a higher frame-rate option may have to wait for future updates or platform developments. No official announcement has confirmed that a 60 FPS mode is coming.\n\n🎮 Game: Grand Theft Auto VI\n🕹️ Platforms: PS5 and Xbox Series X|S\n🎯 Reported Performance Target: 30 FPS\n🔥 PS5 Pro: No 60 FPS Mode Currently Reported\n📅 Report: November 18, 2026\n⚠️ Future Performance Updates: Unconfirmed\n\n💬 Bro bought a PS5 Pro, upgraded his entire setup and still gets 30 FPS. Rockstar said cinematic experience, not cinematic smoothness!",
+    "category": "GTA 6 Gameplay",
+    "published_at": "2026-11-20T22:00:00Z",
+    "is_featured": true
+  },
+  {
     "id": 239,
     "created_at": "2026-11-20T00:36:00+05:30",
     "title": "🏆 GTA 6 SCORES A HISTORIC 99 — ROCKSTAR JUST DROPPED A MASTERPIECE!",
@@ -322,41 +358,6 @@
     "category": "GTA 6 Music",
     "published_at": "2026-11-11T20:00:00Z",
     "is_featured": true
-  },
-         {
-    "id": 212,
-    "created_at": "2026-11-10T22:58:00+05:30",
-    "title": "🚨 GTA 6 PRE-LOAD IS OFFICIALLY LIVE — VICE CITY DOWNLOAD STARTS NOW!",
-    "description": "Rockstar Games has officially confirmed that Grand Theft Auto VI pre-loading is now available for players who pre-ordered digitally. Players with code-in-box editions can also begin downloading after receiving and activating their codes. The game is scheduled to launch on November 19, 2026.",
-    "image_url": "https://github.com/akhileshgulia72-dotcom/gta6-news-server/blob/main/images/Vice%20City%20Pre-Load%20Goes%20Live%20(1).png?raw=true",
-    "source": "Rockstar Games Newswire, November 10, 2026",
-    "article_content": "The wait is almost over! Rockstar Games has officially announced that Grand Theft Auto VI pre-loading is now available for digital pre-orders.\n\nPlayers who purchased GTA VI digitally can begin downloading the game ahead of its highly anticipated November 19 launch.\n\nRockstar has also confirmed that players who purchased code-in-box physical editions can activate their codes and start pre-loading as soon as they receive them.\n\nThis means players can prepare their consoles in advance instead of waiting for launch day to download the massive open-world adventure.\n\nWith Vice City just days away, the countdown has officially entered its final stage!\n\n📥 Pre-Load: Now Available\n🎮 Platforms: PS5 and Xbox Series X|S\n📦 Code-in-Box: Pre-Load After Code Activation\n🚀 Official Launch: November 19, 2026\n🔥 Announcement Date: November 10, 2026\n\nSource: Rockstar Games Newswire, November 10, 2026",
-    "category": "GTA 6 Updates",
-    "published_at": "2026-11-10T18:00:00Z",
-    "is_featured": true
-  },
-  {
-    "id": 213,
-    "created_at": "2026-11-10T22:58:00+05:30",
-    "title": "🎮 GTA 6 TARGETS 30 FPS — ROCKSTAR REVEALS PS5 PRO GRAPHICS FEATURES!",
-    "description": "Rockstar Games has revealed additional technical details about Grand Theft Auto VI. The game targets 30 frames per second on current-generation consoles, while PS5 Pro receives enhanced visual clarity through PSSR and ray-traced shadows. The announcement offers a closer look at Rockstar's graphical ambitions.",
-    "image_url": "https://github.com/akhileshgulia72-dotcom/gta6-news-server/blob/main/images/GTA%20VI%20Vice%20City%2030%20FPS%20Showcase%20(1).png?raw=true",
-    "source": "Rockstar Games Newswire, November 10, 2026",
-    "article_content": "Rockstar Games has finally shared more technical information about Grand Theft Auto VI, including an important detail about its performance target.\n\nAccording to Rockstar's November 10 announcement, GTA VI has been developed specifically for current-generation consoles and targets 30 frames per second.\n\nThe company says it is pushing both platforms to their limits while maintaining the density and visual fidelity of Leonida's environments and inhabitants.\n\nPlayStation 5 Pro owners will receive additional graphical improvements, including enhanced image clarity through PlayStation Spectral Super Resolution (PSSR) and ray-traced shadows.\n\nRockstar has also highlighted DualSense haptic feedback, spatial audio and improved loading times on PlayStation 5.\n\nThese details provide a clearer picture of the technical experience players can expect when GTA VI arrives.\n\n🎮 Performance Target: 30 FPS\n🖥️ Platforms: PS5 and Xbox Series X|S\n🔥 PS5 Pro: PSSR Enhanced Clarity\n🌑 PS5 Pro: Ray-Traced Shadows\n🎧 PS5: Tempest 3D Audio Support\n🎮 Controller: DualSense Haptic Feedback\n🚀 Launch: November 19, 2026\n\nSource: Rockstar Games Newswire, November 10, 2026",
-    "category": "GTA 6 Gameplay",
-    "published_at": "2026-11-10T19:00:00Z",
-    "is_featured": true
-  },
-  {
-    "id": 214,
-    "created_at": "2026-11-10T22:58:00+05:30",
-    "title": "☁️ GTA 6 COMING TO XBOX ONE — CLOUD GAMING MAKES IT POSSIBLE!",
-    "description": "Rockstar Games has confirmed that Grand Theft Auto VI will be available through Xbox Cloud Gaming on Xbox Series X|S and Xbox One consoles. Xbox One players will be able to access the game through cloud streaming, using Xbox Series S graphics settings. Performance will depend on internet connection quality.",
-    "image_url": "https://github.com/akhileshgulia72-dotcom/gta6-news-server/blob/main/images/GTA%20VI%20Cloud%20Gaming%20in%20Vice%20City%20(1).png?raw=true",
-    "source": "Rockstar Games Newswire, November 10, 2026",
-    "article_content": "An unexpected development has expanded the ways players can experience Grand Theft Auto VI.\n\nRockstar Games has confirmed that GTA VI will be available through Xbox Cloud Gaming on Xbox Series X|S and Xbox One consoles.\n\nThis is particularly interesting for Xbox One owners, because the game is not receiving a native Xbox One version. Instead, players will access the experience through cloud streaming.\n\nRockstar explains that the streamed version will use Xbox Series S graphics settings.\n\nThe company has also confirmed support for Remote Play on both PlayStation and Xbox, allowing players to stream gameplay from their own consoles to compatible devices.\n\nHowever, cloud gaming performance will depend on internet connection speeds and other technical factors.\n\n☁️ Cloud Gaming: Confirmed\n🎮 Supported Consoles: Xbox Series X|S and Xbox One\n🖥️ Streaming Graphics: Xbox Series S Settings\n📡 Performance: Depends on Internet Connection\n🎮 Remote Play: PlayStation and Xbox Supported\n🚀 GTA VI Launch: November 19, 2026\n\nSource: Rockstar Games Newswire, November 10, 2026",
-    "category": "GTA 6 Updates",
-    "published_at": "2026-11-10T20:00:00Z",
-    "is_featured": true
   }
+
 ]
