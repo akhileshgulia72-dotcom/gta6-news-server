@@ -1,15 +1,186 @@
 {
-  "version": 1,
+  "version": 2,
   "channel": "Vice World Gaming",
   "videos": [
-    {"id": "short-001", "title": "GTA 6 Premium Short", "creator": "Vice World Gaming", "youtubeId": "k5_WgQHv3l8"},
-    {"id": "short-002", "title": "Jason Duval & Lucia", "creator": "Vice World Gaming", "youtubeId": "v2DLSSyfioU"},
-    {"id": "short-003", "title": "Vice City Nights", "creator": "Vice World Gaming", "youtubeId": "lcq86jSJZhs"},
-    {"id": "short-004", "title": "GTA 6 Cinematic 004", "creator": "Vice World Gaming", "youtubeId": "7DCsdMedkl0"},
-    {"id": "short-005", "title": "GTA 6 Cinematic 005", "creator": "Vice World Gaming", "youtubeId": "0YQ2uYNFxPI"},
-    {"id": "short-006", "title": "GTA 6 Cinematic 006", "creator": "Vice World Gaming", "youtubeId": "_xVfVoRk8zA"},
-    {"id": "short-007", "title": "GTA 6 Cinematic 007", "creator": "Vice World Gaming", "youtubeId": "6ZZfpYMwads"},
-    {"id": "short-008", "title": "GTA 6 Cinematic 008", "creator": "Vice World Gaming", "youtubeId": "epxmuU7iJnM"},
-    {"id": "short-009", "title": "GTA 6 Cinematic 009", "creator": "Vice World Gaming", "youtubeId": "5v-exqBWLQY"}
+    {
+      "id": "short-001",
+      "title": "Grand Theft Auto VI: An Extended Look — Now Playing",
+      "creator": "Rockstar Games",
+      "youtubeId": "53C6gUqRpK4"
+    },
+    {
+      "id": "short-002",
+      "title": "GTA 6 VS GTA 5 - Car Jacking Comparison",
+      "creator": "Game Forensics",
+      "youtubeId": "mmpeqrhOSmg"
+    },
+    {
+      "id": "short-003",
+      "title": "GTA 6 vs GTA 5: 12 Years of Graphics Evolution 🤯🔥#GTA6 #GTA5 #shorts",
+      "creator": "DAX IS LIVE",
+      "youtubeId": "RmqkfQrqBdg"
+    },
+    {
+      "id": "short-004",
+      "title": "GTA VI - Grand Theft Auto VI Edit | M83 - Midnight City | Edit #shorts",
+      "creator": "Zireael",
+      "youtubeId": "06YQ1cHfIKQ"
+    },
+    {
+      "id": "short-005",
+      "title": "FIRST FIGHT IN GTA 6! 👊🔥 | GTA VI Gameplay #gta #gta6 #gtavi",
+      "creator": "Meda",
+      "youtubeId": "FS1OjabvIvc"
+    },
+    {
+      "id": "short-006",
+      "title": "I Found Chop in GTA 6 Screenshots 💀❤️‍🩹",
+      "creator": "OptiKat Gaming",
+      "youtubeId": "72a3b_QDFUk"
+    },
+    {
+      "id": "short-007",
+      "title": "GTA Gameplay 6 is so REALISTIC #gta6 #gtavi #gaming",
+      "creator": "Bombastic",
+      "youtubeId": "_UckhCj-KMI"
+    },
+    {
+      "id": "short-008",
+      "title": "My First Look At The GTA 6 Map 🤯 #GTA6 #GTAVI",
+      "creator": "Jelly",
+      "youtubeId": "oFmcYEwg3Fs"
+    },
+    {
+      "id": "short-009",
+      "title": "GTA 6 vs GTA 5 vs GTA 4 - Jumping Off Moving Vehicles🎯",
+      "creator": "Heist Heroes",
+      "youtubeId": "I9SglYeIb_Y"
+    },
+    {
+      "id": "short-010",
+      "title": "GTA 6 physics are incredible… until you notice Lucia’s glasses! 😂 #gta6 #gta #rockstargames #shorts",
+      "creator": "izzopk Video Game",
+      "youtubeId": "CIiOzs3_BX4"
+    },
+    {
+      "id": "short-011",
+      "title": "GTA 6 STEALING a Plane is EPIC #gta6 #gaming #gta #gtavi",
+      "creator": "Bombastic",
+      "youtubeId": "ia6zXmUfcS8"
+    },
+    {
+      "id": "short-012",
+      "title": "You Can Buy Groceries In GTA 6 #GTA6 #GTA",
+      "creator": "JoblessGarrett",
+      "youtubeId": "z7Q7UH9aVdU"
+    },
+    {
+      "id": "short-013",
+      "title": "POV NPC got slap in GTA 6... #gta #gta6 #GTAVI #RockstarGames #GTAOnline",
+      "creator": "DonKevs",
+      "youtubeId": "N4nzJwO78NQ"
+    },
+    {
+      "id": "short-014",
+      "title": "Train Physics | GTA 6 Vs GTA 5",
+      "creator": "DEADIX",
+      "youtubeId": "28c7uiYbiuM"
+    },
+    {
+      "id": "short-015",
+      "title": "POV: Lucia's special ability in GTA 6 be like #gta6 #shorts #lucia #gta5",
+      "creator": "Leonida Stunts",
+      "youtubeId": "gJns3DopxnY"
+    },
+    {
+      "id": "short-016",
+      "title": "Lucia street fighting in GTA 6 #gta6 #gtavi #gameplay",
+      "creator": "Shacknews",
+      "youtubeId": "MN-vG-NIcak"
+    },
+    {
+      "id": "short-017",
+      "title": "GTA 6 Trailer vs GTA 5 Comparison",
+      "creator": "Downtown Gaming",
+      "youtubeId": "mpNeFT-vAM8"
+    },
+    {
+      "id": "short-018",
+      "title": "GTA 5 vs GTA 6 – The Ultimate Comparison 🔥",
+      "creator": "Downtown Gaming",
+      "youtubeId": "DZeCd9m-Fnc"
+    },
+    {
+      "id": "short-019",
+      "title": "NEW GTA 6 GAMEPLAY IS CRAZY 😭",
+      "creator": "ShuffleGamer",
+      "youtubeId": "9XW9LVTzlBY"
+    },
+    {
+      "id": "short-020",
+      "title": "GTA 6 Details You Missed #shorts p8",
+      "creator": "Amarjit Singh",
+      "youtubeId": "mv2tjAMjpls"
+    },
+    {
+      "id": "short-021",
+      "title": "6 INSANE Graphical Details In GTA 6 😱 #gtavi",
+      "creator": "Lazy Assassin",
+      "youtubeId": "DSz8B4P4k2Q"
+    },
+    {
+      "id": "short-022",
+      "title": "GTA 6 Crazy Features 🔥",
+      "creator": "TechBurner Shorts",
+      "youtubeId": "hznL1WXuIok"
+    },
+    {
+      "id": "short-023",
+      "title": "GTA 6 Exciting New Features That You Must Know #shorts #gta #gta6 #gaming #gamers",
+      "creator": "Harsh Solanki",
+      "youtubeId": "Taw8oO7Uxpo"
+    },
+    {
+      "id": "short-024",
+      "title": "99% Of People Missed These GTA 6 Details",
+      "creator": "Awesome Genome",
+      "youtubeId": "0rOxIfOjF5c"
+    },
+    {
+      "id": "short-025",
+      "title": "Don't underestimate GTA 6 🔥💀 | Kuldeep Singhaniaa #shorts #gta6",
+      "creator": "Kuldeep Singhania Shorts",
+      "youtubeId": "y_NFD3N8Izo"
+    },
+    {
+      "id": "short-026",
+      "title": "GTA 6: CONFIRMED Features! | That you will see in GTA 6",
+      "creator": "Gaming Generation",
+      "youtubeId": "wjaq9hdihC4"
+    },
+    {
+      "id": "short-027",
+      "title": "5 Tiny GTA 6 Details You Can See in Gameplay #shorts",
+      "creator": "Six Stars Explained",
+      "youtubeId": "TJZxFjUMstQ"
+    },
+    {
+      "id": "short-028",
+      "title": "Top 5 Insane Details in GTA 6",
+      "creator": "GAMERANGE",
+      "youtubeId": "zjyhcIinpJQ"
+    },
+    {
+      "id": "short-029",
+      "title": "3 GTA 6 Features That Will Change Gaming History 😲",
+      "creator": "Awesome Genome",
+      "youtubeId": "aPmqIP7bek0"
+    },
+    {
+      "id": "short-030",
+      "title": "GTA 6 Trailer Is INSANE… Look Closer, Details you missed!",
+      "creator": "Gaming Generation",
+      "youtubeId": "UVmrJ5_Rsxs"
+    }
   ]
 }
