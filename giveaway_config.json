@@ -1,5 +1,6 @@
 {
-  "version": 1,
+  "version": 2,
+  "rulesYoutubeUrl": "",
   "scheduleLabel": "Winners announced every Sunday",
   "announcementTime": "8:00 PM IST",
   "title": "Weekly winner announcement",
