@@ -1,7 +1,7 @@
 {
-  "version": 4,
-  "updatedAt": "2026-11-21T09:26:33.934Z",
-  "editorialNote": "Six priority guides. Research checked 21 November 2026; publisher-reported mechanics, not independently play-tested. Artwork is illustrative.",
+  "version": 5,
+  "updatedAt": "2026-11-21T15:25:00+05:30",
+  "editorialNote": "Eleven priority guides. Research checked 21 November 2026; publisher-reported mechanics, not independently play-tested. Artwork is illustrative.",
   "categories": [
     {
       "id": "Money",
@@ -171,6 +171,136 @@
       "imageUrl": "https://raw.githubusercontent.com/akhileshgulia72-dotcom/gta6-news-server/refs/heads/main/images/Jason_and_Lucia_02.jpg",
       "imageCaption": "Illustrative GTA VI gallery artwork, not a walkthrough screenshot.",
       "order": 6,
+      "published": true,
+      "verified": true
+    },
+    {
+      "id": "focus-market-range",
+      "category": "Progress",
+      "title": "Max Focus efficiently at the Market Range",
+      "summary": "Turn a short repeatable shooting challenge into steady Focus progression instead of waiting for slow passive gains.",
+      "sourceUrl": "https://www.powerpyx.com/gta-6-tips-tricks/",
+      "guide": [
+        "WHEN TO USE: Early, when Focus slow-motion feels too short during firefights.",
+        "WHY IT MATTERS: PowerPyx identifies shooting-range challenges as a fast Focus method and specifically recommends the repeatable Market Range at Rodgers Ranch & Shooting Range.",
+        "BEST ROUTINE: Favor clean, repeatable runs over chasing one perfect score. The goal is reliable stat progress while also learning recoil and target switching.",
+        "AVOID: Grinding while low on supplies or ignoring normal story progression; use focused training sessions, then return to missions.",
+        "Research checked: 21 November 2026. Publisher-reported; not independently play-tested.",
+        "Source: https://www.powerpyx.com/gta-6-tips-tricks/"
+      ],
+      "steps": [
+        "Travel to Rodgers Ranch & Shooting Range and select the Market Range challenge.",
+        "Complete the short challenge, then replay it while improving accuracy and target transitions.",
+        "Check your Focus progress between sets and stop once the gain no longer justifies another run.",
+        "Practice activating Focus only for difficult shots so the larger meter lasts when it matters."
+      ],
+      "imageUrl": "https://raw.githubusercontent.com/akhileshgulia72-dotcom/gta6-news-server/refs/heads/main/images/Jason_and_Lucia_07.jpg",
+      "imageCaption": "Illustrative GTA VI gallery artwork, not a walkthrough screenshot.",
+      "order": 7,
+      "published": true,
+      "verified": true
+    },
+    {
+      "id": "vehicle-fuel-plan",
+      "category": "Survival",
+      "title": "Treat fuel as part of every escape plan",
+      "summary": "A fast vehicle is useless when its tank runs dry halfway through a pursuit or remote trip.",
+      "sourceUrl": "https://www.powerpyx.com/gta-6-tips-tricks/",
+      "guide": [
+        "WHEN TO USE: Before long drives, aircraft trips, remote exploration, or any robbery that depends on a getaway vehicle.",
+        "WHY IT MATTERS: PowerPyx reports that every vehicle type uses fuel, including aircraft, and a dry tank stops the vehicle.",
+        "PRACTICAL RULE: Check fuel before committing to the objective, identify a nearby station, and avoid selecting a nearly empty stolen vehicle for a planned escape.",
+        "AIRCRAFT NOTE: If an aircraft runs low far from a normal refuel option, return to a known spawn and switch aircraft before becoming stranded.",
+        "Research checked: 21 November 2026. Publisher-reported; not independently play-tested.",
+        "Source: https://www.powerpyx.com/gta-6-tips-tricks/"
+      ],
+      "steps": [
+        "Inspect the fuel level before leaving for a long route.",
+        "Mark a fuel station or safe replacement-vehicle area near the planned path.",
+        "Refuel before the mission marker rather than during active pursuit.",
+        "For aircraft, plan a return route around a reliable aircraft spawn."
+      ],
+      "imageUrl": "https://raw.githubusercontent.com/akhileshgulia72-dotcom/gta6-news-server/refs/heads/main/images/Jason_and_Lucia_09.jpg",
+      "imageCaption": "Illustrative GTA VI gallery artwork, not a walkthrough screenshot.",
+      "order": 8,
+      "published": true,
+      "verified": true
+    },
+    {
+      "id": "ryde-me-fast-travel",
+      "category": "Exploration",
+      "title": "Use RydeMe for deliberate fast travel",
+      "summary": "Skip repeated cross-map drives while keeping enough cash available for the next activity.",
+      "sourceUrl": "https://www.powerpyx.com/gta-6-tips-tricks/",
+      "guide": [
+        "WHEN TO USE: When the next objective is far away and the route contains no discovery or activity you currently need.",
+        "WHY IT MATTERS: PowerPyx reports that entering a taxi, looking at the driver with L2/LT, and holding Triangle/Y skips the ride for a fee starting at $100; longer trips cost more.",
+        "SMART USE: Fast-travel to distant activity clusters, then explore each cluster locally on foot or in your personal vehicle.",
+        "AVOID: Skipping every journey. Driving still reveals roads, encounters, WAiNK prompts and useful vehicle spawns.",
+        "Research checked: 21 November 2026. Publisher-reported; not independently play-tested.",
+        "Source: https://www.powerpyx.com/gta-6-tips-tricks/"
+      ],
+      "steps": [
+        "Set the distant destination and request a taxi through RydeMe.",
+        "Enter the taxi, look toward the driver with L2/LT, then hold Triangle/Y.",
+        "Confirm the price and skip only when the time saved is worth the cash.",
+        "Explore the destination area normally before fast-travelling again."
+      ],
+      "imageUrl": "https://raw.githubusercontent.com/akhileshgulia72-dotcom/gta6-news-server/refs/heads/main/images/Jason_and_Lucia_10.jpg",
+      "imageCaption": "Illustrative GTA VI gallery artwork, not a walkthrough screenshot.",
+      "order": 9,
+      "published": true,
+      "verified": true
+    },
+    {
+      "id": "phone-discovery-loop",
+      "category": "Exploration",
+      "title": "Turn phone apps into a discovery radar",
+      "summary": "Snapmatic and News can reveal points of interest that ordinary road exploration may never mark.",
+      "sourceUrl": "https://www.powerpyx.com/gta-6-tips-tricks/",
+      "guide": [
+        "WHEN TO USE: After completing missions, entering a new region, or when the map feels empty despite unfinished collections.",
+        "WHY IT MATTERS: PowerPyx reports that checking Snapmatic and News can add points of interest, while WAiNK prompts scan vehicles and other discoveries.",
+        "DISCOVERY LOOP: Check the apps, enable useful collectible or criminal-profile notifications, then filter the map to one activity type so new markers do not become clutter.",
+        "AVOID: Trying to clear every marker simultaneously. A single filtered category creates a faster route and makes missing entries obvious.",
+        "Research checked: 21 November 2026. Publisher-reported; not independently play-tested.",
+        "Source: https://www.powerpyx.com/gta-6-tips-tricks/"
+      ],
+      "steps": [
+        "Open Snapmatic and News after major story progress and inspect new posts.",
+        "Respond to WAiNK prompts while walking or approaching an unfamiliar vehicle.",
+        "Open map filters and select one collectible or activity category.",
+        "Complete a regional sweep, then verify progress in the Collections menu."
+      ],
+      "imageUrl": "https://raw.githubusercontent.com/akhileshgulia72-dotcom/gta6-news-server/refs/heads/main/images/Jason_and_Lucia_11.jpg",
+      "imageCaption": "Illustrative GTA VI gallery artwork, not a walkthrough screenshot.",
+      "order": 10,
+      "published": true,
+      "verified": true
+    },
+    {
+      "id": "fitness-protein-cycle",
+      "category": "Progress",
+      "title": "Build health and stamina with a recovery cycle",
+      "summary": "Train consistently, then use protein and normal rest so workouts improve stats instead of becoming wasted repetition.",
+      "sourceUrl": "https://www.powerpyx.com/gta-6-tips-tricks/",
+      "guide": [
+        "WHEN TO USE: Between missions, especially when low survivability or stamina makes combat and escapes harder.",
+        "WHY IT MATTERS: PowerPyx reports that workouts improve health and stamina, while protein after exercise reduces recovery time. Repeated sleeping without eating or training can hurt stats.",
+        "EFFICIENT ROUTINE: Do a compact workout, consume protein, continue normal activities, and return when the character has recovered rather than repeatedly sleeping to force time forward.",
+        "AVOID: Treating sleep as the entire progression method or stacking workouts while recovery is still active.",
+        "Research checked: 21 November 2026. Publisher-reported; not independently play-tested.",
+        "Source: https://www.powerpyx.com/gta-6-tips-tricks/"
+      ],
+      "steps": [
+        "Use available training equipment for a focused workout.",
+        "Consume a protein item immediately afterward to shorten recovery.",
+        "Eat normally and complete missions or activities while recovery runs.",
+        "Return for the next effective session instead of repeatedly sleeping through the day."
+      ],
+      "imageUrl": "https://raw.githubusercontent.com/akhileshgulia72-dotcom/gta6-news-server/refs/heads/main/images/Jason_and_Lucia_12.jpg",
+      "imageCaption": "Illustrative GTA VI gallery artwork, not a walkthrough screenshot.",
+      "order": 11,
       "published": true,
       "verified": true
     }
