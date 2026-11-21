@@ -1,0 +1,327 @@
+{
+  "schemaVersion": 2,
+  "updatedAt": "2026-11-21T12:00:00+05:30",
+  "heroImageUrl": "https://raw.githubusercontent.com/akhileshgulia72-dotcom/gta6-news-server/main/images/Jason_and_Lucia_02.jpg",
+  "entries": [
+    {
+      "id": "hidden-skunk-ape",
+      "type": "hidden_location",
+      "category": "Mystery Encounter",
+      "title": "Track the Skunk Ape Across Gambit Bay",
+      "summary": "A repeatable route to one of Leonida's strangest wilderness encounters, including the clue that continues the mystery.",
+      "imageUrl": "https://raw.githubusercontent.com/akhileshgulia72-dotcom/gta6-news-server/main/images/Jason_and_Lucia_03.jpg",
+      "location": "The inner peninsula across Gambit Bay from Jason's first house",
+      "details": [
+        "Take Jason's boat from the dock outside his initial home and aim for the dead-end road on the inside edge of the peninsula across the bay.",
+        "The encounter announces itself before landing: a prompt asks you to use Focus Mode to follow the noise. Keep reactivating Focus as the creature runs into the mangroves.",
+        "The trail ends at a disturbing effigy beside a tree. After the sighting, scan storefronts and telephone poles for Skunk Ape flyers; they connect the encounter to a later mission."
+      ],
+      "steps": [
+        "Use Jason's docked boat and cross Gambit Bay toward the peninsula's dead-end road.",
+        "When the audio prompt appears, activate Focus Mode and follow the highlighted trail inland.",
+        "Inspect the effigy, then look for Skunk Ape flyers around Leonida to continue the chain."
+      ],
+      "code": "",
+      "platform": "PS5 / Xbox Series X|S",
+      "sourceUrl": "https://www.pcgamer.com/games/grand-theft-auto/gta-6-bigfoot-location-skunk-ape/",
+      "verifiedAt": "21 Nov 2026",
+      "verified": true,
+      "published": true,
+      "enabled": true,
+      "order": 10
+    },
+    {
+      "id": "hidden-airport-aircraft",
+      "type": "hidden_location",
+      "category": "Vehicle Discovery",
+      "title": "Vice City International Aircraft Yard",
+      "summary": "Reach the commercial aircraft apron and leave with a flyable jet without getting trapped by ground equipment.",
+      "imageUrl": "https://raw.githubusercontent.com/akhileshgulia72-dotcom/gta6-news-server/main/images/Jason_and_Lucia_04.jpg",
+      "location": "VCIA, west Vice-Dale County, southwest of central Vice City",
+      "details": [
+        "On the world map, identify the airport by its two large wedge-shaped runways. Commercial aircraft are parked around the terminal and apron.",
+        "Reverse away from the stand before turning. Baggage and support vehicles can wedge beneath the wings or landing gear if you try to pivot immediately.",
+        "The apron is also a reliable place to discover ground vehicles including the Brute Ripley and HVY Airtug, while the central terminal contains ATMs."
+      ],
+      "steps": [
+        "Approach VCIA from the southwest side of the city and locate the aircraft apron.",
+        "Choose a parked aircraft and clear its rear path before entering.",
+        "Reverse in a straight line, then turn toward the nearest runway for takeoff."
+      ],
+      "code": "",
+      "platform": "PS5 / Xbox Series X|S",
+      "sourceUrl": "https://www.pcgamer.com/games/grand-theft-auto/gta-6-airport-location/",
+      "verifiedAt": "21 Nov 2026",
+      "verified": true,
+      "published": true,
+      "enabled": true,
+      "order": 20
+    },
+    {
+      "id": "hidden-police-trunk-cache",
+      "type": "hidden_location",
+      "category": "Gear Cache",
+      "title": "Police Trunks Hide Free Tactical Gear",
+      "summary": "Police vehicles can supply shotguns, assault rifles, armor and ammo if you open the right storage compartment safely.",
+      "imageUrl": "https://raw.githubusercontent.com/akhileshgulia72-dotcom/gta6-news-server/main/images/Jason_and_Lucia_05.jpg",
+      "location": "Police stations and parked law-enforcement vehicles in Vice City or Port Gellhorn",
+      "details": [
+        "Police pickup beds can contain unlocked storage crates with weapons, ammunition and occasional Stun Guns. They can be looted without triggering a vehicle alarm.",
+        "Cruiser trunks are alarmed. The Slim Jim earned during the Chapter 2 mission Moses unlocks a cruiser door and silently releases its trunk; forcing the trunk earlier triggers the alarm.",
+        "Move long guns into your personal vehicle's trunk afterward. Openly carrying them makes you conspicuous and can attract police attention."
+      ],
+      "steps": [
+        "Scan the vehicle with WAiNK first to check its alarm and access requirements.",
+        "For a cruiser, use the Slim Jim on a door before opening the trunk; for a police pickup, climb into the bed and open its crate.",
+        "Transfer valuable gear to your owned personal vehicle instead of carrying every long gun openly."
+      ],
+      "code": "",
+      "platform": "PS5 / Xbox Series X|S",
+      "sourceUrl": "https://www.pcgamer.com/games/grand-theft-auto/gta-6-free-guns-cop-cars/",
+      "verifiedAt": "21 Nov 2026",
+      "verified": true,
+      "published": true,
+      "enabled": true,
+      "order": 30
+    },
+    {
+      "id": "hidden-snap-gun",
+      "type": "hidden_location",
+      "category": "Burglary Tool",
+      "title": "Unlock the Snap Gun and Silent Back Rooms",
+      "summary": "Use Yasmani's Chapter 3 tool to bypass secured doors and reach alarm controls before committing to a robbery.",
+      "imageUrl": "https://raw.githubusercontent.com/akhileshgulia72-dotcom/gta6-news-server/main/images/Jason_and_Lucia_06.jpg",
+      "location": "Yasmani, after the Chapter 3 jewelry heist in Dubious Provenance",
+      "details": [
+        "The Snap Gun opens compatible locked doors but does not automatically neutralize a building alarm. Treat it as a quiet access tool, not a complete stealth solution.",
+        "When the lock interface appears, move the left stick until the tension reaches the sweet spot, then hold the right trigger to fill the release meter.",
+        "Prioritize staff entrances and back-office doors. Reaching the security office first can let you disable the alarm before kicking doors, smashing cases or confronting employees."
+      ],
+      "steps": [
+        "Complete the Chapter 3 jewelry-heist sequence and meet Yasmani during Dubious Provenance.",
+        "Equip the Snap Gun at a compatible door and select Use snap gun.",
+        "Find the tension sweet spot with the left stick, then hold the right trigger until the lock releases."
+      ],
+      "code": "",
+      "platform": "PS5 / Xbox Series X|S",
+      "sourceUrl": "https://www.pcgamer.com/games/grand-theft-auto/gta-6-snap-gun/",
+      "verifiedAt": "21 Nov 2026",
+      "verified": true,
+      "published": true,
+      "enabled": true,
+      "order": 40
+    },
+    {
+      "id": "pro-wanted-evasion",
+      "type": "gameplay_tip",
+      "category": "Wanted System",
+      "title": "Break Recognition, Not Just Line of Sight",
+      "summary": "GTA 6 remembers your clothes and vehicle after the immediate chase. A complete escape therefore needs a second phase.",
+      "imageUrl": "https://raw.githubusercontent.com/akhileshgulia72-dotcom/gta6-news-server/main/images/Jason_and_Lucia_07.jpg",
+      "location": "Any escape route with cover, intersections and access to your personal vehicle",
+      "details": [
+        "Police are not shown as simple moving dots on the radar. Read awareness and threat indicators, watch road geometry and use hard corners to make pursuing vehicles overshoot.",
+        "After losing direct pursuit, your description may remain active. Police can identify your clothes and car, so continuing in the same vehicle and outfit risks restarting the chase.",
+        "Store up to five alternate outfits in your personal vehicle. Pull into cover, change clothes from the trunk and switch vehicles when possible; K9 units can punish a static hiding spot."
+      ],
+      "steps": [
+        "Use successive sharp turns, elevation changes and solid cover to break direct awareness.",
+        "Stop out of sight, open your personal vehicle trunk and change into a stored outfit.",
+        "Leave the identified vehicle behind or alter your route before returning to populated streets."
+      ],
+      "code": "",
+      "platform": "PS5 / Xbox Series X|S",
+      "sourceUrl": "https://www.pcgamer.com/games/grand-theft-auto/your-gta-6-car-is-your-red-dead-2-horse-and-its-perfect/",
+      "verifiedAt": "21 Nov 2026",
+      "verified": true,
+      "published": true,
+      "enabled": true,
+      "order": 50
+    },
+    {
+      "id": "pro-loadout-planning",
+      "type": "gameplay_tip",
+      "category": "Combat Preparation",
+      "title": "Build a Mission Loadout From Your Trunk",
+      "summary": "The two-long-gun limit makes preparation more valuable than collecting every weapon on your character.",
+      "imageUrl": "https://raw.githubusercontent.com/akhileshgulia72-dotcom/gta6-news-server/main/images/Jason_and_Lucia_08.jpg",
+      "location": "Your owned personal vehicle, before entering a mission or restricted area",
+      "details": [
+        "Only two long guns can be equipped on your back, while oversized melee weapons and reserve equipment live in the personal vehicle trunk.",
+        "Match the pair to the objective: a suppressed close-range weapon plus a rifle is flexible; a shotgun plus precision rifle is stronger when stealth has already failed.",
+        "Scan unknown vehicles and containers before forcing them. WAiNK can reveal alarm state, while unlocked trunks may provide cash, drugs, consumables or emergency ammunition."
+      ],
+      "steps": [
+        "Read the mission environment and decide whether the likely engagement is stealth, interiors or long-range.",
+        "Equip only the two appropriate long guns and store the rest in your owned vehicle.",
+        "Park outside the immediate threat area so the trunk remains reachable during preparation or retreat."
+      ],
+      "code": "",
+      "platform": "PS5 / Xbox Series X|S",
+      "sourceUrl": "https://www.pcgamer.com/games/grand-theft-auto/your-gta-6-car-is-your-red-dead-2-horse-and-its-perfect/",
+      "verifiedAt": "21 Nov 2026",
+      "verified": true,
+      "published": true,
+      "enabled": true,
+      "order": 60
+    },
+    {
+      "id": "pro-cash-storage",
+      "type": "gameplay_tip",
+      "category": "Money Strategy",
+      "title": "Split Cash, Contraband and Bank Funds",
+      "summary": "Banking everything is safe but can lock you out of spontaneous paid encounters; carrying everything exposes too much value.",
+      "imageUrl": "https://raw.githubusercontent.com/akhileshgulia72-dotcom/gta6-news-server/main/images/Jason_and_Lucia_09.jpg",
+      "location": "Banks, ATMs, Jason's stash and your personal vehicle trunk",
+      "details": [
+        "Keep a modest cash reserve for bribes, pool games and random encounters that require payment in the moment, while depositing the bulk after a profitable job.",
+        "Store stolen jewelry, drugs and marked bills in the trunk of an owned personal vehicle. Contraband in an impounded owned car remains recoverable, but goods left in a disposable stolen car can disappear with it.",
+        "Before experimenting with risky tactics or cheats, create a separate manual save from Pause > Game > Save so your main progression remains clean."
+      ],
+      "steps": [
+        "Deposit most mission proceeds, but retain several hundred dollars for world opportunities.",
+        "Move unsold contraband into your owned vehicle instead of an arbitrary stolen car.",
+        "Create a new manual save slot before a high-risk robbery or cheat session."
+      ],
+      "code": "",
+      "platform": "PS5 / Xbox Series X|S",
+      "sourceUrl": "https://www.pcgamer.com/games/grand-theft-auto/gta-6-bank-cash/",
+      "verifiedAt": "21 Nov 2026",
+      "verified": true,
+      "published": true,
+      "enabled": true,
+      "order": 70
+    },
+    {
+      "id": "pro-fast-travel-discovery",
+      "type": "gameplay_tip",
+      "category": "Exploration Efficiency",
+      "title": "Use RydeMe Without Missing Discoveries",
+      "summary": "Combine fast travel with deliberate scanning so the map fills quickly without skipping the systems that unlock locations and collectibles.",
+      "imageUrl": "https://raw.githubusercontent.com/akhileshgulia72-dotcom/gta6-news-server/main/images/Jason_and_Lucia_10.jpg",
+      "location": "Across Vice City and greater Leonida",
+      "details": [
+        "Call a taxi through RydeMe, enter, look toward the driver with L2/LT and hold Triangle/Y to skip the journey. The base fast-travel fee is $100 and rises over longer distances.",
+        "Between taxi jumps, scan vehicles by holding D-pad Up at the WAiNK prompt and study animals through binoculars with R1/RB. These actions feed collections instead of merely revealing roads.",
+        "Enable collectible and criminal-profile notifications, and use map filters to isolate the activity type you are currently completing."
+      ],
+      "steps": [
+        "Choose a distant activity cluster, then call RydeMe and fast-travel to its nearest discovered point.",
+        "Survey the surrounding blocks on foot, responding to WAiNK, binocular and conversation prompts.",
+        "Check Progress > Collections and clear one category at a time using the matching map filter."
+      ],
+      "code": "",
+      "platform": "PS5 / Xbox Series X|S",
+      "sourceUrl": "https://www.powerpyx.com/gta-6-tips-tricks/",
+      "verifiedAt": "21 Nov 2026",
+      "verified": true,
+      "published": true,
+      "enabled": true,
+      "order": 80
+    },
+    {
+      "id": "cheat-body-armor",
+      "type": "advanced_cheat",
+      "category": "Survival Cheat",
+      "title": "Instant Body Armor",
+      "summary": "Adds body armor to the current loadout after completing its fitness challenge and the main story.",
+      "imageUrl": "https://raw.githubusercontent.com/akhileshgulia72-dotcom/gta6-news-server/main/images/Jason_and_Lucia_11.jpg",
+      "location": "Free roam after completing all main story missions",
+      "details": [
+        "Unlock requirement: complete 100 workouts. The Cheats menu only becomes available after Jason and Lucia's main story is complete.",
+        "Safety warning: activating any cheat disables saving and Trophies/Achievements for that play session. Use a separate manual save first and restart the game to return to normal progression."
+      ],
+      "steps": [
+        "Open the phone with D-pad Up while in free roam.",
+        "Hold L1 + R1 on PS5 or LB + RB on Xbox together.",
+        "Enter the direction sequence exactly as displayed below."
+      ],
+      "code": "DOWN, UP, LEFT, UP, UP, UP, UP, UP, DOWN, DOWN",
+      "platform": "PS5 / Xbox Series X|S",
+      "sourceUrl": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-cheats/",
+      "verifiedAt": "21 Nov 2026",
+      "verified": true,
+      "published": true,
+      "enabled": true,
+      "order": 90
+    },
+    {
+      "id": "cheat-max-ammo",
+      "type": "advanced_cheat",
+      "category": "Combat Cheat",
+      "title": "Refill Maximum Ammunition",
+      "summary": "Restocks every carried weapon to its maximum capacity after earning the shooting-range requirement.",
+      "imageUrl": "https://raw.githubusercontent.com/akhileshgulia72-dotcom/gta6-news-server/main/images/Jason_and_Lucia_12.jpg",
+      "location": "Free roam after completing all main story missions",
+      "details": [
+        "Unlock requirement: earn 25 Bronze medals or better at shooting ranges, then finish the main story to expose the Cheats menu.",
+        "This is a one-time refill, not infinite ammunition. Activating it disables saves and Trophies/Achievements for the active session."
+      ],
+      "steps": [
+        "Open the phone with D-pad Up while in free roam.",
+        "Hold L1 + R1 on PS5 or LB + RB on Xbox together.",
+        "Enter the direction sequence, then verify the ammunition counters before starting combat."
+      ],
+      "code": "DOWN, UP, RIGHT, DOWN, LEFT, LEFT, UP, UP, DOWN, LEFT",
+      "platform": "PS5 / Xbox Series X|S",
+      "sourceUrl": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-cheats/",
+      "verifiedAt": "21 Nov 2026",
+      "verified": true,
+      "published": true,
+      "enabled": true,
+      "order": 100
+    },
+    {
+      "id": "cheat-infinite-ammo",
+      "type": "advanced_cheat",
+      "category": "Combat Cheat",
+      "title": "Infinite Ammunition",
+      "summary": "Stops reserve ammunition from running out, while normal magazine reloads still apply.",
+      "imageUrl": "https://raw.githubusercontent.com/akhileshgulia72-dotcom/gta6-news-server/main/images/Jason_and_Lucia_13.jpg",
+      "location": "Free roam after completing all main story missions",
+      "details": [
+        "Unlock requirement: earn 25 Silver medals or better at shooting ranges and complete the main story.",
+        "Do not confuse this with No Reload: Infinite Ammo preserves reserves, but weapon magazines still cycle. Saves and Trophies/Achievements remain disabled until the session is restarted."
+      ],
+      "steps": [
+        "Open the phone with D-pad Up while in free roam.",
+        "Hold L1 + R1 on PS5 or LB + RB on Xbox together.",
+        "Enter the sequence and test it only in a disposable, unsaved session."
+      ],
+      "code": "DOWN, UP, RIGHT, DOWN, LEFT, LEFT, UP, DOWN, DOWN, DOWN",
+      "platform": "PS5 / Xbox Series X|S",
+      "sourceUrl": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-cheats/",
+      "verifiedAt": "21 Nov 2026",
+      "verified": true,
+      "published": true,
+      "enabled": true,
+      "order": 110
+    },
+    {
+      "id": "cheat-cycle-weather",
+      "type": "advanced_cheat",
+      "category": "World Cheat",
+      "title": "Cycle Leonida's Weather",
+      "summary": "Rotates through weather states for cinematic exploration, photography and controlled vehicle testing.",
+      "imageUrl": "https://raw.githubusercontent.com/akhileshgulia72-dotcom/gta6-news-server/main/images/Jason_and_Lucia_14.jpg",
+      "location": "Free roam after completing all main story missions",
+      "details": [
+        "Unlock requirement: reveal the entire map, then complete the main story so the Cheats menu is available.",
+        "Use this for photo sessions or handling comparisons, not a progression save. Like every cheat, it disables saving and Trophies/Achievements for the current session."
+      ],
+      "steps": [
+        "Open the phone with D-pad Up while in free roam.",
+        "Hold L1 + R1 on PS5 or LB + RB on Xbox together.",
+        "Repeat the sequence to step through available weather presets."
+      ],
+      "code": "DOWN, RIGHT, UP, DOWN, RIGHT, UP, RIGHT",
+      "platform": "PS5 / Xbox Series X|S",
+      "sourceUrl": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-cheats/",
+      "verifiedAt": "21 Nov 2026",
+      "verified": true,
+      "published": true,
+      "enabled": true,
+      "order": 120
+    }
+  ]
+}
