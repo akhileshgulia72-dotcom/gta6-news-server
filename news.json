@@ -1,5 +1,41 @@
 [
   {
+    "id": 248,
+    "created_at": "2026-11-23T22:19:00+05:30",
+    "title": "💰 GTA 6 OFFICIALLY MAKES $3.79 BILLION ON DAY ONE — ROCKSTAR DESTROYS ENTERTAINMENT RECORDS!",
+    "description": "Rockstar Games has officially confirmed that Grand Theft Auto VI generated $3.79 billion in day-one retail sales, making it the biggest entertainment launch in history. The company also reported 32.5 million copies sold before release, setting an unprecedented pre-launch record.",
+    "image_url": "https://github.com/akhileshgulia72-dotcom/gta6-news-server/blob/main/images/GTA%20VI%E2%80%99s%20Billion-Dollar%20Launch%20(1).png?raw=true",
+    "source": "Rockstar Games and Take-Two Interactive, November 20, 2026",
+    "article_content": "ROCKSTAR HAS OFFICIALLY UNLOCKED BILLIONAIRE MODE!\n\nGrand Theft Auto VI has officially become the biggest entertainment launch in history, according to Rockstar Games and Take-Two Interactive.\n\nThe company announced that GTA VI generated approximately $3.79 billion in day-one retail sales, setting a new record across the entertainment industry.\n\nRockstar also reported that the game sold approximately 32.5 million copies before its official release, establishing a massive pre-launch milestone.\n\nThe launch figures reportedly surpass major entertainment releases across movies, music and gaming, demonstrating the extraordinary demand surrounding GTA VI.\n\nAfter more than 13 years since GTA V, Rockstar has delivered a launch that has completely changed expectations for blockbuster entertainment releases.\n\n💰 Day-One Retail Sales: $3.79 Billion\n📦 Pre-Launch Sales: 32.5 Million Copies\n🏆 Record: Biggest Entertainment Launch in History\n🎮 Game: Grand Theft Auto VI\n🏢 Developer: Rockstar Games\n🏢 Parent Company: Take-Two Interactive\n📅 Announcement: November 20, 2026\n\n💬 Players are stealing cars in Vice City, while Rockstar has apparently stolen the entire entertainment industry's sales record!",
+    "category": "GTA 6 Business",
+    "published_at": "2026-11-23T19:20:00Z",
+    "is_featured": true
+},
+{
+    "id": 249,
+    "created_at": "2026-11-23T22:19:00+05:30",
+    "title": "💀 GTA 6 GETS REVIEW-BOMBED ON METACRITIC — THE INTERNET CAN'T LET ROCKSTAR ENJOY A WIN!",
+    "description": "Grand Theft Auto VI is facing review-bombing activity on Metacritic, with negative user reviews drawing attention amid the game's extraordinary launch. Review-bombing can distort user-score trends, making it difficult to separate genuine criticism from coordinated reactions.",
+    "image_url": "https://github.com/akhileshgulia72-dotcom/gta6-news-server/blob/main/images/GTA%20VI%20Review%20Bombed%20on%20Metacritic%20(1).png?raw=true",
+    "source": "Forbes, November 23, 2026",
+    "article_content": "GTA VI IS BREAKING RECORDS, BUT SOME PEOPLE HAVE OTHER MISSIONS!\n\nGrand Theft Auto VI has reportedly been experiencing review-bombing activity on Metacritic, with a wave of negative user reviews drawing attention just days after its launch.\n\nReview-bombing generally involves users posting large numbers of negative reviews, sometimes in response to controversies or disagreements unrelated to the game's core quality.\n\nThe activity has sparked discussions about the reliability of user-review scores during the early days of major game launches.\n\nWhile players can legitimately criticize gameplay, performance or other aspects of a game, coordinated review activity can make it harder to understand the broader player experience.\n\nGTA VI has already attracted enormous commercial and critical attention, and the ongoing user-score debate is adding another layer to its launch-week discussions.\n\n🎮 Game: Grand Theft Auto VI\n📊 Platform: Metacritic\n⚠️ Issue: Reported Review-Bombing Activity\n📅 Report: November 23, 2026\n🔥 Status: User Reviews and Community Debate\n\n💬 Rockstar broke entertainment records, and the internet immediately started a side quest called 'Give It One Star.'",
+    "category": "GTA 6 Updates",
+    "published_at": "2026-11-23T20:02:00Z",
+    "is_featured": true
+},
+{
+    "id": 250,
+    "created_at": "2026-11-23T22:19:00+05:30",
+    "title": "🚨 GTA 6 LEAKER SENTENCED — THE HACKER BEHIND ROCKSTAR'S NIGHTMARE FINALLY FACES CONSEQUENCES!",
+    "description": "Arion Kurtaj, the hacker behind the high-profile Rockstar Games cyberattack that leaked early GTA VI footage, has been sentenced in connection with a wider cybercrime spree. The case highlights the security risks surrounding major game studios and the impact of high-profile leaks.",
+    "image_url": "https://github.com/akhileshgulia72-dotcom/gta6-news-server/blob/main/images/GTA%206%20Leaker%20Sentenced%20in%20Court%20(1).png?raw=true",
+    "source": "Sky News, November 23, 2026",
+    "article_content": "THE GTA VI LEAK STORY HAS ANOTHER MAJOR CHAPTER!\n\nArion Kurtaj, the hacker associated with the high-profile cyberattack on Rockstar Games that exposed early Grand Theft Auto VI footage, has been sentenced in connection with a broader cybercrime spree.\n\nThe case involved hacking incidents targeting several major companies, including Rockstar Games, BT, Revolut and Uber.\n\nKurtaj previously admitted involvement in the attacks, which attracted significant attention because of the leaked GTA VI material and the impact on Rockstar Games' security.\n\nThe incident became one of the most widely discussed video-game leaks in recent years, with early footage spreading across social media before Rockstar officially revealed more of the game.\n\nThe latest sentencing report brings renewed attention to the consequences of high-profile cybercrime and the security challenges faced by major entertainment companies.\n\n🎮 Game: Grand Theft Auto VI\n🏢 Target Company: Rockstar Games\n👤 Hacker: Arion Kurtaj\n⚖️ Development: Sentencing Report\n📅 Reported: November 23, 2026\n🔐 Topic: Cybercrime and Game Leaks\n\n💬 Bro leaked GTA 6 before launch and ended up unlocking a real-life wanted level with the justice system!",
+    "category": "GTA 6 Updates",
+    "published_at": "2026-11-23T21:06:00Z",
+    "is_featured": true
+},
+  {
     "id": 245,
     "created_at": "2026-11-22T03:05:00+05:30",
     "title": "👀 GTA 6 PLAYERS ARE FINDING HIDDEN DETAILS ROCKSTAR NEVER SHOWED — VICE CITY IS WILD!",
@@ -322,42 +358,6 @@
     "category": "GTA 6 Updates",
     "published_at": "2026-11-13T20:00:00Z",
     "is_featured": true
-  },
-          {
-    "id": 218,
-    "created_at": "2026-11-13T01:31:00+05:30",
-    "title": "🌐 GTA 6 BREAKS INTERNET RECORDS — PRE-LOAD CRASHES NETWORKS!",
-    "description": "Grand Theft Auto VI pre-loading has triggered record-breaking internet traffic as millions of players download the massive game ahead of launch. Virgin Media O2 reported its highest-ever daily broadband data usage on November 10, with peak traffic exceeding its previous record by 3.8%.",
-    "image_url": "https://github.com/akhileshgulia72-dotcom/gta6-news-server/blob/main/images/GTA%20VI%20Pre-Load%20Breaks%20Internet%20Records%20(1).png?raw=true",
-    "source": "Virgin Media O2, November 11, 2026; NDTV, November 12, 2026",
-    "article_content": "GTA VI is already making history before players can even enter Vice City! The massive pre-load campaign has pushed internet networks to unprecedented levels as millions of fans prepare for launch.\n\nVirgin Media O2 reported record-breaking activity on November 10, when GTA VI pre-loading began. Its UK broadband network recorded its highest-ever daily data volume, surpassing the previous record set during Fortnite's Chapter 7 Mini Season launch.\n\nPeak broadband traffic also exceeded the previous record, established during an Arsenal vs Atletico Madrid Champions League match, by 3.8%.\n\nThe enormous download requirement and simultaneous demand from players have made GTA VI one of the biggest gaming-related internet traffic events ever reported.\n\n🌐 Network: Virgin Media O2\n📊 Peak Traffic: 3.8% Above Previous Record\n📅 Record Date: November 10, 2026\n💾 Reported Download Requirement: Up to 212GB\n🎮 Platforms: PS5 and Xbox Series X|S\n🚀 Launch: November 19, 2026\n\nSource: Virgin Media O2 and NDTV, November 2026",
-    "category": "GTA 6 Updates",
-    "published_at": "2026-11-12T19:00:00Z",
-    "is_featured": true
-  },
-  {
-    "id": 219,
-    "created_at": "2026-11-13T01:31:00+05:30",
-    "title": "🎮 LOGITECH GIVES 7,000 EMPLOYEES A DAY OFF FOR GTA 6!",
-    "description": "Logitech has introduced Logi Game Day, giving approximately 7,000 employees a paid day off to enjoy video games. The announcement comes just before GTA VI's November 19 launch, and employees are free to use their gaming day to explore Vice City.",
-    "image_url": "https://github.com/akhileshgulia72-dotcom/gta6-news-server/blob/main/images/Logitech%20Game%20Day_%20GTA%20VI%20Celebration%20(1).png?raw=true",
-    "source": "Fortune, VGC and Moneycontrol, November 11–12, 2026",
-    "article_content": "Imagine getting paid to play GTA VI! Logitech is making that dream a reality for its global workforce.\n\nThe company has introduced a new employee initiative called Logi Game Day, allowing approximately 7,000 employees, including eligible full-time workers and interns, to take one additional day off specifically for gaming.\n\nEmployees can choose any video game and use their gaming day between now and November 2027. However, the timing is particularly interesting because GTA VI launches on November 19, 2026.\n\nLogitech CEO Hanneke Faber has expressed support for gaming as a way to improve relaxation, creativity and employee engagement.\n\nThe company is also planning to transform its office into a gaming lounge on November 19, with its CEO expected to participate.\n\n🏢 Company: Logitech\n👥 Employees: Approximately 7,000\n🎮 Initiative: Logi Game Day\n🎁 Benefit: Additional Paid Gaming Day\n📅 GTA VI Launch: November 19, 2026\n🌴 Gaming Choice: Any Video Game\n\nSource: Fortune, VGC and Moneycontrol, November 2026",
-    "category": "GTA 6 Marketing",
-    "published_at": "2026-11-12T20:21:00Z",
-    "is_featured": true
-  },
-  {
-    "id": 220,
-    "created_at": "2026-11-13T01:31:00+05:30",
-    "title": "🤯 GTA 6 LOOKS SO REAL FANS THINK IT'S MIAMI — ROCKSTAR SHARES NEW FOOTAGE!",
-    "description": "A new 15-second GTA VI gameplay clip has gone viral after viewers initially mistook its realistic Vice City street scene for actual Miami footage. The video was shared by the popular Only in Dade account, and Rockstar subsequently reposted it on its official Instagram story.",
-    "image_url": "https://github.com/akhileshgulia72-dotcom/gta6-news-server/blob/main/images/Vice%20City%20Gameplay%20Goes%20Viral%20(1).png?raw=true",
-    "source": "NDTV, Dexerto and Kotaku, November 11–12, 2026",
-    "article_content": "Is this Miami or GTA VI? Fans are struggling to tell the difference!\n\nA new 15-second video showing customized supercars, pedestrians and a busy street has taken social media by storm just days before Grand Theft Auto VI launches.\n\nThe footage was originally shared by the Miami-based social media account Only in Dade on November 11. Many viewers initially believed they were watching an actual recording from Miami rather than gameplay footage.\n\nThe clip reportedly recreates a real-world promotional car showcase previously organized around Miami with Rockstar Games and West Coast Customs.\n\nRockstar Games subsequently shared the footage through its official Instagram story, bringing even more attention to the incredibly realistic visuals.\n\nFans have praised the detailed vehicles, pedestrians, lighting and street environments, with some joking that Vice City is becoming indistinguishable from real Miami.\n\n🎬 Footage: Approximately 15 Seconds\n📍 Location: Ocean Drive-Inspired Vice City Scene\n📱 Original Account: Only in Dade\n🏎️ Featured Content: Customized Cars and Pedestrians\n🔥 Rockstar: Shared the Clip on Instagram Story\n🚀 GTA VI Launch: November 19, 2026\n\nSource: NDTV, Dexerto and Kotaku, November 2026",
-    "category": "GTA 6 Gameplay",
-    "published_at": "2026-11-12T21:32:00Z",
-    "is_featured": true
   }
-
+  
 ]
