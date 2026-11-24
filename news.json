@@ -1,5 +1,41 @@
 [
   {
+    "id": 251,
+    "created_at": "2026-11-24T22:10:00+05:30",
+    "title": "🔧 GTA 6 GETS ITS FIRST POST-LAUNCH PATCH — ROCKSTAR FINALLY FIXES THE CHAOS!",
+    "description": "Rockstar Games has released GTA VI's first post-launch update, version 01.002.002, addressing several reported issues including crashes, autosave problems, stuck weather, story phone calls and wanted-level bugs. The patch also fixes several gameplay interaction issues.",
+    "image_url": "https://github.com/akhileshgulia72-dotcom/gta6-news-server/blob/main/images/GTA%20VI%20First%20Patch%20Is%20Here%20(1).png?raw=true",
+    "source": "Rockstar Games Support, Shacknews and Push Square, November 23–24, 2026",
+    "article_content": "ROCKSTAR FINALLY SENT THE REPAIR CREW TO VICE CITY!\n\nGrand Theft Auto VI has received its first post-launch patch following reports of crashes, progression issues and other gameplay problems.\n\nUpdate 01.002.002 reportedly introduces several fixes across PlayStation 5 and Xbox Series X|S, addressing crashes, autosave issues, stuck weather, missing story phone calls and wanted-level problems.\n\nThe update also reportedly fixes certain gym interactions and hand-over animations that were causing problems for some players.\n\nThis marks the first post-launch update with published patch notes, giving players a clearer idea of what Rockstar has addressed since release.\n\n🎮 Game: Grand Theft Auto VI\n🔧 Update: 01.002.002\n🛠️ Fixes: Crashes, Autosave, Weather and Gameplay Issues\n🎮 Platforms: PS5 and Xbox Series X|S\n📅 Update: November 23–24, 2026\n\n💬 Rockstar spent 13 years building Vice City and finally spent four days fixing the weather!",
+    "category": "GTA 6 Updates",
+    "published_at": "2026-11-24T16:00:00Z",
+    "is_featured": true
+  },
+  {
+    "id": 252,
+    "created_at": "2026-11-24T22:10:00+05:30",
+    "title": "💀 GTA 6 HAS A 99 CRITIC SCORE BUT 5.7 FROM PLAYERS — METACRITIC IS ON FIRE!",
+    "description": "Grand Theft Auto VI's Metacritic user score has reportedly dropped to around 5.7 despite its extraordinary critic score of 99. A wave of negative user ratings has sparked debate about genuine criticism, review-bombing and the reliability of launch-week player scores.",
+    "image_url": "https://github.com/akhileshgulia72-dotcom/gta6-news-server/blob/main/images/GTA%20VI%20Metacritic%20Score%20Showdown%20(1).png?raw=true",
+    "source": "Metacritic and Forbes, November 23–24, 2026",
+    "article_content": "99 FROM CRITICS. 5.7 FROM PLAYERS. THE INTERNET IS NOT PLAYING FAIR!\n\nGrand Theft Auto VI is facing a major user-score controversy on Metacritic, where its player rating has reportedly fallen to approximately 5.7 despite a near-perfect critic score.\n\nThe huge gap between critic reviews and user ratings has triggered discussions across gaming communities about review-bombing, legitimate criticism and the influence of coordinated negative ratings.\n\nSome players have criticized gameplay elements and technical issues, while others believe the user-score trend does not accurately represent the game's overall reception.\n\nThe controversy has become another major talking point during GTA VI's launch week, with millions of players debating the game's quality and experience.\n\n🎮 Game: Grand Theft Auto VI\n⭐ Critics' Metascore: 99\n📊 Reported User Score: 5.7\n🌐 Platform: Metacritic\n⚠️ Controversy: Review-Bombing Debate\n📅 Update: November 24, 2026\n\n💬 Rockstar delivered a blockbuster, and the internet responded with a group project where everyone gave it zero!",
+    "category": "GTA 6 Reviews",
+    "published_at": "2026-11-24T17:00:00Z",
+    "is_featured": true
+  },
+  {
+    "id": 253,
+    "created_at": "2026-11-24T22:10:00+05:30",
+    "title": "🖥️ GTA 6 PC LEAK SPARKS MODDING CHAOS — ROCKSTAR REPORTEDLY TAKES ACTION!",
+    "description": "Reports surrounding a leaked GTA VI Xbox build have sparked speculation that modders may attempt to run the game on PC. Rockstar is reportedly taking action against modding-related communities, although the leaked build's authenticity and the feasibility of a working PC version remain uncertain.",
+    "image_url": "https://github.com/akhileshgulia72-dotcom/gta6-news-server/blob/main/images/GTA%206%20PC%20Leak%20Chaos%20(1).png?raw=true",
+    "source": "Notebookcheck and Tweaktown, November 22–24, 2026",
+    "article_content": "PC GAMERS ARE TRYING TO BREAK INTO VICE CITY BEFORE ROCKSTAR EVEN OPENS THE DOOR!\n\nReports of a leaked Xbox build of Grand Theft Auto VI have triggered fresh discussions among PC modders and gaming communities.\n\nSome leak-related claims suggest that modders could attempt to make the game playable on PC using leaked Xbox files. However, the reported build and its contents have not been independently verified, and there is no confirmed working unofficial PC release.\n\nMeanwhile, reports suggest Rockstar Games is taking action against modding-related communities and Discord groups associated with the leak.\n\nThe situation remains uncertain, and players should be cautious about downloading unofficial GTA VI files, which may pose security risks.\n\n🎮 Game: Grand Theft Auto VI\n🖥️ Topic: Unofficial PC Port Attempts\n⚠️ Status: Reported Leak and Modding Claims\n🏢 Developer: Rockstar Games\n📅 Reports: November 24, 2026\n🔒 Official PC Release: Not Announced\n\n💬 PC gamers are so desperate that some are trying to turn Xbox files into a PC version before Rockstar even announces one!",
+    "category": "GTA 6 Updates",
+    "published_at": "2026-11-24T18:00:00Z",
+    "is_featured": true
+  },
+  {
     "id": 248,
     "created_at": "2026-11-23T22:19:00+05:30",
     "title": "💰 GTA 6 OFFICIALLY MAKES $3.79 BILLION ON DAY ONE — ROCKSTAR DESTROYS ENTERTAINMENT RECORDS!",
@@ -321,42 +357,6 @@
     "article_content": "Rockstar is taking in-game entertainment to another level. GTA VI is reportedly getting its own animated comedy series!\n\nA newly surfaced teaser has introduced Macca & Friends, an animated show connected to the fictional Weazel television channel inside Grand Theft Auto VI.\n\nThe preview features Macca, a pink alligator wearing sunglasses, who appears to be struggling financially and trying to avoid getting kicked out by his crab landlord, Pinchie.\n\nThe comedy teaser has attracted attention because it suggests that Rockstar is expanding the entertainment available inside the game's world beyond traditional television references.\n\nThe series is expected to appear on the in-game Weazel channel beginning November 19, alongside the scheduled launch of GTA VI.\n\nThe teaser reportedly first appeared through DiscussingFilm before receiving wider coverage from gaming publications.\n\nHowever, Rockstar has not provided a detailed official breakdown of the show's episode count or full storyline.\n\n📺 Series: Macca & Friends\n🐊 Main Character: Macca\n🦀 Supporting Character: Pinchie\n🎨 Format: Animated Comedy\n📡 In-Game Channel: Weazel TV\n📅 Expected Arrival: November 19, 2026\n🎮 Game: Grand Theft Auto VI\n⚠️ Details: Based on Media Reports and Teaser Coverage\n\nSource: IGN, GameSpot, Polygon and DiscussingFilm, November 2026",
     "category": "GTA 6 Entertainment",
     "published_at": "2026-11-14T22:30:00Z",
-    "is_featured": true
-  },
-          {
-    "id": 221,
-    "created_at": "2026-11-13T23:20:00+05:30",
-    "title": "🍔 GTA 6 BURGER SHOT GOES REAL — MIAMI RESTAURANTS TRANSFORM INTO VICE CITY!",
-    "description": "Miami burger chain Skinny Louie is expanding its GTA VI Burger Shot collaboration across its Florida restaurants. From November 13 to December 31, participating locations will feature Burger Shot branding, themed uniforms and special game-inspired menu items.",
-    "image_url": "https://github.com/akhileshgulia72-dotcom/gta6-news-server/blob/main/images/Burger%20Shot%20Vice%20City%20Takeover%20(1).png?raw=true",
-    "source": "IGN, November 13, 2026",
-    "article_content": "Vice City is officially invading the real world! GTA VI's iconic Burger Shot brand is getting a real-life restaurant takeover across Florida.\n\nAccording to IGN, Miami-based smash-burger chain Skinny Louie is expanding its Grand Theft Auto VI collaboration beyond its previous Miami Heat arena activation.\n\nStarting November 13, participating standalone Florida restaurants will receive Burger Shot-inspired signage, employee uniforms and a special game-themed menu.\n\nThe promotion is scheduled to continue until December 31, giving GTA fans an opportunity to experience one of the franchise's most recognizable fictional fast-food brands outside the game.\n\nInterestingly, this campaign arrives just six days before GTA VI's scheduled November 19 release.\n\n🍔 Brand: Burger Shot\n🏢 Real-World Partner: Skinny Louie\n📍 Location: Florida, USA\n📅 Promotion: November 13 – December 31\n🎮 Game: Grand Theft Auto VI\n🚀 Launch: November 19, 2026\n\nSource: IGN, November 13, 2026",
-    "category": "GTA 6 Marketing",
-    "published_at": "2026-11-13T18:00:00Z",
-    "is_featured": true
-  },
-  {
-    "id": 222,
-    "created_at": "2026-11-13T23:21:00+05:30",
-    "title": "🔥 YOUTUBE ANNOUNCES 24-HOUR GTA 6 LIVESTREAM — 30+ CREATORS JOIN THE CELEBRATION!",
-    "description": "YouTube and Rockstar Games are partnering for a massive 24-hour GTA VI launch livestream on November 19. The broadcast will feature live gameplay, creator podcasts and special content featuring more than 30 gaming personalities, including Indian creators Payal Gaming and Total Gaming.",
-    "image_url": "https://github.com/akhileshgulia72-dotcom/gta6-news-server/blob/main/images/GTA%20VI%2024-Hour%20Miami%20Livestream%20(1)%20(1).png?raw=true",
-    "source": "YouTube Official Blog, November 12, 2026",
-    "article_content": "GTA VI launch day is about to become an internet-wide gaming festival! YouTube has officially announced a special 24-hour livestream celebrating the arrival of Grand Theft Auto VI.\n\nThe event is being organized in partnership with Rockstar Games and will bring together more than 30 gaming creators and internet personalities from around the world.\n\nIndian fans will also see familiar faces, with popular creators Payal Gaming and Total Gaming included in the announced lineup.\n\nThe broadcast will begin with an RDCWorld-hosted pre-show on November 18 at 11 PM Eastern Time, followed by the main 24-hour livestream at midnight Eastern Time on November 19.\n\nViewers can expect live gameplay, creator podcasts, original content and special live coverage from Miami.\n\nYouTube is also introducing five limited-edition GTA VI-themed livestream gifts, including animated Wanted Stars, alongside a special Vice City Shorts effect.\n\n📺 Platform: YouTube\n⏰ Duration: 24 Hours\n👥 Creators: 30+\n🇮🇳 Indian Creators: Payal Gaming and Total Gaming\n🎤 Pre-Show: RDCWorld\n📅 Main Event: November 19, 2026\n🌎 Special Coverage: Miami\n🤝 Partnership: YouTube and Rockstar Games\n\nSource: YouTube Official Blog, November 12, 2026",
-    "category": "GTA 6 Marketing",
-    "published_at": "2026-11-13T19:00:00Z",
-    "is_featured": true
-  },
-  {
-    "id": 223,
-    "created_at": "2026-11-13T23:22:00+05:30",
-    "title": "😳 GTA 6 ALMOST GETS BANNED IN SOUTH KOREA — RATING BOARD SPLITS 3-3!",
-    "description": "Grand Theft Auto VI reportedly came close to being refused classification in South Korea after its ratings board initially split 3-3 over the game's frequent background male nudity. A subsequent vote resulted in an Adults Only classification, with eight members supporting the rating and one voting against it.",
-    "image_url": "https://github.com/akhileshgulia72-dotcom/gta6-news-server/blob/main/images/GTA%20VI%20South%20Korea%20Rating%20Showdown%20(1).png?raw=true",
-    "source": "Push Square and Inven, November 2026",
-    "article_content": "GTA VI almost faced a major release problem in South Korea just months before launch!\n\nAccording to reporting by Korean gaming outlet Inven, the country's Game Rating and Administration Committee initially reached a 3-3 split when deciding how to classify Rockstar's upcoming blockbuster.\n\nThree committee members supported an Adults Only rating, while three others reportedly wanted the game to be refused classification entirely.\n\nThe main controversy involved frequent background appearances of male genital nudity without an explicitly sexual context. Some committee members considered the content excessive compared with other video games.\n\nHowever, after further discussions and adjustments to the classification process, a second vote produced a different result.\n\nEight members supported an Adults Only classification, while only one voted for outright refusal.\n\nThis means GTA VI will be permitted for sale under South Korea's Adults Only rating rather than being completely banned.\n\n🎮 Game: Grand Theft Auto VI\n🌏 Country: South Korea\n⚖️ Initial Vote: 3–3 Split\n🔞 Final Classification: Adults Only\n📊 Final Vote: 8–1\n🏢 Rating Authority: Game Rating and Administration Committee\n🚀 Scheduled Launch: November 19, 2026\n\nSource: Inven and Push Square, November 2026",
-    "category": "GTA 6 Updates",
-    "published_at": "2026-11-13T20:00:00Z",
     "is_featured": true
   }
   
